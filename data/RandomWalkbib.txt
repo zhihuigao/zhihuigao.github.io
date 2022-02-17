@@ -1,0 +1,10 @@
+@article{jiao2021sampling,
+  title={Sampling Graphlets of Multiplex Networks: A Restricted Random Walk Approach},
+  author={Jiao, Simiao and Xue, Zihui and Chen, Xiaowei and Xu, Yuedong},
+  journal={ACM Transactions on the Web (TWEB)},
+  volume={15},
+  number={4},
+  pages={1--31},
+  year={2021},
+  publisher={ACM New York, NY}
+}
