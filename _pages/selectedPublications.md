@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 
-* Mambas: Maneuvering Analog Multi-User Beamforming using an Array of Subarrays in mmWave Networks.
-  **Zhihui Gao**, Zhenzhou Qi, Tingjun Chen.
-  <i> in Proc. ACM International Conference on Mobile Computing and Networking (**MobiCom'24**) </i>, 2024.
+* Mambas: Maneuvering Analog Multi-User Beamforming using an Array of Subarrays in mmWave Networks.<br>
+  **Zhihui Gao**, Zhenzhou Qi, Tingjun Chen.<br>
+  <i> in Proc. ACM International Conference on Mobile Computing and Networking (**MobiCom'24**) </i>, 2024.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Gao2024');">bibtex</a>]
   [[code](https://github.com/functions-lab/MAMBAS-MobiCom2024)]
   [[pdf](https://dl.acm.org/doi/pdf/10.1145/3636534.3649390)]
@@ -24,9 +24,9 @@ author_profile: true
   </pre>
   </div>
 
-* Swirls: Sniffing Wi-Fi using radios with low sampling rates.
-  **Zhihui Gao**, Yiran Chen, Tingjun Chen.
-  <i> in Proc. ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (**MobiHoc’23**) </i>, 2023.
+* Swirls: Sniffing Wi-Fi using radios with low sampling rates.<br>
+  **Zhihui Gao**, Yiran Chen, Tingjun Chen.<br>
+  <i> in Proc. ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (**MobiHoc’23**) </i>, 2023.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Gao2024');">bibtex</a>]
   [[code](https://github.com/functions-lab/SWIRLS-MobiHoc2023)]
   [[pdf](https://dl.acm.org/doi/abs/10.1145/3565287.3610279)]
@@ -42,9 +42,9 @@ author_profile: true
   </pre>
   </div>
 
-* Mom: Microphone based 3D orientation measurement.
-  **Zhihui Gao**, Ang Li, Dong Li, Jialin Liu, Jie Xiong, Yu Wang, Bing Li, Yiran Chen.
-  <i> in Proc. ACM/IEEE International Conference on Information Processing in Sensor Networks (**IPSN’22**) </i>, 2022.
+* Mom: Microphone based 3D orientation measurement.<br>
+  **Zhihui Gao**, Ang Li, Dong Li, Jialin Liu, Jie Xiong, Yu Wang, Bing Li, Yiran Chen.<br>
+  <i> in Proc. ACM/IEEE International Conference on Information Processing in Sensor Networks (**IPSN’22**) </i>, 2022.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Gao2024');">bibtex</a>]
   [[code](https://github.com/zhihuigao/IPSN2022-MOM)]
   [[pdf](https://ieeexplore.ieee.org/abstract/document/9826109)]
@@ -60,9 +60,9 @@ author_profile: true
   </pre>
   </div>
 
-* CRISLoc: Reconstructable CSI fingerprinting for indoor smartphone localization.
-  **Zhihui Gao**, Yunfan Gao, Sulei Wang, Dan Li, Yuedong Xu.
-  <i> IEEE Internet of Things Journal (**IoT Journal**) </i>, 2020.
+* CRISLoc: Reconstructable CSI fingerprinting for indoor smartphone localization.<br>
+  **Zhihui Gao**, Yunfan Gao, Sulei Wang, Dan Li, Yuedong Xu.<br>
+  <i> IEEE Internet of Things Journal (**IoT Journal**) </i>, 2020.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Gao2024');">bibtex</a>]
   [[dataset](https://github.com/zhihuigao/CRISLoc_dataset)]
   [[pdf](https://ieeexplore.ieee.org/abstract/document/9187854)]
