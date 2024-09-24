@@ -26,6 +26,7 @@ Mambas: Maneuvering analog multi-user beamforming using an array of subarrays in
   <i> Proc. ACM International Conference on Mobile Computing and Networking (**MobiCom'24**)</i>, 2024.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2024mambas');">bibtex</a>]
   [[code](https://github.com/functions-lab/MAMBAS-MobiCom2024)]
+  [[testbed](https://wiki.cosmos-lab.org/wiki/Tutorials/Wireless/mmwavePaamLinkRate)]
   [[pdf](https://dl.acm.org/doi/pdf/10.1145/3636534.3649390)]
   <!-- [[publisher](https://dl.acm.org/doi/10.1145/3636534.3649390)] -->
   <div id="bibtex-gao2024mambas" style="display:none">
