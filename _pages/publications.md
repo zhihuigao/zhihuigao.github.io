@@ -13,6 +13,7 @@ You can also find my articles on
 [2024](#year2024) | [2023](#year2023) | [2022](#year2022) | [2021](#year2021) | [2020](#year2020)
 
 
+
 ## <a name="year2024"></a> 2024
 * Mambas: Maneuvering analog multi-user beamforming using an array of subarrays in mmWave networks.<br>
   **Zhihui Gao**, Zhenzhou Qi, Tingjun Chen.<br>
@@ -32,25 +33,9 @@ You can also find my articles on
   </pre>
   </div>
 
-## <a name="year2023"></a> 2023
-* Geo2SigMap: High-fidelity RF signal mapping using geographic databases.
-  Yiming Li, Zeyu Li, **Zhihui Gao**, Tingjun Chen.
-  <i>2024 IEEE International Symposium on Dynamic Spectrum Access Networks (**DySPAN**)</i>, 2024.
-  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Li2023');">bibtex</a>]
-  [[code](https://github.com/functions-lab/geo2sigmap)]
-  [[pdf](https://arxiv.org/pdf/2312.14303)]
-  <div id="bibtex-Li2023" style="display:none">
-  <pre>
-  @article{Li2023,
-  author    = {Li, Yiming and Li, Zeyu and Gao, Zhihui and Chen, Tingjun},
-  title     = { {Geo2SigMap}: High-Fidelity {RF} Signal Mapping Using Geographic Databases},
-  year      = {2023},
-  doi       = {10.48550/ARXIV.2312.14303},
-  publisher = {arXiv},
-  }
-  </pre>
-  </div>
 
+
+## <a name="year2023"></a> 2023
 * Swirls: Sniffing Wi-Fi using radios with low sampling rates.<br>
   **Zhihui Gao**, Yiran Chen, Tingjun Chen.<br>
   <i> Proc. ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (**MobiHoc’23**) </i>, 2023.<br>
@@ -68,6 +53,8 @@ You can also find my articles on
     }
   </pre>
   </div>
+
+
 
 ## <a name="year2022"></a> 2022
 * Mom: Microphone based 3D orientation measurement.<br>
@@ -88,6 +75,8 @@ You can also find my articles on
   </pre>
   </div>
 
+
+
 ## <a name="year2021"></a> 2021
 * Hermes: Decentralized dynamic spectrum access system for massive devices deployment in 5G.<br>
   **Zhihui Gao**, Ang Li, Yunfan Gao, Yu Wang, Yiran Chen.<br>
@@ -107,9 +96,11 @@ You can also find my articles on
   </pre>
   </div>
 
+
+
 ## <a name="year2020"></a> 2020
 * CRISLoc: Reconstructable CSI fingerprinting for indoor smartphone localization.<br>
-  **Zhihui Gao**, Yunfan Gao, Sulei Wang, Dan Li, Yuedong Xu.<br>
+  **Zhihui Gao**\*, Yunfan Gao\*, Sulei Wang, Dan Li, Yuedong Xu.<br>
   <i> IEEE Internet of Things Journal (**IoT Journal**) </i>, 2020.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2020crisloc');">bibtex</a>]
   [[dataset](https://github.com/zhihuigao/CRISLoc_dataset)]
