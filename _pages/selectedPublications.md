@@ -42,7 +42,7 @@ author_profile: true
   </pre>
   </div>
 
-  * Mom: Microphone based 3D orientation measurement.
+* Mom: Microphone based 3D orientation measurement.
   **Zhihui Gao**, Ang Li, Dong Li, Jialin Liu, Jie Xiong, Yu Wang, Bing Li, Yiran Chen.
   <i> in Proc. ACM/IEEE International Conference on Information Processing in Sensor Networks (**IPSN’22**) </i>, 2022.
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Gao2024');">bibtex</a>]
@@ -60,7 +60,7 @@ author_profile: true
   </pre>
   </div>
 
-  * CRISLoc: Reconstructable CSI fingerprinting for indoor smartphone localization.
+* CRISLoc: Reconstructable CSI fingerprinting for indoor smartphone localization.
   **Zhihui Gao**, Yunfan Gao, Sulei Wang, Dan Li, Yuedong Xu.
   <i> IEEE Internet of Things Journal (**IoT Journal**) </i>, 2020.
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Gao2024');">bibtex</a>]
