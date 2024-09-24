@@ -56,6 +56,43 @@ You can also find my articles on
   </pre>
   </div>
 
+* Programmable millimeter-wave MIMO radios with real-time baseband processing.<br>
+  Zhenzhou Qi, **Zhihui Gao**, Chung-Hsuan Tung, and Tingjun Chen.<br>
+  <i> Proc. ACM MobiCom23 Workshop on Wireless Network Testbeds, Experimental Evaluation \& CHaracterization (**WiNTECH’23**) </i>, 2023.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2023swirls');">bibtex</a>]
+  [[pdf](https://dl.acm.org/doi/10.1145/3615453.3616521)]
+  <!-- [[publisher](https://dl.acm.org/doi/10.1145/3615453.3616521)] -->
+  <div id="bibtex-gao2023swirls" style="display:none">
+  <pre>
+    @inproceedings{qi2023programmable,
+      title={Programmable millimeter-wave {MIMO} radios with real-time baseband processing},
+      author={Qi, Zhenzhou and Gao, Zhihui and Tung, Chung-Hsuan and Chen, Tingjun},
+      booktitle={Proc. ACM WiNTECH’23},
+      year={2023}
+    }
+  </pre>
+  </div>
+
+*  Open-access millimeter-wave software-defined radios in the PAWR COSMOS testbed: Design, deployment, and experimentation.<br>
+  Tingjun Chen, Prasanthi Maddala, Panagiotis Skrimponis, Jakub Kolodziejski, Abhishek Adhikari, Hang Hu, **Zhihui Gao**, Arun Paidimarri, Alberto Valdes-Garcia, Myung Lee, Sundeep Rangan, Gil Zussman, Ivan Seskar.<br>
+  <i> (INVITED) Elsevier Computer Networks (**COMNET’23**) </i>, 2023.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-chen2023open');">bibtex</a>]
+  [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S1389128623003675?via%3Dihub)]
+  <!-- [[publisher](https://www.sciencedirect.com/science/article/abs/pii/S1389128623003675?via%3Dihub)] -->
+  <div id="bibtex-chen2023open" style="display:none">
+  <pre>
+    @article{chen2023open,
+      title={Open-access millimeter-wave software-defined radios in the {PAWR} {COSMOS} testbed: Design, deployment, and experimentation},
+      author={Chen, Tingjun and Maddala, Prasanthi and Skrimponis, Panagiotis and Kolodziejski, Jakub and Adhikari, Abhishek and Hu, Hang and Gao, Zhihui and Paidimarri, Arun and Valdes-Garcia, Alberto and Lee, Myung and others},
+      journal={Computer Networks},
+      volume={234},
+      pages={109922},
+      year={2023},
+      publisher={Elsevier}
+    }
+  </pre>
+  </div>
+
 
 
 ## <a name="year2022"></a> 2022
