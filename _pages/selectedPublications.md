@@ -61,7 +61,7 @@ author_profile: true
   </div>
 
 * CRISLoc: Reconstructable CSI fingerprinting for indoor smartphone localization.<br>
-  **Zhihui Gao**, Yunfan Gao, Sulei Wang, Dan Li, Yuedong Xu.<br>
+  **Zhihui Gao**\*, Yunfan Gao\*, Sulei Wang, Dan Li, Yuedong Xu.<br>
   <i> IEEE Internet of Things Journal (**IoT Journal**) </i>, 2020.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2020crisloc');">bibtex</a>]
   [[dataset](https://github.com/zhihuigao/CRISLoc_dataset)]
