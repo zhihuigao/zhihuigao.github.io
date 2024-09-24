@@ -16,7 +16,7 @@ You can also find my articles on
 ## <a name="year2024"></a> 2024
 * Mambas: Maneuvering analog multi-user beamforming using an array of subarrays in mmWave networks.<br>
   **Zhihui Gao**, Zhenzhou Qi, Tingjun Chen.<br>
-  <i> in Proc. ACM International Conference on Mobile Computing and Networking (**MobiCom'24**) </i>, 2024.<br>
+  <i> Proc. ACM International Conference on Mobile Computing and Networking (**MobiCom'24**) </i>, 2024.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2024mambas');">bibtex</a>]
   [[code](https://github.com/functions-lab/MAMBAS-MobiCom2024)]
   [[pdf](https://dl.acm.org/doi/pdf/10.1145/3636534.3649390)]
@@ -31,7 +31,6 @@ You can also find my articles on
     }
   </pre>
   </div>
-
 
 ## <a name="year2023"></a> 2023
 * Geo2SigMap: High-fidelity RF signal mapping using geographic databases.
@@ -54,7 +53,7 @@ You can also find my articles on
 
 * Swirls: Sniffing Wi-Fi using radios with low sampling rates.<br>
   **Zhihui Gao**, Yiran Chen, Tingjun Chen.<br>
-  <i> in Proc. ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (**MobiHoc’23**) </i>, 2023.<br>
+  <i> Proc. ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (**MobiHoc’23**) </i>, 2023.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2023swirls');">bibtex</a>]
   [[code](https://github.com/functions-lab/SWIRLS-MobiHoc2023)]
   [[pdf](https://dl.acm.org/doi/abs/10.1145/3565287.3610279)]
@@ -73,7 +72,7 @@ You can also find my articles on
 ## <a name="year2022"></a> 2022
 * Mom: Microphone based 3D orientation measurement.<br>
   **Zhihui Gao**, Ang Li, Dong Li, Jialin Liu, Jie Xiong, Yu Wang, Bing Li, Yiran Chen.<br>
-  <i> in Proc. ACM/IEEE International Conference on Information Processing in Sensor Networks (**IPSN’22**) </i>, 2022.<br>
+  <i> Proc. ACM/IEEE International Conference on Information Processing in Sensor Networks (**IPSN’22**) </i>, 2022.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2022mom');">bibtex</a>]
   [[code](https://github.com/zhihuigao/IPSN2022-MOM)]
   [[pdf](https://ieeexplore.ieee.org/abstract/document/9826109)]
@@ -90,6 +89,23 @@ You can also find my articles on
   </div>
 
 ## <a name="year2021"></a> 2021
+* Hermes: Decentralized dynamic spectrum access system for massive devices deployment in 5G.<br>
+  **Zhihui Gao**, Ang Li, Yunfan Gao, Yu Wang, Yiran Chen.<br>
+  <i> Proc. International Conference on Embedded Wireless Systems and Networks (**EWSN'21**) </i>, 2021.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2021hermes');">bibtex</a>]
+  [[dataset](https://github.com/zhihuigao/CRISLoc_dataset)]
+  [[pdf](https://ieeexplore.ieee.org/abstract/document/9187854)]
+  <!-- [[publisher](https://ieeexplore.ieee.org/abstract/document/9187854)] -->
+  <div id="bibtex-gao2021hermes" style="display:none">
+  <pre>
+    @article{gao2021hermes,
+      title={Hermes: Decentralized dynamic spectrum access system for massive devices deployment in {5G}},
+      author={Gao, Zhihui and Li, Ang and Gao, Yunfan and Wang, Yu and Chen, Yiran},
+      booktitle={Proc. ACM EWSN'21},
+      year={2021},
+    }
+  </pre>
+  </div>
 
 ## <a name="year2020"></a> 2020
 * CRISLoc: Reconstructable CSI fingerprinting for indoor smartphone localization.<br>
