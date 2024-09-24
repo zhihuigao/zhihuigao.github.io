@@ -16,6 +16,16 @@ You can also find my articles on
 
 ## <a name="year2024"></a> 2024
 
+* SPEAR: Software-defined Python-Enhanced RFSoC for wideband radio applications.<br>
+  Wei Cheng, **Zhihui Gao**, and Tingjun Chen.<br>
+  <i> Proc. ACM MobiCom'24 Workshop on Wireless Network Testbeds, Experimental Evaluation & CHaracterization (**WiNTECH’24**) </i>, 2024.<br>
+  To appear
+
+* DeepMon: Wi-Fi monitoring using sub-Nyquist sampling rate receivers with deep learning.<br>
+  Yunjia Zhang\*, **Zhihui Gao**\*, and Tingjun Chen.<br>
+  <i> Proc. ACM MobiCom'24 Workshop on Machine Learning for NextG Networks (**MLNextG’24**) </i>, 2024.<br>
+  To appear
+
 * Mambas: Maneuvering analog multi-user beamforming using an array of subarrays in mmWave networks.<br>
   **Zhihui Gao**, Zhenzhou Qi, Tingjun Chen.<br>
   <i> Proc. ACM International Conference on Mobile Computing and Networking (**MobiCom'24**) </i>, 2024.<br>
@@ -29,6 +39,24 @@ You can also find my articles on
       title={Mambas: Maneuvering analog multi-user beamforming using an array of subarrays in {mmWave} networks},
       author={Gao, Zhihui and Qi, Zhenzhou and Chen, Tingjun},
       booktitle={Proc. ACM MobiCom'24},
+      year={2024}
+    }
+  </pre>
+  </div>
+
+* Geo2SigMap: High-fidelity RF signal mapping using geographic databases.<br>
+  Yiming Li, Zeyu Li, **Zhihui Gao**, Tingjun Chen.<br>
+  <i> Proc. IEEE International Symposium on Dynamic Spectrum Access Networks (**DySPAN’24**) </i>, 2024.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-li2024geo2sigmap');">bibtex</a>]
+  [[code](https://github.com/functions-lab/geo2sigmap)]
+  [[pdf](https://ieeexplore.ieee.org/document/10632773)]
+  <!-- [[publisher](https://ieeexplore.ieee.org/document/10632773)] -->
+  <div id="bibtex-li2024geo2sigmap" style="display:none">
+  <pre>
+    @inproceedings{li2024geo2sigmap,
+      title={Geo2SigMap: High-fidelity {RF} signal mapping using geographic databases},
+      author={Li, Yiming and Li, Zeyu and Gao, Zhihui and Chen, Tingjun},
+      booktitle={Proc. IEEE DySPAN'24},
       year={2024}
     }
   </pre>
@@ -58,7 +86,7 @@ You can also find my articles on
 
 * Programmable millimeter-wave MIMO radios with real-time baseband processing.<br>
   Zhenzhou Qi, **Zhihui Gao**, Chung-Hsuan Tung, and Tingjun Chen.<br>
-  <i> Proc. ACM MobiCom23 Workshop on Wireless Network Testbeds, Experimental Evaluation \& CHaracterization (**WiNTECH’23**) </i>, 2023.<br>
+  <i> Proc. ACM MobiCom'23 Workshop on Wireless Network Testbeds, Experimental Evaluation & CHaracterization (**WiNTECH’23**) </i>, 2023.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2023swirls');">bibtex</a>]
   [[pdf](https://dl.acm.org/doi/10.1145/3615453.3616521)]
   <!-- [[publisher](https://dl.acm.org/doi/10.1145/3615453.3616521)] -->
