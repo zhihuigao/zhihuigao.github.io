@@ -10,13 +10,15 @@ You can also find my articles on
 
 {% include base_path %}
 
-[2024](#year2024) | [2023](#year2023) | [2022](#year2022) | [2021](#year2021) | [2020](#year2020)
+
+
+## [2024](#year2024) | [2023](#year2023) | [2022](#year2022) | [2021](#year2021) | [2020](#year2020)
 
 
 
 ## <a name="year2024"></a> 2024
 
-* Demo: Real-time Wideband Software-defined Radio with Python Programmability based on RFSoC.<br>
+* Demo: Real-time wideband software-defined radio with Python programmability based on RFSoC.<br>
   Wei Cheng, **Zhihui Gao**, and Tingjun Chen.<br>
   <i> Proc. ACM International Conference on Mobile Computing and Networking (**MobiCom'24**) </i>, 2024.<br>
   To appear
