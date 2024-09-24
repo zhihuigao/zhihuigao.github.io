@@ -168,10 +168,10 @@ You can also find my articles on
 * An audio frequency unfolding framework for ultra-low sampling rate sensors.<br>
   **Zhihui Gao**, Minxue Tang, Ang Li, Yiran Chen.<br>
   <i> (INVITED) Proc. IEEE International Symposium on Quality Electronic Design (**ISQED’22**) </i>, 2022.<br>
-  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2022mom');">bibtex</a>]
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2022audio');">bibtex</a>]
   [[pdf](https://ieeexplore.ieee.org/document/9806149)]
   <!-- [[publisher](https://ieeexplore.ieee.org/document/9806149)] -->
-  <div id="bibtex-gao2022mom" style="display:none">
+  <div id="bibtex-gao2022audio" style="display:none">
   <pre>
     @inproceedings{gao2022audio,
       title={An audio frequency unfolding framework for ultra-low sampling rate sensors},
