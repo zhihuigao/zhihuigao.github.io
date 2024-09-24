@@ -60,6 +60,23 @@ You can also find my articles on
 
 ## <a name="year2022"></a> 2022
 
+* Next generation federated learning for edge devices: An overview.<br>
+  Jianyi Zhang, Zhixu Du, Jingwei Sun, Ang Li, Minxue Tang, Yuhao Wu, **Zhihui Gao**, Martin Kuo, Hai-Helen Li, Yiran Chen.<br>
+  <i>  (INVITED) In Proc. IEEE International Conference on Collaboration and Internet Computing (**CIC’22**) </i>, 2022.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-zhang2022next');">bibtex</a>]
+  [[pdf](https://ieeexplore.ieee.org/abstract/document/10061731)]
+  <!-- [[publisher](https://ieeexplore.ieee.org/abstract/document/10061731)] -->
+  <div id="bibtex-zhang2022next" style="display:none">
+  <pre>
+    @inproceedings{zhang2022next,
+      title={Next generation federated learning for edge devices: An overview},
+      author={Zhang, Jianyi and Du, Zhixu and Sun, Jingwei and Li, Ang and Tang, Minxue and Wu, Yuhao and Gao, Zhihui and Kuo, Martin and Li, Hai-Helen and Chen, Yiran},
+      booktitle={Proc. IEEE CIC'22},
+      year={2022}
+    }
+  </pre>
+  </div>
+
 * Mom: Microphone based 3D orientation measurement.<br>
   **Zhihui Gao**, Ang Li, Dong Li, Jialin Liu, Jie Xiong, Yu Wang, Bing Li, Yiran Chen.<br>
   <i> Proc. ACM/IEEE International Conference on Information Processing in Sensor Networks (**IPSN’22**) </i>, 2022.<br>
@@ -78,6 +95,23 @@ You can also find my articles on
   </pre>
   </div>
 
+* An audio frequency unfolding framework for ultra-low sampling rate sensors.<br>
+  **Zhihui Gao**, Minxue Tang, Ang Li, Yiran Chen.<br>
+  <i> (INVITED) Proc. IEEE International Symposium on Quality Electronic Design (**ISQED’22**) </i>, 2022.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2022mom');">bibtex</a>]
+  [[pdf](https://ieeexplore.ieee.org/document/9806149)]
+  <!-- [[publisher](https://ieeexplore.ieee.org/document/9806149)] -->
+  <div id="bibtex-gao2022mom" style="display:none">
+  <pre>
+    @inproceedings{gao2022audio,
+      title={An audio frequency unfolding framework for ultra-low sampling rate sensors},
+      author={Gao, Zhihui and Tang, Minxue and Li, Ang and Chen, Yiran},
+      booktitle={Proc. IEEE ISQED'22},
+      year={2022}
+    }
+  </pre>
+  </div>
+
 
 
 ## <a name="year2021"></a> 2021
@@ -86,8 +120,8 @@ You can also find my articles on
   **Zhihui Gao**, Ang Li, Yunfan Gao, Bing Li, Yu Wang, Yiran Chen.<br>
   <i> (INVITED) Proc. IEEE/ACM International Conference On Computer Aided Design (**ICCAD’21**) </i>, 2021.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2021fedswap');">bibtex</a>]
-  [[pdf](https://ieeexplore.ieee.org/abstract/document/9187854)]
-  <!-- [[publisher](https://ieeexplore.ieee.org/abstract/document/9187854)] -->
+  [[pdf](https://ieeexplore.ieee.org/document/9643496)]
+  <!-- [[publisher](https://ieeexplore.ieee.org/document/9643496)] -->
   <div id="bibtex-gao2021fedswap" style="display:none">
   <pre>
     @inproceedings{gao2021fedswap,
