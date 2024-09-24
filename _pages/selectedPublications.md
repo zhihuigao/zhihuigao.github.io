@@ -30,7 +30,7 @@ author_profile: true
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Gao2024');">bibtex</a>]
   [[code](https://github.com/functions-lab/SWIRLS-MobiHoc2023)]
   [[pdf](https://dl.acm.org/doi/abs/10.1145/3565287.3610279)]
-  <!-- [[publisher](https://ieeexplore.ieee.org/abstract/document/9826109)] -->
+  <!-- [[publisher](https://dl.acm.org/doi/abs/10.1145/3565287.3610279)] -->
   <div id="bibtex-Gao2024" style="display:none">
   <pre>
     @inproceedings{gao2023swirls,
@@ -47,8 +47,8 @@ author_profile: true
   <i> in Proc. ACM/IEEE International Conference on Information Processing in Sensor Networks (**IPSN’22**) </i>, 2022.
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Gao2024');">bibtex</a>]
   [[code](https://github.com/zhihuigao/IPSN2022-MOM)]
-  [[pdf]([https://dl.acm.org/doi/abs/10.1145/3565287.3610279](https://ieeexplore.ieee.org/abstract/document/9826109))]
-  <!-- [[publisher]([https://dl.acm.org/doi/10.1145/3636534.3649390](https://dl.acm.org/doi/abs/10.1145/3565287.3610279))] -->
+  [[pdf](https://ieeexplore.ieee.org/abstract/document/9826109)]
+  <!-- [[publisher](https://ieeexplore.ieee.org/abstract/document/9826109)] -->
   <div id="bibtex-Gao2024" style="display:none">
   <pre>
     @inproceedings{gao2022mom,
@@ -56,6 +56,28 @@ author_profile: true
       author={Gao, Zhihui and Li, Ang and Li, Dong and Liu, Jialin and Xiong, Jie and Wang, Yu and Li, Bing and Chen, Yiran},
       booktitle={Proc. ACM/IEEE IPSN'22},
       year={2022},
+    }
+  </pre>
+  </div>
+
+  * CRISLoc: Reconstructable CSI fingerprinting for indoor smartphone localization.
+  **Zhihui Gao**, Yunfan Gao, Sulei Wang, Dan Li, Yuedong Xu.
+  <i> IEEE Internet of Things Journal (**IoT Journal**) </i>, 2020.
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Gao2024');">bibtex</a>]
+  [[dataset](https://github.com/zhihuigao/CRISLoc_dataset)]
+  [[pdf](https://ieeexplore.ieee.org/abstract/document/9187854)]
+  <!-- [[publisher](https://ieeexplore.ieee.org/abstract/document/9187854)] -->
+  <div id="bibtex-Gao2024" style="display:none">
+  <pre>
+    @article{gao2020crisloc,
+      title={CRISLoc: Reconstructable {CSI} fingerprinting for indoor smartphone localization},
+      author={Gao, Zhihui and Gao, Yunfan and Wang, Sulei and Li, Dan and Xu, Yuedong},
+      journal={IEEE Internet of Things Journal},
+      volume={8},
+      number={5},
+      pages={3422--3437},
+      year={2020},
+      publisher={IEEE}
     }
   </pre>
   </div>
