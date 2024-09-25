@@ -41,8 +41,8 @@ Mambas: Maneuvering analog multi-user beamforming using an array of subarrays in
   </div>
 
 <br>
-<br>
-![image](https://zhihuigao.github.io/images/SWIRLS.png){: style="float: left;  margin-top: 0.3em; margin-right: 1em; margin-bottom: 3em" width="200"}
+<be>
+![image](https://zhihuigao.github.io/images/SWIRLS.png){: style="float: left; margin-top: 0.3em; margin-right: 1em;" width="200"}
 Swirls: Sniffing Wi-Fi using radios with low sampling rates.<br>
   **Zhihui Gao**, Yiran Chen, Tingjun Chen.<br>
   <i> Proc. ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (**MobiHoc’23**)</i>, 2023.<br>
