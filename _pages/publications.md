@@ -96,7 +96,6 @@ You can also find my articles on
   Zhenzhou Qi, **Zhihui Gao**, Chung-Hsuan Tung, and Tingjun Chen.<br>
   <i> Proc. ACM MobiCom'23 Workshop on Wireless Network Testbeds, Experimental Evaluation & CHaracterization (**WiNTECH’23**) </i>, 2023.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-qi2023programmable');">bibtex</a>]
-  [[testbed](https://wiki.cosmos-lab.org/wiki/Tutorials/Wireless/mmwavePaamLinkRate)]
   [[pdf](https://dl.acm.org/doi/10.1145/3615453.3616521)]
   <!-- [[publisher](https://dl.acm.org/doi/10.1145/3615453.3616521)] -->
   <div id="bibtex-qi2023programmable" style="display:none">
