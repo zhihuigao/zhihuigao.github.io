@@ -18,11 +18,6 @@ You can also find my articles on
 
 ## <a name="year2024"></a> 2024
 
-* Demo: Real-time wideband software-defined radio with Python programmability based on RFSoC.<br>
-  Wei Cheng, **Zhihui Gao**, and Tingjun Chen.<br>
-  <i> Proc. ACM International Conference on Mobile Computing and Networking (**MobiCom'24**) </i>, 2024.<br>
-  To appear
-
 * SPEAR: Software-defined Python-Enhanced RFSoC for wideband radio applications.<br>
   Wei Cheng, **Zhihui Gao**, and Tingjun Chen.<br>
   <i> Proc. ACM MobiCom'24 Workshop on Wireless Network Testbeds, Experimental Evaluation & CHaracterization (**WiNTECH’24**) </i>, 2024.<br>
@@ -109,7 +104,7 @@ You can also find my articles on
   </pre>
   </div>
 
-*  Open-access millimeter-wave software-defined radios in the PAWR COSMOS testbed: Design, deployment, and experimentation.<br>
+* Open-access millimeter-wave software-defined radios in the PAWR COSMOS testbed: Design, deployment, and experimentation.<br>
   Tingjun Chen, Prasanthi Maddala, Panagiotis Skrimponis, Jakub Kolodziejski, Abhishek Adhikari, Hang Hu, **Zhihui Gao**, Arun Paidimarri, Alberto Valdes-Garcia, Myung Lee, Sundeep Rangan, Gil Zussman, Ivan Seskar.<br>
   <i> (INVITED) Elsevier Computer Networks (**COMNET’23**) </i>, 2023.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-chen2023open');">bibtex</a>]
