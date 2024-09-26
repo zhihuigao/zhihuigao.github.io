@@ -13,8 +13,10 @@ Previously, I obtained my bachelor's degree in electrical engineering at Fudan U
 
 Research Interests:
 -----
-- Next-Generation Wireless Networks and Systems
-- Machine Learning for Networking
+- Machine Learning Acceleration
+- Millimeter Wave Communication and Sensing
+- Spectrum Sensing
+
 
 
 Selected Publications
