@@ -106,7 +106,7 @@ You can also find my articles on
 
 * Open-access millimeter-wave software-defined radios in the PAWR COSMOS testbed: Design, deployment, and experimentation.<br>
   Tingjun Chen, Prasanthi Maddala, Panagiotis Skrimponis, Jakub Kolodziejski, Abhishek Adhikari, Hang Hu, **Zhihui Gao**, Arun Paidimarri, Alberto Valdes-Garcia, Myung Lee, Sundeep Rangan, Gil Zussman, Ivan Seskar.<br>
-  <i> (INVITED) Elsevier Computer Networks (**COMNET’23**) </i>, 2023.<br>
+  <i> (INVITED) Elsevier Computer Networks (**COMNET**) </i>, 2023.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-chen2023open');">bibtex</a>]
   [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S1389128623003675?via%3Dihub)]
   <!-- [[publisher](https://www.sciencedirect.com/science/article/abs/pii/S1389128623003675?via%3Dihub)] -->
