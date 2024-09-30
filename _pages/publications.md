@@ -24,7 +24,7 @@ You can also find my articles on
   To appear
 
 * DeepMon: Wi-Fi monitoring using sub-Nyquist sampling rate receivers with deep learning.<br>
-  Yunjia Zhang\*, **Zhihui Gao**\*, and Tingjun Chen.<br>
+  **Zhihui Gao**\*, Yunjia Zhang\*, and Tingjun Chen.<br>
   <i> Proc. ACM MobiCom'24 Workshop on Machine Learning for NextG Networks (**MLNextG’24**) </i>, 2024.<br>
   To appear
 
