@@ -18,6 +18,11 @@ You can also find my articles on
 
 ## <a name="year2024"></a> 2024
 
+* Demo: Real-time Wideband Software-defined Radio with Python Programmability based on RFSoC.<br>
+  Wei Cheng, **Zhihui Gao**, and Tingjun Chen.<br>
+  <i> Proc. ACM International Conference on Mobile Computing and Networking (**MobiCom'24 Demo**) </i>, 2024.<br>
+  To appear
+
 * SPEAR: Software-defined Python-Enhanced RFSoC for wideband radio applications.<br>
   Wei Cheng, **Zhihui Gao**, and Tingjun Chen.<br>
   <i> Proc. ACM MobiCom'24 Workshop on Wireless Network Testbeds, Experimental Evaluation & CHaracterization (**WiNTECH’24**) </i>, 2024.<br>
