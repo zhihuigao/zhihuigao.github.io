@@ -26,12 +26,12 @@ You can also find my articles on
   <!-- [[publisher](https://dl.acm.org/doi/pdf/10.1145/3636534.3697310)] -->
   <div id="bibtex-cheng2024spear" style="display:none">
   <pre>
-    @inproceedings{cheng2024spear,
-      title={Spear: Software-defined Python-enhanced {RFSoC} for wideband radio applications},
-      author={Cheng, Wei and Gao, Zhihui and Chen, Tingjun},
-      booktitle={Proc. ACM WiNTECH’24},
-      year={2024}
-    }
+@inproceedings{cheng2024spear,
+  title={Spear: Software-defined Python-enhanced {RFSoC} for wideband radio applications},
+  author={Cheng, Wei and Gao, Zhihui and Chen, Tingjun},
+  booktitle={Proc. ACM WiNTECH’24},
+  year={2024}
+}
   </pre>
   </div>
 
@@ -43,12 +43,12 @@ You can also find my articles on
   <!-- [[publisher](https://dl.acm.org/doi/pdf/10.1145/3636534.3698855)] -->
   <div id="bibtex-cheng2024real" style="display:none">
   <pre>
-    @inproceedings{cheng2024real,
-      title={Real-time wideband software-defined radio with Python programmability based on {RFSoC}},
-      author={Cheng, Wei and Gao, Zhihui and Chen, Tingjun},
-      booktitle={Proc. ACM MobiCom'24 Demo},
-      year={2024}
-    }
+@inproceedings{cheng2024real,
+  title={Real-time wideband software-defined radio with Python programmability based on {RFSoC}},
+  author={Cheng, Wei and Gao, Zhihui and Chen, Tingjun},
+  booktitle={Proc. ACM MobiCom'24 Demo},
+  year={2024}
+}
   </pre>
   </div>
 
@@ -61,12 +61,12 @@ You can also find my articles on
   <!-- [[publisher](https://dl.acm.org/doi/10.1145/3636534.3649390)] -->
   <div id="bibtex-gao2024deepmon" style="display:none">
   <pre>
-    @inproceedings{gao2024deepmon,
-      title={DeepMon: {Wi-Fi} monitoring using sub-Nyquist sampling rate receivers with deep learning},
-      author={Gao, Zhihui and Zhang, Yunjia and Chen, Tingjun},
-      booktitle={Proc. ACM MLNextG'24},
-      year={2024}
-    }
+@inproceedings{gao2024deepmon,
+  title={DeepMon: {Wi-Fi} monitoring using sub-Nyquist sampling rate receivers with deep learning},
+  author={Gao, Zhihui and Zhang, Yunjia and Chen, Tingjun},
+  booktitle={Proc. ACM MLNextG'24},
+  year={2024}
+}
   </pre>
   </div>
 
@@ -80,12 +80,12 @@ You can also find my articles on
   <!-- [[publisher](https://dl.acm.org/doi/10.1145/3636534.3649390)] -->
   <div id="bibtex-gao2024mambas" style="display:none">
   <pre>
-    @inproceedings{gao2024mambas,
-      title={Mambas: Maneuvering analog multi-user beamforming using an array of subarrays in {mmWave} networks},
-      author={Gao, Zhihui and Qi, Zhenzhou and Chen, Tingjun},
-      booktitle={Proc. ACM MobiCom'24},
-      year={2024}
-    }
+@inproceedings{gao2024mambas,
+  title={Mambas: Maneuvering analog multi-user beamforming using an array of subarrays in {mmWave} networks},
+  author={Gao, Zhihui and Qi, Zhenzhou and Chen, Tingjun},
+  booktitle={Proc. ACM MobiCom'24},
+  year={2024}
+}
   </pre>
   </div>
 
@@ -98,12 +98,12 @@ You can also find my articles on
   <!-- [[publisher](https://ieeexplore.ieee.org/document/10632773)] -->
   <div id="bibtex-li2024geo2sigmap" style="display:none">
   <pre>
-    @inproceedings{li2024geo2sigmap,
-      title={Geo2SigMap: High-fidelity {RF} signal mapping using geographic databases},
-      author={Li, Yiming and Li, Zeyu and Gao, Zhihui and Chen, Tingjun},
-      booktitle={Proc. IEEE DySPAN'24},
-      year={2024}
-    }
+@inproceedings{li2024geo2sigmap,
+  title={Geo2SigMap: High-fidelity {RF} signal mapping using geographic databases},
+  author={Li, Yiming and Li, Zeyu and Gao, Zhihui and Chen, Tingjun},
+  booktitle={Proc. IEEE DySPAN'24},
+  year={2024}
+}
   </pre>
   </div>
 
@@ -120,12 +120,12 @@ You can also find my articles on
   <!-- [[publisher](https://dl.acm.org/doi/abs/10.1145/3565287.3610279)] -->
   <div id="bibtex-gao2023swirls" style="display:none">
   <pre>
-    @inproceedings{gao2023swirls,
-      title={Swirls: Sniffing {Wi-Fi} using radios with low sampling rates},
-      author={Gao, Zhihui and Chen, Yiran and Chen, Tingjun},
-      booktitle={Proc. ACM MobiHoc'23},
-      year={2023}}
-    }
+@inproceedings{gao2023swirls,
+  title={Swirls: Sniffing {Wi-Fi} using radios with low sampling rates},
+  author={Gao, Zhihui and Chen, Yiran and Chen, Tingjun},
+  booktitle={Proc. ACM MobiHoc'23},
+  year={2023}}
+}
   </pre>
   </div>
 
@@ -137,12 +137,12 @@ You can also find my articles on
   <!-- [[publisher](https://dl.acm.org/doi/10.1145/3615453.3616521)] -->
   <div id="bibtex-qi2023programmable" style="display:none">
   <pre>
-    @inproceedings{qi2023programmable,
-      title={Programmable millimeter-wave {MIMO} radios with real-time baseband processing},
-      author={Qi, Zhenzhou and Gao, Zhihui and Tung, Chung-Hsuan and Chen, Tingjun},
-      booktitle={Proc. ACM WiNTECH’23},
-      year={2023}
-    }
+@inproceedings{qi2023programmable,
+  title={Programmable millimeter-wave {MIMO} radios with real-time baseband processing},
+  author={Qi, Zhenzhou and Gao, Zhihui and Tung, Chung-Hsuan and Chen, Tingjun},
+  booktitle={Proc. ACM WiNTECH’23},
+  year={2023}
+}
   </pre>
   </div>
 
@@ -154,15 +154,15 @@ You can also find my articles on
   <!-- [[publisher](https://www.sciencedirect.com/science/article/abs/pii/S1389128623003675?via%3Dihub)] -->
   <div id="bibtex-chen2023open" style="display:none">
   <pre>
-    @article{chen2023open,
-      title={Open-access millimeter-wave software-defined radios in the {PAWR} {COSMOS} testbed: Design, deployment, and experimentation},
-      author={Chen, Tingjun and Maddala, Prasanthi and Skrimponis, Panagiotis and Kolodziejski, Jakub and Adhikari, Abhishek and Hu, Hang and Gao, Zhihui and Paidimarri, Arun and Valdes-Garcia, Alberto and Lee, Myung and others},
-      journal={Computer Networks},
-      volume={234},
-      pages={109922},
-      year={2023},
-      publisher={Elsevier}
-    }
+@article{chen2023open,
+  title={Open-access millimeter-wave software-defined radios in the {PAWR} {COSMOS} testbed: Design, deployment, and experimentation},
+  author={Chen, Tingjun and Maddala, Prasanthi and Skrimponis, Panagiotis and Kolodziejski, Jakub and Adhikari, Abhishek and Hu, Hang and Gao, Zhihui and Paidimarri, Arun and Valdes-Garcia, Alberto and Lee, Myung and others},
+  journal={Computer Networks},
+  volume={234},
+  pages={109922},
+  year={2023},
+  publisher={Elsevier}
+}
   </pre>
   </div>
 
@@ -178,12 +178,12 @@ You can also find my articles on
   <!-- [[publisher](https://ieeexplore.ieee.org/abstract/document/10061731)] -->
   <div id="bibtex-zhang2022next" style="display:none">
   <pre>
-    @inproceedings{zhang2022next,
-      title={Next generation federated learning for edge devices: An overview},
-      author={Zhang, Jianyi and Du, Zhixu and Sun, Jingwei and Li, Ang and Tang, Minxue and Wu, Yuhao and Gao, Zhihui and Kuo, Martin and Li, Hai-Helen and Chen, Yiran},
-      booktitle={Proc. IEEE CIC'22},
-      year={2022}
-    }
+@inproceedings{zhang2022next,
+  title={Next generation federated learning for edge devices: An overview},
+  author={Zhang, Jianyi and Du, Zhixu and Sun, Jingwei and Li, Ang and Tang, Minxue and Wu, Yuhao and Gao, Zhihui and Kuo, Martin and Li, Hai-Helen and Chen, Yiran},
+  booktitle={Proc. IEEE CIC'22},
+  year={2022}
+}
   </pre>
   </div>
 
@@ -196,12 +196,12 @@ You can also find my articles on
   <!-- [[publisher](https://ieeexplore.ieee.org/abstract/document/9826109)] -->
   <div id="bibtex-gao2022mom" style="display:none">
   <pre>
-    @inproceedings{gao2022mom,
-      title={Mom: Microphone based {3D} orientation measurement},
-      author={Gao, Zhihui and Li, Ang and Li, Dong and Liu, Jialin and Xiong, Jie and Wang, Yu and Li, Bing and Chen, Yiran},
-      booktitle={Proc. ACM/IEEE IPSN'22},
-      year={2022},
-    }
+@inproceedings{gao2022mom,
+  title={Mom: Microphone based {3D} orientation measurement},
+  author={Gao, Zhihui and Li, Ang and Li, Dong and Liu, Jialin and Xiong, Jie and Wang, Yu and Li, Bing and Chen, Yiran},
+  booktitle={Proc. ACM/IEEE IPSN'22},
+  year={2022},
+}
   </pre>
   </div>
 
@@ -213,12 +213,12 @@ You can also find my articles on
   <!-- [[publisher](https://ieeexplore.ieee.org/document/9806149)] -->
   <div id="bibtex-gao2022audio" style="display:none">
   <pre>
-    @inproceedings{gao2022audio,
-      title={An audio frequency unfolding framework for ultra-low sampling rate sensors},
-      author={Gao, Zhihui and Tang, Minxue and Li, Ang and Chen, Yiran},
-      booktitle={Proc. IEEE ISQED'22},
-      year={2022}
-    }
+@inproceedings{gao2022audio,
+  title={An audio frequency unfolding framework for ultra-low sampling rate sensors},
+  author={Gao, Zhihui and Tang, Minxue and Li, Ang and Chen, Yiran},
+  booktitle={Proc. IEEE ISQED'22},
+  year={2022}
+}
   </pre>
   </div>
 
@@ -234,12 +234,12 @@ You can also find my articles on
   <!-- [[publisher](https://ieeexplore.ieee.org/document/9643496)] -->
   <div id="bibtex-gao2021fedswap" style="display:none">
   <pre>
-    @inproceedings{gao2021fedswap,
-      title={FedSwap: A federated learning based {5G} decentralized dynamic spectrum access system},
-      author={Gao, Zhihui and Li, Ang and Gao, Yunfan and Li, Bing and Wang, Yu and Chen, Yiran},
-      booktitle={IEEE/ACM ICCAD'21},
-      year={2021},
-    }
+@inproceedings{gao2021fedswap,
+  title={FedSwap: A federated learning based {5G} decentralized dynamic spectrum access system},
+  author={Gao, Zhihui and Li, Ang and Gao, Yunfan and Li, Bing and Wang, Yu and Chen, Yiran},
+  booktitle={IEEE/ACM ICCAD'21},
+  year={2021},
+}
   </pre>
   </div>
 
@@ -252,12 +252,12 @@ You can also find my articles on
   <!-- [[publisher](https://dl.acm.org/doi/10.5555/3451271.3451273)] -->
   <div id="bibtex-gao2021hermes" style="display:none">
   <pre>
-    @article{gao2021hermes,
-      title={Hermes: Decentralized dynamic spectrum access system for massive devices deployment in {5G}},
-      author={Gao, Zhihui and Li, Ang and Gao, Yunfan and Wang, Yu and Chen, Yiran},
-      booktitle={Proc. ACM EWSN'21},
-      year={2021},
-    }
+@article{gao2021hermes,
+  title={Hermes: Decentralized dynamic spectrum access system for massive devices deployment in {5G}},
+  author={Gao, Zhihui and Li, Ang and Gao, Yunfan and Wang, Yu and Chen, Yiran},
+  booktitle={Proc. ACM EWSN'21},
+  year={2021},
+}
   </pre>
   </div>
 
@@ -274,15 +274,15 @@ You can also find my articles on
   <!-- [[publisher](https://ieeexplore.ieee.org/abstract/document/9187854)] -->
   <div id="bibtex-gao2020crisloc" style="display:none">
   <pre>
-    @article{gao2020crisloc,
-      title={CRISLoc: Reconstructable {CSI} fingerprinting for indoor smartphone localization},
-      author={Gao, Zhihui and Gao, Yunfan and Wang, Sulei and Li, Dan and Xu, Yuedong},
-      journal={IEEE Internet of Things Journal},
-      volume={8},
-      number={5},
-      pages={3422--3437},
-      year={2020},
-      publisher={IEEE}
-    }
+@article{gao2020crisloc,
+  title={CRISLoc: Reconstructable {CSI} fingerprinting for indoor smartphone localization},
+  author={Gao, Zhihui and Gao, Yunfan and Wang, Sulei and Li, Dan and Xu, Yuedong},
+  journal={IEEE Internet of Things Journal},
+  volume={8},
+  number={5},
+  pages={3422--3437},
+  year={2020},
+  publisher={IEEE}
+}
   </pre>
   </div>
