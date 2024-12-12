@@ -26,7 +26,12 @@ You can also find my articles on
   <!-- [[publisher](https://dl.acm.org/doi/pdf/10.1145/3636534.3697310)] -->
   <div id="bibtex-cheng2024spear" style="display:none">
   <pre>
-aaa
+    @inproceedings{cheng2024spear,
+      title={Real-time wideband software-defined radio with Python programmability based on {RFSoC}},
+      author={Cheng, Wei and Gao, Zhihui and Chen, Tingjun},
+      booktitle={Proc. ACM MobiCom'24 Demo},
+      year={2024}
+    }
   </pre>
   </div>
 
