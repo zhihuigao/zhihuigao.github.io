@@ -29,7 +29,7 @@ You can also find my articles on
     @inproceedings{cheng2024spear,
       title={Real-time wideband software-defined radio with Python programmability based on {RFSoC}},
       author={Cheng, Wei and Gao, Zhihui and Chen, Tingjun},
-      booktitle={Proc. ACM MobiCom'24 Demo},
+      booktitle={Proc. ACM WiNTECH’24},
       year={2024}
     }
   </pre>
