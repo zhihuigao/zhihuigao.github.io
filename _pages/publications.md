@@ -21,6 +21,19 @@ You can also find my articles on
 * SPEAR: Software-defined Python-Enhanced RFSoC for wideband radio applications.<br>
   Wei Cheng, **Zhihui Gao**, and Tingjun Chen.<br>
   <i> Proc. ACM MobiCom'24 Workshop on Wireless Network Testbeds, Experimental Evaluation & CHaracterization (**WiNTECH’24**) </i>, 2024.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-cheng2024spear');">bibtex</a>]
+  [[pdf](https://dl.acm.org/doi/pdf/10.1145/3636534.3697310)]
+  <!-- [[publisher](https://dl.acm.org/doi/pdf/10.1145/3636534.3697310)] -->
+  <div id="bibtex-cheng2024spear" style="display:none">
+  <pre>
+    @inproceedings{cheng2024spear,
+      title={{SPEAR}: Software-defined Python-enhanced {RFSoC} for wideband radio applications},
+      author={Cheng, Wei and Gao, Zhihui and Chen, Tingjun},
+      booktitle={Proc. ACM WiNTECH’24},
+      year={2024}
+    }
+  </pre>
+  </div>
 
 * Demo: Real-time Wideband Software-defined Radio with Python Programmability based on RFSoC.<br>
   Wei Cheng, **Zhihui Gao**, and Tingjun Chen.<br>
