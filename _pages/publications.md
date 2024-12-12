@@ -27,7 +27,7 @@ You can also find my articles on
   <div id="bibtex-cheng2024spear" style="display:none">
   <pre>
     @inproceedings{cheng2024spear,
-      title={Real-time wideband software-defined radio with Python programmability based on {RFSoC}},
+      title={Spear: Software-defined Python-enhanced {RFSoC} for wideband radio applications},
       author={Cheng, Wei and Gao, Zhihui and Chen, Tingjun},
       booktitle={Proc. ACM WiNTECH’24},
       year={2024}
