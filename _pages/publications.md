@@ -18,15 +18,40 @@ You can also find my articles on
 
 ## <a name="year2024"></a> 2024
 
-* Demo: Real-time Wideband Software-defined Radio with Python Programmability based on RFSoC.<br>
-  Wei Cheng, **Zhihui Gao**, and Tingjun Chen.<br>
-  <i> Proc. ACM International Conference on Mobile Computing and Networking (**MobiCom'24 Demo**) </i>, 2024.<br>
-  To appear
-
 * SPEAR: Software-defined Python-Enhanced RFSoC for wideband radio applications.<br>
   Wei Cheng, **Zhihui Gao**, and Tingjun Chen.<br>
   <i> Proc. ACM MobiCom'24 Workshop on Wireless Network Testbeds, Experimental Evaluation & CHaracterization (**WiNTECH’24**) </i>, 2024.<br>
-  To appear
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2024deepmon');">bibtex</a>]
+  [[code](https://github.com/zhihuigao/MLNextG2024-DeepMon)]
+  [[pdf](https://dl.acm.org/doi/pdf/10.1145/3636534.3698250)]
+  <!-- [[publisher](https://dl.acm.org/doi/10.1145/3636534.3649390)] -->
+  <div id="bibtex-gao2024deepmon" style="display:none">
+  <pre>
+    @inproceedings{gao2024deepmon,
+      title={DeepMon: {Wi-Fi} monitoring using sub-Nyquist sampling rate receivers with deep learning},
+      author={Gao, Zhihui and Zhang, Yunjia and Chen, Tingjun},
+      booktitle={Proc. ACM MLNextG'24},
+      year={2024}
+    }
+  </pre>
+  </div>
+
+* Demo: Real-time Wideband Software-defined Radio with Python Programmability based on RFSoC.<br>
+  Wei Cheng, **Zhihui Gao**, and Tingjun Chen.<br>
+  <i> Proc. ACM International Conference on Mobile Computing and Networking (**MobiCom'24 Demo**) </i>, 2024.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-cheng2024real');">bibtex</a>]
+  [[pdf](https://dl.acm.org/doi/pdf/10.1145/3636534.3698855)]
+  <!-- [[publisher](https://dl.acm.org/doi/pdf/10.1145/3636534.3698855)] -->
+  <div id="bibtex-cheng2024real" style="display:none">
+  <pre>
+    @inproceedings{cheng2024real,
+      title={Real-time wideband software-defined radio with Python programmability based on {RFSoC}},
+      author={Cheng, Wei and Gao, Zhihui and Chen, Tingjun},
+      booktitle={Proc. ACM MobiCom'24 Demo},
+      year={2024}
+    }
+  </pre>
+  </div>
 
 * DeepMon: Wi-Fi monitoring using sub-Nyquist sampling rate receivers with deep learning.<br>
   **Zhihui Gao**\*, Yunjia Zhang\*, and Tingjun Chen.<br>
@@ -41,6 +66,7 @@ You can also find my articles on
       title={DeepMon: {Wi-Fi} monitoring using sub-Nyquist sampling rate receivers with deep learning},
       author={Gao, Zhihui and Zhang, Yunjia and Chen, Tingjun},
       booktitle={Proc. ACM MLNextG'24},
+      year={2024}
     }
   </pre>
   </div>
