@@ -31,7 +31,19 @@ You can also find my articles on
 * DeepMon: Wi-Fi monitoring using sub-Nyquist sampling rate receivers with deep learning.<br>
   **Zhihui Gao**\*, Yunjia Zhang\*, and Tingjun Chen.<br>
   <i> Proc. ACM MobiCom'24 Workshop on Machine Learning for NextG Networks (**MLNextG’24**) </i>, 2024.<br>
-  To appear
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2024deepmon');">bibtex</a>]
+  [[code](https://github.com/zhihuigao/MLNextG2024-DeepMon)]
+  [[pdf](https://dl.acm.org/doi/pdf/10.1145/3636534.3698250)]
+  <!-- [[publisher](https://dl.acm.org/doi/10.1145/3636534.3649390)] -->
+  <div id="bibtex-gao2024deepmon" style="display:none">
+  <pre>
+    @inproceedings{gao2024deepmon,
+      title={DeepMon: {Wi-Fi} monitoring using sub-Nyquist sampling rate receivers with deep learning},
+      author={Gao, Zhihui and Zhang, Yunjia and Chen, Tingjun},
+      booktitle={Proc. ACM MLNextG'24},
+    }
+  </pre>
+  </div>
 
 * Mambas: Maneuvering analog multi-user beamforming using an array of subarrays in mmWave networks.<br>
   **Zhihui Gao**, Zhenzhou Qi, Tingjun Chen.<br>
