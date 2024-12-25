@@ -252,7 +252,7 @@ You can also find my articles on
   <!-- [[publisher](https://dl.acm.org/doi/10.5555/3451271.3451273)] -->
   <div id="bibtex-gao2021hermes" style="display:none">
   <pre>
-  @article{gao2021hermes,
+  @inproceedings{gao2021hermes,
     title={Hermes: Decentralized dynamic spectrum access system for massive devices deployment in {5G}},
     author={Gao, Zhihui and Li, Ang and Gao, Yunfan and Wang, Yu and Chen, Yiran},
     booktitle={Proc. ACM EWSN'21},
