@@ -20,7 +20,7 @@ You can also find my articles on
 * A Generalized Deep Learning Model for Signal Coverage Prediction in the CBRS Band.<br>
   Yiming Li, **Zhihui Gao**, Joshua Palathinkal, Monisha Ghosh, and Tingjun Chen.<br>
   <i> Proc. IEEE International Symposium on Dynamic Spectrum Access Networks (**DySPAN’25**) </i>, 2025.<br>
-  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-li2024geo2sigmap');">bibtex</a>]
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-li2025a');">bibtex</a>]
   [[code](https://github.com/functions-lab/geo2sigmap)]
   To appear
   <div id="bibtex-li2025a" style="display:none">
