@@ -17,7 +17,7 @@ You can also find my articles on
 
 
 ## <a name="year2025"></a> 2025
-* A Generalized Deep Learning Model for Signal Coverage Prediction in the CBRS Band.<br>
+* A generalized deep learning model for signal coverage prediction in the CBRS band.<br>
   Yiming Li, **Zhihui Gao**, Joshua Palathinkal, Monisha Ghosh, and Tingjun Chen.<br>
   <i> Proc. IEEE International Symposium on Dynamic Spectrum Access Networks (**DySPAN’25**) </i>, 2025.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-li2025a');">bibtex</a>]
