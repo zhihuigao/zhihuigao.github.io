@@ -12,9 +12,27 @@ You can also find my articles on
 
 
 
-## [2024](#year2024) | [2023](#year2023) | [2022](#year2022) | [2021](#year2021) | [2020](#year2020)
+## [2025](#year2025) | [2024](#year2024) | [2023](#year2023) | [2022](#year2022) | [2021](#year2021) | [2020](#year2020)
 
 
+
+## <a name="year2025"></a> 2025
+* A Generalized Deep Learning Model for Signal Coverage Prediction in the CBRS Band.<br>
+  Yiming Li, **Zhihui Gao**, Joshua Palathinkal, Monisha Ghosh, and Tingjun Chen.<br>
+  <i> Proc. IEEE International Symposium on Dynamic Spectrum Access Networks (**DySPAN’25**) </i>, 2025.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-li2024geo2sigmap');">bibtex</a>]
+  [[code](https://github.com/functions-lab/geo2sigmap)]
+  To appear
+  <div id="bibtex-li2025a" style="display:none">
+  <pre>
+  @inproceedings{bibtex-li2025a,
+    title={A generalized deep learning model for signal coverage prediction in the {CBRS} band},
+    author={Li, Yiming and Gao, Zhihui and Palathinkal, Joshua and Ghosh, Monisha and Chen, Tingjun},
+    booktitle={Proc. IEEE DySPAN'25},
+    year={2025}
+  }
+  </pre>
+  </div>
 
 ## <a name="year2024"></a> 2024
 
