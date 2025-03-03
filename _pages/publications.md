@@ -40,7 +40,8 @@ You can also find my articles on
   Wei Cheng, **Zhihui Gao**, and Tingjun Chen.<br>
   <i> Proc. ACM MobiCom'24 Workshop on Wireless Network Testbeds, Experimental Evaluation & CHaracterization (**WiNTECH’24**) </i>, 2024.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-cheng2024spear');">bibtex</a>]
-  [[pdf](https://dl.acm.org/doi/pdf/10.1145/3636534.3697310)]
+  [[code](https://github.com/functions-lab/SPEAR)]
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3636534.3697310)]
   <!-- [[publisher](https://dl.acm.org/doi/pdf/10.1145/3636534.3697310)] -->
   <div id="bibtex-cheng2024spear" style="display:none">
   <pre>
@@ -57,7 +58,7 @@ You can also find my articles on
   Wei Cheng, **Zhihui Gao**, and Tingjun Chen.<br>
   <i> Proc. ACM International Conference on Mobile Computing and Networking (**MobiCom'24 Demo**) </i>, 2024.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-cheng2024real');">bibtex</a>]
-  [[pdf](https://dl.acm.org/doi/pdf/10.1145/3636534.3698855)]
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3636534.3698855)]
   <!-- [[publisher](https://dl.acm.org/doi/pdf/10.1145/3636534.3698855)] -->
   <div id="bibtex-cheng2024real" style="display:none">
   <pre>
@@ -75,7 +76,7 @@ You can also find my articles on
   <i> Proc. ACM MobiCom'24 Workshop on Machine Learning for NextG Networks (**MLNextG’24**) </i>, 2024.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2024deepmon');">bibtex</a>]
   [[code](https://github.com/zhihuigao/MLNextG2024-DeepMon)]
-  [[pdf](https://dl.acm.org/doi/pdf/10.1145/3636534.3698250)]
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3636534.3698250)]
   <!-- [[publisher](https://dl.acm.org/doi/10.1145/3636534.3649390)] -->
   <div id="bibtex-gao2024deepmon" style="display:none">
   <pre>
@@ -94,7 +95,7 @@ You can also find my articles on
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2024mambas');">bibtex</a>]
   [[code](https://github.com/functions-lab/MAMBAS-MobiCom2024)]
   [[testbed](https://wiki.cosmos-lab.org/wiki/Tutorials/Wireless/mmwavePaamLinkRate)]
-  [[pdf](https://dl.acm.org/doi/pdf/10.1145/3636534.3649390)]
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3636534.3649390)]
   <!-- [[publisher](https://dl.acm.org/doi/10.1145/3636534.3649390)] -->
   <div id="bibtex-gao2024mambas" style="display:none">
   <pre>
@@ -112,7 +113,7 @@ You can also find my articles on
   <i> Proc. IEEE International Symposium on Dynamic Spectrum Access Networks (**DySPAN’24**) </i>, 2024.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-li2024geo2sigmap');">bibtex</a>]
   [[code](https://github.com/functions-lab/geo2sigmap)]
-  [[pdf](https://ieeexplore.ieee.org/document/10632773)]
+  [[paper](https://ieeexplore.ieee.org/document/10632773)]
   <!-- [[publisher](https://ieeexplore.ieee.org/document/10632773)] -->
   <div id="bibtex-li2024geo2sigmap" style="display:none">
   <pre>
@@ -134,7 +135,7 @@ You can also find my articles on
   <i> Proc. ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (**MobiHoc’23**) </i>, 2023.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2023swirls');">bibtex</a>]
   [[code](https://github.com/functions-lab/SWIRLS-MobiHoc2023)]
-  [[pdf](https://dl.acm.org/doi/abs/10.1145/3565287.3610279)]
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3565287.3610279)]
   <!-- [[publisher](https://dl.acm.org/doi/abs/10.1145/3565287.3610279)] -->
   <div id="bibtex-gao2023swirls" style="display:none">
   <pre>
@@ -151,7 +152,7 @@ You can also find my articles on
   Zhenzhou Qi, **Zhihui Gao**, Chung-Hsuan Tung, and Tingjun Chen.<br>
   <i> Proc. ACM MobiCom'23 Workshop on Wireless Network Testbeds, Experimental Evaluation & CHaracterization (**WiNTECH’23**) </i>, 2023.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-qi2023programmable');">bibtex</a>]
-  [[pdf](https://dl.acm.org/doi/10.1145/3615453.3616521)]
+  [[paper](https://dl.acm.org/doi/10.1145/3615453.3616521)]
   <!-- [[publisher](https://dl.acm.org/doi/10.1145/3615453.3616521)] -->
   <div id="bibtex-qi2023programmable" style="display:none">
   <pre>
@@ -168,7 +169,7 @@ You can also find my articles on
   Tingjun Chen, Prasanthi Maddala, Panagiotis Skrimponis, Jakub Kolodziejski, Abhishek Adhikari, Hang Hu, **Zhihui Gao**, Arun Paidimarri, Alberto Valdes-Garcia, Myung Lee, Sundeep Rangan, Gil Zussman, Ivan Seskar.<br>
   <i> (INVITED) Elsevier Computer Networks (**COMNET**) </i>, 2023.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-chen2023open');">bibtex</a>]
-  [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S1389128623003675?via%3Dihub)]
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1389128623003675?via%3Dihub)]
   <!-- [[publisher](https://www.sciencedirect.com/science/article/abs/pii/S1389128623003675?via%3Dihub)] -->
   <div id="bibtex-chen2023open" style="display:none">
   <pre>
@@ -192,7 +193,7 @@ You can also find my articles on
   Jianyi Zhang, Zhixu Du, Jingwei Sun, Ang Li, Minxue Tang, Yuhao Wu, **Zhihui Gao**, Martin Kuo, Hai-Helen Li, Yiran Chen.<br>
   <i>  (INVITED) In Proc. IEEE International Conference on Collaboration and Internet Computing (**CIC’22**) </i>, 2022.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-zhang2022next');">bibtex</a>]
-  [[pdf](https://ieeexplore.ieee.org/abstract/document/10061731)]
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10061731)]
   <!-- [[publisher](https://ieeexplore.ieee.org/abstract/document/10061731)] -->
   <div id="bibtex-zhang2022next" style="display:none">
   <pre>
@@ -210,7 +211,7 @@ You can also find my articles on
   <i> Proc. ACM/IEEE International Conference on Information Processing in Sensor Networks (**IPSN’22**) </i>, 2022.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2022mom');">bibtex</a>]
   [[code](https://github.com/zhihuigao/IPSN2022-MOM)]
-  [[pdf](https://ieeexplore.ieee.org/abstract/document/9826109)]
+  [[paper](https://ieeexplore.ieee.org/abstract/document/9826109)]
   <!-- [[publisher](https://ieeexplore.ieee.org/abstract/document/9826109)] -->
   <div id="bibtex-gao2022mom" style="display:none">
   <pre>
@@ -227,7 +228,7 @@ You can also find my articles on
   **Zhihui Gao**, Minxue Tang, Ang Li, Yiran Chen.<br>
   <i> (INVITED) Proc. IEEE International Symposium on Quality Electronic Design (**ISQED’22**) </i>, 2022.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2022audio');">bibtex</a>]
-  [[pdf](https://ieeexplore.ieee.org/document/9806149)]
+  [[paper](https://ieeexplore.ieee.org/document/9806149)]
   <!-- [[publisher](https://ieeexplore.ieee.org/document/9806149)] -->
   <div id="bibtex-gao2022audio" style="display:none">
   <pre>
@@ -248,7 +249,7 @@ You can also find my articles on
   **Zhihui Gao**, Ang Li, Yunfan Gao, Bing Li, Yu Wang, Yiran Chen.<br>
   <i> (INVITED) Proc. IEEE/ACM International Conference On Computer Aided Design (**ICCAD’21**) </i>, 2021.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2021fedswap');">bibtex</a>]
-  [[pdf](https://ieeexplore.ieee.org/document/9643496)]
+  [[paper](https://ieeexplore.ieee.org/document/9643496)]
   <!-- [[publisher](https://ieeexplore.ieee.org/document/9643496)] -->
   <div id="bibtex-gao2021fedswap" style="display:none">
   <pre>
@@ -266,7 +267,7 @@ You can also find my articles on
   <i> Proc. International Conference on Embedded Wireless Systems and Networks (**EWSN'21**) </i>, 2021.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2021hermes');">bibtex</a>]
   [[code](https://github.com/zhihuigao/EWSN2021-Hermes)]
-  [[pdf](https://dl.acm.org/doi/10.5555/3451271.3451273)]
+  [[paper](https://dl.acm.org/doi/10.5555/3451271.3451273)]
   <!-- [[publisher](https://dl.acm.org/doi/10.5555/3451271.3451273)] -->
   <div id="bibtex-gao2021hermes" style="display:none">
   <pre>
@@ -288,7 +289,7 @@ You can also find my articles on
   <i> IEEE Internet of Things Journal (**IoT Journal**) </i>, 2020.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2020crisloc');">bibtex</a>]
   [[dataset](https://github.com/zhihuigao/CRISLoc_dataset)]
-  [[pdf](https://ieeexplore.ieee.org/abstract/document/9187854)]
+  [[paper](https://ieeexplore.ieee.org/abstract/document/9187854)]
   <!-- [[publisher](https://ieeexplore.ieee.org/abstract/document/9187854)] -->
   <div id="bibtex-gao2020crisloc" style="display:none">
   <pre>
