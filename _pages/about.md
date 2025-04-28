@@ -31,7 +31,7 @@ Disaggregated deep learning via in-physics computing at radio frequency.<br>
   <!-- [[publisher](https://arxiv.org/abs/2504.17752)] -->
   <div id="bibtex-gao2025disaggregated" style="display:none">
   <pre>
-    @inproceedings{gao2024mambas,
+    @inproceedings{gao2025disaggregated,
       title={Disaggregated deep learning via in-physics computing at radio frequency},
       author={Gao, Zhihui and Vadlamani, Sri Krishna and Sulimany, Kfir and Englund, Dirk and Chen, Tingjun},
       journal={arXiv preprint arXiv:2504.17752},
