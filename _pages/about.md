@@ -22,6 +22,25 @@ Research Interests:
 Selected Publications
 -----
 <!-- https://zhihuigao.github.io http://localhost:4000-->
+![image](https://zhihuigao.github.io/images/WISE.jpg){: style="float: left; margin-top: 0.3em; margin-right: 1em;" width="200"}
+Disaggregated deep learning via in-physics computing at radio frequency.<br>
+  **Zhihui Gao**, Sri Krishna Vadlamani, Kfir Sulimany, Dirk Englund, Tingjun Chen.<br>
+  <i> arXiv preprint arXiv:2504.17752 </i>, 2025.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2025disaggregated');">bibtex</a>]
+  [[paper](https://arxiv.org/abs/2504.17752)]
+  <!-- [[publisher](https://arxiv.org/abs/2504.17752)] -->
+  <div id="bibtex-gao2025disaggregated" style="display:none">
+  <pre>
+    @inproceedings{gao2024mambas,
+      title={Disaggregated deep learning via in-physics computing at radio frequency},
+      author={Gao, Zhihui and Vadlamani, Sri Krishna and Sulimany, Kfir and Englund, Dirk and Chen, Tingjun},
+      journal={arXiv preprint arXiv:2504.17752},
+      year={2025}
+    }
+  </pre>
+  </div>
+
+<!-- https://zhihuigao.github.io http://localhost:4000-->
 ![image](https://zhihuigao.github.io/images/MAMBAS.jpg){: style="float: left; margin-top: 0.3em; margin-right: 1em;" width="200"}
 Mambas: Maneuvering analog multi-user beamforming using an array of subarrays in mmWave networks.<br>
   **Zhihui Gao**, Zhenzhou Qi, Tingjun Chen.<br>
