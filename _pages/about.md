@@ -22,7 +22,7 @@ Research Interests:
 Selected Publications
 -----
 <!-- https://zhihuigao.github.io http://localhost:4000-->
-![image](https://zhihuigao.github.io/images/WISE.png){: style="float: left; margin-top: 0.3em; margin-right: 1em;  margin-bottom: 1em;" width="200"}
+![image](https://zhihuigao.github.io/images/WISE.png){: style="float: left; margin-top: 1em; margin-right: 1em;  margin-bottom: 1em;" width="200"}
 Disaggregated deep learning via in-physics computing at radio frequency.<br>
   **Zhihui Gao**, Sri Krishna Vadlamani, Kfir Sulimany, Dirk Englund, Tingjun Chen.<br>
   <i> arXiv preprint arXiv:2504.17752 </i>, 2025.<br>
