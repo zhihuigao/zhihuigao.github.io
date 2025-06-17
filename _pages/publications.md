@@ -18,6 +18,23 @@ You can also find my articles on
 
 ## <a name="year2025"></a> 2025
 
+* Machine intelligence on wireless edge networks.<br>
+  Sri Krishna Vadlamani, Kfir Sulimany, **Zhihui Gao**, Tingjun Chen, Dirk Englund.<br>
+  <i> arXiv preprint arXiv:2506.12210 </i>, 2025.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-vadlamani2025machine');">bibtex</a>]
+  [[paper](https://arxiv.org/abs/2506.12210)]
+  <!-- [[publisher](https://arxiv.org/abs/2506.12210)] -->
+  <div id="bibtex-vadlamani2025machine" style="display:none">
+  <pre>
+    @article{vadlamani2025machine,
+      title = {Machine intelligence on wireless edge networks},
+      author = {Vadlamani, Sri Krishna and Sulimany, Kfir and Gao, Zhihui and Chen, Tingjun and Englund, Dirk},
+      journal = {arXiv preprint arXiv:2506.12210},
+      year = {2025},
+    }
+  </pre>
+  </div>
+
 * Disaggregated deep learning via in-physics computing at radio frequency.<br>
   **Zhihui Gao**, Sri Krishna Vadlamani, Kfir Sulimany, Dirk Englund, Tingjun Chen.<br>
   <i> arXiv preprint arXiv:2504.17752 </i>, 2025.<br>
@@ -28,7 +45,7 @@ You can also find my articles on
   <div id="bibtex-gao2025disaggregated" style="display:none">
   <pre>
     @article{gao2025disaggregated,
-      title = {Disaggregated Deep Learning via In-Physics Computing at Radio Frequency},
+      title = {Disaggregated deep learning via in-physics computing at radio frequency},
       author = {Gao, Zhihui and Vadlamani, Sri Krishna and Sulimany, Kfir and Englund, Dirk and Chen, Tingjun},
       journal = {arXiv preprint arXiv:2504.17752},
       year = {2025},
