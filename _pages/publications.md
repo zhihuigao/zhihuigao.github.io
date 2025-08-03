@@ -18,6 +18,23 @@ You can also find my articles on
 
 ## <a name="year2025"></a> 2025
 
+* KLLM: Fast LLM inference with K-Means quantization.<br>
+  Xueying Wu, Baijun Zhou, **Zhihui Gao**, Yuzhe Fu, Qilin Zheng, Yintao He, Hai Li.<br>
+  <i> arXiv preprint arXiv:2507.23035 </i>, 2025.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-wu2025kllm');">bibtex</a>]
+  [[paper](https://arxiv.org/abs/2507.23035)]
+  <!-- [[publisher](https://arxiv.org/abs/2507.23035)] -->
+  <div id="bibtex-wu2025kllm" style="display:none">
+  <pre>
+    @article{wu2025kllm,
+      title = {KLLM: Fast LLM inference with K-Means quantization},
+      author = {Wu, Xueying and Zhou, Baijun and Gao, Zhihui and Fu, Yuzhe and Zheng, Qilin and He, Yintao and Li, Hai},
+      journal = {arXiv preprint arXiv:2507.23035},
+      year = {2025},
+    }
+  </pre>
+  </div>
+
 * Machine intelligence on wireless edge networks.<br>
   Sri Krishna Vadlamani, Kfir Sulimany, **Zhihui Gao**, Tingjun Chen, Dirk Englund.<br>
   <i> arXiv preprint arXiv:2506.12210 </i>, 2025.<br>
