@@ -22,6 +22,22 @@ You can also find my articles on
   Xueying Wu, Baijun Zhou, **Zhihui Gao**, Yuzhe Fu, Qilin Zheng, Yintao He, Hai Li.<br>
   <i> arXiv preprint arXiv:2507.23035 </i>, 2025.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-wu2025kllm');">bibtex</a>]
+  To appear
+  <div id="bibtex-cheng2025spear" style="display:none">
+  <pre>
+  @inproceedings{cheng2025spear,
+    title={{SPEAR+}: Streaming-based multi-channel {SDR} implementation using the {RFSoC} platform},
+    author={Cheng, Wei and Gao, Zhihui and Guajardo, Jose and Beshary, Hesham and Niknejad, Ali and Chen, Tingjun},
+    booktitle={Proc. IEEE MILCOM'25},
+    year={2025}
+  }
+  </pre>
+  </div>
+
+* KLLM: Fast LLM inference with K-Means quantization.<br>
+  Xueying Wu, Baijun Zhou, **Zhihui Gao**, Yuzhe Fu, Qilin Zheng, Yintao He, Hai Li.<br>
+  <i> arXiv preprint arXiv:2507.23035 </i>, 2025.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-wu2025kllm');">bibtex</a>]
   [[paper](https://arxiv.org/abs/2507.23035)]
   <!-- [[publisher](https://arxiv.org/abs/2507.23035)] -->
   <div id="bibtex-wu2025kllm" style="display:none">
