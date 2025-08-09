@@ -19,7 +19,7 @@ You can also find my articles on
 ## <a name="year2025"></a> 2025
 
 * SPEAR+: Streaming-based multi-channel SDR implementation using the RFSoC platform.<br>
-  Xueying Wu, Baijun Zhou, **Zhihui Gao**, Yuzhe Fu, Qilin Zheng, Yintao He, Hai Li.<br>
+  Wei Cheng, **Zhihui Gao**, Jose Guajardo, Hesham Beshary, Ali Niknejad, Tingjun Chen.<br>
   <i> arXiv preprint arXiv:2507.23035 </i>, 2025.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-wu2025kllm');">bibtex</a>]
   [[paper](https://arxiv.org/abs/2507.23035)]
