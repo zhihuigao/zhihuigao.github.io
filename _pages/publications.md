@@ -24,7 +24,7 @@ You can also find my articles on
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-cheng2025spear');">bibtex</a>]
   <div id="bibtex-cheng2025spear" style="display:none">
   <pre>
-    @article{wu2025kllm,
+    @inproceedings{cheng2025spear,
       title = {KLLM: Fast LLM inference with K-Means quantization},
       author={Cheng, Wei and Gao, Zhihui and Guajardo, Jose and Beshary, Hesham and Niknejad, Ali and Chen, Tingjun},
       booktitle={Proc. IEEE MILCOM'25},
