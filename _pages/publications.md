@@ -21,10 +21,10 @@ You can also find my articles on
 * SPEAR+: Streaming-based multi-channel SDR implementation using the RFSoC platform.<br>
   Wei Cheng, **Zhihui Gao**, Jose Guajardo, Hesham Beshary, Ali Niknejad, Tingjun Chen.<br>
   <i> Proc. IEEE Military Communications Conference (**MILCOM’25**) </i>, 2025.<br>
-  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-wu2025kllm');">bibtex</a>]
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-cheng2025spear');">bibtex</a>]
   [[paper](https://arxiv.org/abs/2507.23035)]
   <!-- [[publisher](https://arxiv.org/abs/2507.23035)] -->
-  <div id="bibtex-wu2025kllm" style="display:none">
+  <div id="bibtex-cheng2025spear" style="display:none">
   <pre>
     @article{wu2025kllm,
       title = {KLLM: Fast LLM inference with K-Means quantization},
