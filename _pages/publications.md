@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on
 <a href="https://scholar.google.com/citations?hl=en&user=aDDBPo8AAAAJ">my Google Scholar profile</a>.
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 
 
@@ -18,7 +18,7 @@ You can also find my articles on
 
 ## <a name="year2025"></a> 2025
 
-<!-- * SPEAR+: Streaming-based multi-channel SDR implementation using the RFSoC platform.<br>
+* SPEAR+: Streaming-based multi-channel SDR implementation using the RFSoC platform.<br>
   Wei Cheng, **Zhihui Gao**, Jose Guajardo, Hesham Beshary, Ali Niknejad, Tingjun Chen.<br>
   <i> Proc. IEEE Military Communications Conference (**MILCOM’25**) </i>, 2025.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-cheng2025spear');">bibtex</a>]
@@ -32,9 +32,7 @@ You can also find my articles on
     year={2025}
   }
   </pre>
-  </div> -->
-
-* SPEAR<br>
+  </div>
 
 * KLLM: Fast LLM inference with K-Means quantization.<br>
   Xueying Wu, Baijun Zhou, **Zhihui Gao**, Yuzhe Fu, Qilin Zheng, Yintao He, Hai Li.<br>
