@@ -21,10 +21,10 @@ You can also find my articles on
 * KLLM: Fast LLM inference with K-Means quantization.<br>
   Wei Cheng, **Zhihui Gao**, Jose Guajardo, Hesham Beshary, Ali Niknejad, Tingjun Chen.<br>
   <i> arXiv preprint arXiv:2507.23035 </i>, 2025.<br>
-  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-cheng2025spear');">bibtex</a>]
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-wu2025kllm');">bibtex</a>]
   [[paper](https://arxiv.org/abs/2507.23035)]
   <!-- [[publisher](https://arxiv.org/abs/2507.23035)] -->
-  <div id="bibtex-cheng2025spear" style="display:none">
+  <div id="bibtex-wu2025kllm" style="display:none">
   <pre>
     @inproceedings{cheng2025spear,
       title={{SPEAR+}: Streaming-based multi-channel {SDR} implementation using the {RFSoC} platform},
