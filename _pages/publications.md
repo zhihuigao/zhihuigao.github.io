@@ -18,9 +18,23 @@ You can also find my articles on
 
 ## <a name="year2025"></a> 2025
 
-* SPEAR+: Streaming-based multi-channel SDR implementation using the RFSoC platform.<br>
+<!-- * SPEAR+: Streaming-based multi-channel SDR implementation using the RFSoC platform.<br>
   Wei Cheng, **Zhihui Gao**, Jose Guajardo, Hesham Beshary, Ali Niknejad, Tingjun Chen.<br>
   <i> Proc. IEEE Military Communications Conference (**MILCOM’25**) </i>, 2025.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-cheng2025spear');">bibtex</a>]
+  To appear
+  <div id="bibtex-cheng2025spear" style="display:none">
+  <pre>
+  @inproceedings{cheng2025spear,
+    title={{SPEAR+}: Streaming-based multi-channel {SDR} implementation using the {RFSoC} platform},
+    author={Cheng, Wei and Gao, Zhihui and Guajardo, Jose and Beshary, Hesham and Niknejad, Ali and Chen, Tingjun},
+    booktitle={Proc. IEEE MILCOM'25},
+    year={2025}
+  }
+  </pre>
+  </div> -->
+
+* SPEAR+: Streaming-based multi-channel SDR implementation using the RFSoC platform.<br>
 
 * KLLM: Fast LLM inference with K-Means quantization.<br>
   Xueying Wu, Baijun Zhou, **Zhihui Gao**, Yuzhe Fu, Qilin Zheng, Yintao He, Hai Li.<br>
