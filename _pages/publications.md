@@ -26,11 +26,11 @@ You can also find my articles on
   <!-- [[publisher](https://arxiv.org/abs/2507.23035)] -->
   <div id="bibtex-wu2025kllm" style="display:none">
   <pre>
-    @inproceedings{cheng2025spear,
-      title={{SPEAR+}: Streaming-based multi-channel {SDR} implementation using the {RFSoC} platform},
-      author={Cheng, Wei and Gao, Zhihui and Guajardo, Jose and Beshary, Hesham and Niknejad, Ali and Chen, Tingjun},
-      booktitle={Proc. IEEE MILCOM'25},
-      year={2025}
+    @article{wu2025kllm,
+      title = {KLLM: Fast LLM inference with K-Means quantization},
+      author = {Wu, Xueying and Zhou, Baijun and Gao, Zhihui and Fu, Yuzhe and Zheng, Qilin and He, Yintao and Li, Hai},
+      journal = {arXiv preprint arXiv:2507.23035},
+      year = {2025},
     }
   </pre>
   </div>
