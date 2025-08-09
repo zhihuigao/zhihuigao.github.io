@@ -34,7 +34,7 @@ You can also find my articles on
   </pre>
   </div> -->
 
-* SPEAR+: Streaming-based multi-channel SDR implementation using the RFSoC platform.<br>
+* SPEAR<br>
 
 * KLLM: Fast LLM inference with K-Means quantization.<br>
   Xueying Wu, Baijun Zhou, **Zhihui Gao**, Yuzhe Fu, Qilin Zheng, Yintao He, Hai Li.<br>
