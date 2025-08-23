@@ -25,7 +25,7 @@ You can also find my articles on
   <div id="bibtex-li2025clickdt" style="display:none">
   <pre>
     @inproceedings{li2025clickdt,
-      title = {{ClickDT}: Building scalable and high-resolution wireless digital twins with a few clicks},
+      title = {ClickDT: Building scalable and high-resolution wireless digital twins with a few clicks},
       author={Li, Yiming and Francini, Scarlett and Gao, Zhihui and Chen, Tingjun},
       booktitle={Proc. IEEE MILCOM’25 Demo},
       year={2025}
