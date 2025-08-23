@@ -18,6 +18,21 @@ You can also find my articles on
 
 ## <a name="year2025"></a> 2025
 
+* Demo: ClickDT: Building scalable and high-resolution wireless digital twins with a few clicks.<br>
+  Yiming Li, Scarlett Francini, **Zhihui Gao**, Tingjun Chen.<br>
+  <i> Proc. IEEE Military Communications Conference (**MILCOM’25 Demo**) </i>, 2025.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-li2025clickdt');">bibtex</a>]
+  <div id="bibtex-li2025clickdt" style="display:none">
+  <pre>
+    @inproceedings{li2025clickdt,
+      title = {{ClickDT}: Building scalable and high-resolution wireless digital twins with a few clicks},
+      author={Li, Yiming and Francini, Scarlett and Gao, Zhihui and Chen, Tingjun},
+      booktitle={Proc. IEEE MILCOM'25 Demo},
+      year={2025}
+    }
+  </pre>
+  </div>
+
 * SPEAR+: Streaming-based multi-channel SDR implementation using the RFSoC platform.<br>
   Wei Cheng, **Zhihui Gao**, Jose Guajardo, Hesham Beshary, Ali Niknejad, Tingjun Chen.<br>
   <i> Proc. IEEE Military Communications Conference (**MILCOM’25**) </i>, 2025.<br>
@@ -90,7 +105,7 @@ You can also find my articles on
   <i> Proc. IEEE International Symposium on Dynamic Spectrum Access Networks (**DySPAN’25**) </i>, 2025.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-li2025a');">bibtex</a>]
   [[code](https://github.com/functions-lab/geo2sigmap)]
-  To appear
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11115962)]
   <div id="bibtex-li2025a" style="display:none">
   <pre>
   @inproceedings{li2025a,
