@@ -37,16 +37,16 @@ You can also find my articles on
 
 * NEXUS: Efficient and scalable multi-cell mmWave baseband processing with heterogeneous compute.<br>
   Zhenzhou Qi, Chung-Hsuan Tung, **Zhihui Gao**, and Tingjun Chen.<br>
-  <i> arXiv preprint arXiv:2509.04629 </i>, 2025.<br>
+  <i> arXiv preprint arXiv:2509.04625 </i>, 2025.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-qi2025nexus');">bibtex</a>]
-  [[paper](https://arxiv.org/abs/2509.04629)]
-  <!-- [[publisher](https://arxiv.org/abs/2509.04629)] -->
+  [[paper](https://arxiv.org/abs/2509.04625)]
+  <!-- [[publisher](https://arxiv.org/abs/2509.04625)] -->
   <div id="bibtex-qi2025nexus" style="display:none">
   <pre>
     @article{qi2025nexus,
       title = {NEXUS: Efficient and scalable multi-cell {mmWave} baseband processing with heterogeneous compute},
       author = {Qi, Zhenzhou and Tung, Chung-Hsuan and Gao, Zhihui and Chen, Tingjun},
-      journal = {arXiv preprint arXiv:2509.04629},
+      journal = {arXiv preprint arXiv:2509.04625},
       year = {2025},
     }
   </pre>
