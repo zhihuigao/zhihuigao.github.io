@@ -18,6 +18,23 @@ You can also find my articles on
 
 ## <a name="year2025"></a> 2025
 
+* IoT-MCP: Bridging LLMs and IoT systems through model context protocol.<br>
+  Ningyuan Yang, Guanliang Lyu, Mingchen Ma, Yiyi Lu, Yiming Li, **Zhihui Gao**, Hancheng Ye, Jianyi Zhang, Tingjun Chen, and Yiran Chen.<br>
+  <i> Proc. ACM MobiCom'25 Workshop on Wireless Network Testbeds, Experimental Evaluation & CHaracterization (**WiNTECH’25**) </i>, 2025.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-yang2025iot');">bibtex</a>]
+  [[website](https://llm4iot.org/)]
+  <!-- [[publisher](https://dl.acm.org/doi/pdf/10.1145/3636534.3697310)] -->
+  <div id="bibtex-yang2025iot" style="display:none">
+  <pre>
+  @inproceedings{yang2025iot,
+    title={IoT-MCP: Bridging {LLMs} and {IoT} systems through model context protocol},
+    author={Yang, Ningyuan and Lyu, Guanliang and Ma, Mingchen and Lu, Yiyi and Li, Yiming and Gao, Zhihui and Ye, Hancheng and Zhang, Jianyi and Chen, Tingjun and Chen, Yiran},
+    booktitle={Proc. ACM WiNTECH’25},
+    year={2025}
+  }
+  </pre>
+  </div>
+
 * Demo: ClickDT: Building scalable and high-resolution wireless digital twins with a few clicks.<br>
   Yiming Li, Scarlett Francini, **Zhihui Gao**, Tingjun Chen.<br>
   <i> Proc. IEEE Military Communications Conference (**MILCOM’25 Demo**) </i>, 2025.<br>
