@@ -18,6 +18,40 @@ You can also find my articles on
 
 ## <a name="year2025"></a> 2025
 
+* BatStation: Toward in-situ radar sensing on 5G base stations with zero-shot template generation.<br>
+  **Zhihui Gao**, Zhecun Liu, and Tingjun Chen.<br>
+  <i> arXiv preprint arXiv:2509.06898 </i>, 2025.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2025batstation');">bibtex</a>]
+  [[paper](https://arxiv.org/abs/2509.06898)]
+  <!-- [[publisher](https://arxiv.org/abs/2509.06898)] -->
+  <div id="bibtex-gao2025batstation" style="display:none">
+  <pre>
+    @article{gao2025batstation,
+      title = {BatStation: Toward in-situ radar sensing on {5G} base stations with zero-shot template generation},
+      author = {Gao, Zhihui and Liu, Zhecun and Chen, Tingjun},
+      journal = {arXiv preprint arXiv:2509.06898},
+      year = {2025},
+    }
+  </pre>
+  </div>
+
+* NEXUS: Efficient and scalable multi-cell mmWave baseband processing with heterogeneous compute.<br>
+  Zhenzhou Qi, Chung-Hsuan Tung, **Zhihui Gao**, and Tingjun Chen.<br>
+  <i> arXiv preprint arXiv:2509.04629 </i>, 2025.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-qi2025nexus');">bibtex</a>]
+  [[paper](https://arxiv.org/abs/2509.04629)]
+  <!-- [[publisher](https://arxiv.org/abs/2509.04629)] -->
+  <div id="bibtex-qi2025nexus" style="display:none">
+  <pre>
+    @article{qi2025nexus,
+      title = {NEXUS: Efficient and scalable multi-cell {mmWave} baseband processing with heterogeneous compute},
+      author = {Qi, Zhenzhou and Tung, Chung-Hsuan and Gao, Zhihui and Chen, Tingjun},
+      journal = {arXiv preprint arXiv:2509.04629},
+      year = {2025},
+    }
+  </pre>
+  </div>
+
 * IoT-MCP: Bridging LLMs and IoT systems through model context protocol.<br>
   Ningyuan Yang, Guanliang Lyu, Mingchen Ma, Yiyi Lu, Yiming Li, **Zhihui Gao**, Hancheng Ye, Jianyi Zhang, Tingjun Chen, and Yiran Chen.<br>
   <i> Proc. ACM MobiCom'25 Workshop on Wireless Network Testbeds, Experimental Evaluation & CHaracterization (**WiNTECH’25**) </i>, 2025.<br>
