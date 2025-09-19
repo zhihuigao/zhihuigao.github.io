@@ -18,6 +18,23 @@ You can also find my articles on
 
 ## <a name="year2025"></a> 2025
 
+* Chameleon: Integrated sensing and communication with sub-symbol beam switching in mmWave networks.<br>
+  **Zhihui Gao**, Zhecun Liu, and Tingjun Chen.<br>
+  <i> arXiv preprint arXiv:2509.14628 </i>, 2025.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2025chameleon');">bibtex</a>]
+  [[paper](https://arxiv.org/abs/2509.14628)]
+  <!-- [[publisher](https://arxiv.org/abs/2509.14628)] -->
+  <div id="bibtex-gao2025chameleon" style="display:none">
+  <pre>
+    @article{gao2025chameleon,
+      title = {Chameleon: Integrated sensing and communication with sub-symbol beam switching in {mmWave} networks},
+      author = {Gao, Zhihui and Liu, Zhecun and Chen, Tingjun},
+      journal = {arXiv preprint arXiv:2509.14628},
+      year = {2025},
+    }
+  </pre>
+  </div>
+
 * BatStation: Toward in-situ radar sensing on 5G base stations with zero-shot template generation.<br>
   **Zhihui Gao**, Zhecun Liu, and Tingjun Chen.<br>
   <i> arXiv preprint arXiv:2509.06898 </i>, 2025.<br>
