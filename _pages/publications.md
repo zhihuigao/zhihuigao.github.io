@@ -18,6 +18,21 @@ You can also find my articles on
 
 ## <a name="year2025"></a> 2025
 
+* WISE: Wireless analog computing at radio frequency for disaggregated deep learning inference.<br>
+  **Zhihui Gao**, Sri Krishna Vadlamani, Kfir Sulimany, Dirk Englund, Tingjun Chen.<br>
+  <i> Proc. Neurips'25 Workshop on AI and ML for Next-Generation Wireless Communications and Networking (**AI4NextG'25**)</i>, 2025.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2025wise');">bibtex</a>]
+  <div id="bibtex-gao2025wise" style="display:none">
+  <pre>
+  @inproceedings{gao2025wise,
+    title = {WISE: Wireless analog computing at radio frequency for disaggregated deep learning inference},
+    author = {Gao, Zhihui and Vadlamani, Sri Krishna and Sulimany, Kfir and Englund, Dirk and Chen, Tingjun},
+    journal = {Proc. AI4NextG'25},
+    year = {2025},
+  }
+  </pre>
+  </div>
+
 * Chameleon: Integrated sensing and communication with sub-symbol beam switching in mmWave networks.<br>
   **Zhihui Gao**, Zhecun Liu, and Tingjun Chen.<br>
   <i> arXiv preprint arXiv:2509.14628</i>, 2025.<br>
