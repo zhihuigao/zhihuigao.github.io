@@ -88,7 +88,9 @@ You can also find my articles on
   Ningyuan Yang, Guanliang Lyu, Mingchen Ma, Yiyi Lu, Yiming Li, **Zhihui Gao**, Hancheng Ye, Jianyi Zhang, Tingjun Chen, and Yiran Chen.<br>
   <i> Proc. ACM MobiCom'25 Workshop on Wireless Network Testbeds, Experimental Evaluation & CHaracterization (**WiNTECH'25**)</i>, 2025.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-yang2025iot');">bibtex</a>]
-  [[website](https://llm4iot.org/)][[code](https://github.com/Duke-CEI-Center/IoT-MCP-Servers)][[paper](https://arxiv.org/abs/2510.01260)]
+  [[website](https://llm4iot.org/)]
+  [[code](https://github.com/Duke-CEI-Center/IoT-MCP-Servers)]
+  [[paper](https://arxiv.org/abs/2510.01260)]
   <!-- [[publisher](https://dl.acm.org/doi/pdf/10.1145/3636534.3697310)] -->
   <div id="bibtex-yang2025iot" style="display:none">
   <pre>
