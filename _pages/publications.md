@@ -27,7 +27,7 @@ You can also find my articles on
   @inproceedings{gao2025wise,
     title = {WISE: Wireless analog computing at radio frequency for disaggregated deep learning inference},
     author = {Gao, Zhihui and Vadlamani, Sri Krishna and Sulimany, Kfir and Englund, Dirk and Chen, Tingjun},
-    journal = {Proc. AI4NextG'25},
+    booktitle = {Proc. AI4NextG'25},
     year = {2025},
   }
   </pre>
