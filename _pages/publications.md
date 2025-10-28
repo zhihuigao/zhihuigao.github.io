@@ -91,7 +91,7 @@ You can also find my articles on
   [[website](https://llm4iot.org/)]
   [[code](https://github.com/Duke-CEI-Center/IoT-MCP-Servers)]
   [[paper](https://arxiv.org/abs/2510.01260)]
-  <!-- [[publisher](https://dl.acm.org/doi/pdf/10.1145/3636534.3697310)] -->
+  <!-- [[publisher](https://dl.acm.org/doi/10.1145/3737895.3768303)] -->
   <div id="bibtex-yang2025iot" style="display:none">
   <pre>
   @inproceedings{yang2025iot,
