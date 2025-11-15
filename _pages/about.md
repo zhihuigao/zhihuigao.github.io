@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
- Hi, I am Zhihui Gao, a sixth-year Ph.D. student of electrical and computer engineering at Duke University, co-advised by [Prof. Tingjun Chen](https://tingjunchen.com/) and [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen).
+ Hi, I am Zhihui Gao, a final-year Ph.D. student of electrical and computer engineering at Duke University, co-advised by [Prof. Tingjun Chen](https://tingjunchen.com/) and [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen).
 
 Previously, I obtained my bachelor's degree in electrical engineering at Fudan University in 2020, advised by [Prof. Yuedong Xu](http://www.it.fudan.edu.cn/En/Data/View/1944).
 
