@@ -90,7 +90,7 @@
   }
 
   img {
-    max-width: 175px;
+    max-width: 300px;
     width: auto;
     height: auto;
     border-radius: 0 !important;
@@ -99,7 +99,7 @@
 
     @include breakpoint($large) {
       width: 100%;
-      max-width: 175px;
+      max-width: 300px;
       padding: 5px;
       border: 1px solid $border-color;
     }
