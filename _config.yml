@@ -21,7 +21,7 @@ repository               : "zhihuigao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_v2.png"
+  avatar           : "profile_v2.jpg"
   name             : "Zhihui Gao"
   pronouns         : # example: "she/her"
   bio              : "Ph.D. candidate in electrical and computer engineering"
