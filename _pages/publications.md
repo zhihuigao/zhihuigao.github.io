@@ -12,9 +12,29 @@ You can also find my articles on
 
 
 
-## [2025](#year2025) | [2024](#year2024) | [2023](#year2023) | [2022](#year2022) | [2021](#year2021) | [2020](#year2020)
+## [2026](#year2026) | [2025](#year2025) | [2024](#year2024) | [2023](#year2023) | [2022](#year2022) | [2021](#year2021) | [2020](#year2020)
 
 
+
+## <a name="year2026"></a> 2026
+
+* Disaggregated deep learning via in-physics computing at radio frequency.<br>
+  **Zhihui Gao**, Sri Krishna Vadlamani, Kfir Sulimany, Dirk Englund, Tingjun Chen.<br>
+  <i> Science Advances </i>, 2026.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2025disaggregated');">bibtex</a>]
+  [[code](https://github.com/functions-lab/WISE)]
+  [[paper](https://arxiv.org/abs/2504.17752)]
+  <!-- [[publisher](https://arxiv.org/abs/2504.17752)] -->
+  <div id="bibtex-gao2025disaggregated" style="display:none">
+  <pre>
+  @article{gao2025disaggregated,
+    title = {Disaggregated deep learning via in-physics computing at radio frequency},
+    author = {Gao, Zhihui and Vadlamani, Sri Krishna and Sulimany, Kfir and Englund, Dirk and Chen, Tingjun},
+    journal = {arXiv preprint arXiv:2504.17752},
+    year = {2025},
+  }
+  </pre>
+  </div>
 
 ## <a name="year2025"></a> 2025
 
@@ -162,24 +182,6 @@ You can also find my articles on
     title = {Machine intelligence on wireless edge networks},
     author = {Vadlamani, Sri Krishna and Sulimany, Kfir and Gao, Zhihui and Chen, Tingjun and Englund, Dirk},
     journal = {arXiv preprint arXiv:2506.12210},
-    year = {2025},
-  }
-  </pre>
-  </div>
-
-* Disaggregated deep learning via in-physics computing at radio frequency.<br>
-  **Zhihui Gao**, Sri Krishna Vadlamani, Kfir Sulimany, Dirk Englund, Tingjun Chen.<br>
-  <i> arXiv preprint arXiv:2504.17752</i>, 2025.<br>
-  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2025disaggregated');">bibtex</a>]
-  [[code](https://github.com/functions-lab/WISE)]
-  [[paper](https://arxiv.org/abs/2504.17752)]
-  <!-- [[publisher](https://arxiv.org/abs/2504.17752)] -->
-  <div id="bibtex-gao2025disaggregated" style="display:none">
-  <pre>
-  @article{gao2025disaggregated,
-    title = {Disaggregated deep learning via in-physics computing at radio frequency},
-    author = {Gao, Zhihui and Vadlamani, Sri Krishna and Sulimany, Kfir and Englund, Dirk and Chen, Tingjun},
-    journal = {arXiv preprint arXiv:2504.17752},
     year = {2025},
   }
   </pre>
