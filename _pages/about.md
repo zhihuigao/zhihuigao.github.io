@@ -7,18 +7,30 @@ redirect_from:
   - /about.html
 ---
 
- Hi, I am Zhihui Gao, a final-year Ph.D. student of electrical and computer engineering at Duke University, co-advised by [Prof. Tingjun Chen](https://tingjunchen.com/) and [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen).
+Hi, I am Zhihui Gao, a final-year Ph.D. student of electrical and computer engineering at Duke University, co-advised by [Prof. Tingjun Chen](https://tingjunchen.com/) and [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen).
 
 Previously, I obtained my bachelor's degree in electrical engineering at Fudan University in 2020, advised by [Prof. Yuedong Xu](http://www.it.fudan.edu.cn/En/Data/View/1944).
 
 <span style="color: red;">I am on the job market for tenure-track faculty positions in ECE and CS starting in Fall 2026!</span>
 
-Research Interests:
+
+
+Research Interests
 -----
 - Next-Generation Network Systems
 - Machine Learning Acceleration
 - Cyber-Physical Systems
 - Simulation-to-Reality
+
+
+
+News
+-----
+- **Nov, 2025**
+One paper is accepted in Science Advances!
+
+- **Oct, 2025**
+Deliver a talk at the Athena Seminar Series [[video](https://www.youtube.com/watch?v=4VTDT47eAfk)].
 
 
 
