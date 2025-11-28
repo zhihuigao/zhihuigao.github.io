@@ -26,7 +26,7 @@ Selected Publications
 -----
 <!-- https://zhihuigao.github.io http://localhost:4000-->
 ![image](https://zhihuigao.github.io/images/WISE.png){: style="float: left; margin-top: 1em; margin-right: 1em;  margin-bottom: 1em;" width="200"}
-Disaggregated deep learning via in-physics computing at radio frequency.<br>
+Disaggregated machine learning via in-physics computing at radio frequency.<br>
   **Zhihui Gao**, Sri Krishna Vadlamani, Kfir Sulimany, Dirk Englund, Tingjun Chen.<br>
   <i>Science Advances</i>, 2026.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2025disaggregated');">bibtex</a>]
