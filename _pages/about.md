@@ -13,14 +13,7 @@ Previously, I obtained my bachelor's degree in electrical engineering at Fudan U
 
 <span style="color: red;">I am on the job market for tenure-track faculty positions in ECE and CS starting in Fall 2026!</span>
 
-
-
-Research Interests
------
-- Next-Generation Network Systems
-- Machine Learning Acceleration
-- Cyber-Physical Systems
-- Simulation-to-Reality
+My Research Interests include, but are not limited to (i) _Next-Generation Network Systems_, (ii) _Machine Learning Acceleration_, (iii) _Cyber-Physical Systems_, and (iv) _Simulation-to-Reality_.
 
 
 
