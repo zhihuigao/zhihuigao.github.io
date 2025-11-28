@@ -27,10 +27,10 @@ Research Interests
 News
 -----
 - **Nov, 2025**
-One paper is accepted in Science Advances!
+One paper is accepted in _Science Advances_!
 
 - **Oct, 2025**
-Deliver a talk at the Athena Seminar Series [[video](https://www.youtube.com/watch?v=4VTDT47eAfk)].
+Deliver a talk at the _Athena Seminar Series_ [[video](https://www.youtube.com/watch?v=4VTDT47eAfk)].
 
 
 
