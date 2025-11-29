@@ -29,6 +29,9 @@ One [paper](https://arxiv.org/abs/2509.04625) is conditionally accepted in _ACM 
 Deliver a [talk](https://www.youtube.com/watch?v=4VTDT47eAfk) at the _Athena Seminar Series_!
 
 - **Sept, 2025**
+One [paper](https://dl.acm.org/doi/10.1145/3737895.3768303) is accepted in _MobiCom Workshop WiNTECH’25_!
+
+- **Sept, 2025**
 One paper (as the first author) is accepted in _NeurIPS Workshop AI4NextG'25_!
 
 - **Aug, 2025**
