@@ -20,10 +20,19 @@ My Research Interests include, but are not limited to (i) _Next-Generation Netwo
 News
 -----
 - **Nov, 2025**
-One paper is accepted in _Science Advances_!
+One [paper](https://arxiv.org/abs/2504.17752) (as the first author) is accepted in _Science Advances_!
+
+- **Nov, 2025**
+One [paper](https://arxiv.org/abs/2509.04625) is conditionally accepted in _ACM MobiCom'26_!
 
 - **Oct, 2025**
-Deliver a talk at the _Athena Seminar Series_ [[video](https://www.youtube.com/watch?v=4VTDT47eAfk)].
+Deliver a [talk](https://www.youtube.com/watch?v=4VTDT47eAfk) at the _Athena Seminar Series_!
+
+- **Sept, 2025**
+One paper (as the first author) is accepted in _NeurIPS Workshop AI4NextG'25_!
+
+- **Aug, 2025**
+Three papers are now available on ArXiv.
 
 
 
