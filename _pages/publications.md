@@ -36,6 +36,23 @@ You can also find my articles on
   </pre>
   </div>
 
+* NEXUS: Efficient and scalable multi-cell mmWave baseband processing with heterogeneous compute.<br>
+  Zhenzhou Qi, Chung-Hsuan Tung, **Zhihui Gao**, and Tingjun Chen.<br>
+  <i> Proc. ACM International Conference on Mobile Computing and Networking (**MobiCom'26**)</i>, 2026.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-qi2026nexus');">bibtex</a>]
+  [[paper](https://arxiv.org/abs/2509.04625)]
+  <!-- [[publisher](https://arxiv.org/abs/2509.04625)] -->
+  <div id="bibtex-qi2026nexus" style="display:none">
+  <pre>
+  @article{qi2026nexus,
+    title = {NEXUS: Efficient and scalable multi-cell {mmWave} baseband processing with heterogeneous compute},
+    author = {Qi, Zhenzhou and Tung, Chung-Hsuan and Gao, Zhihui and Chen, Tingjun},
+    journal = {Proc. ACM MobiCom'26},
+    year = {2026},
+  }
+  </pre>
+  </div>
+
 ## <a name="year2025"></a> 2025
 
 * WISE: Wireless analog computing at radio frequency for disaggregated deep learning inference.<br>
@@ -82,23 +99,6 @@ You can also find my articles on
     title = {BatStation: Toward in-situ radar sensing on {5G} base stations with zero-shot template generation},
     author = {Gao, Zhihui and Liu, Zhecun and Chen, Tingjun},
     journal = {arXiv preprint arXiv:2509.06898},
-    year = {2025},
-  }
-  </pre>
-  </div>
-
-* NEXUS: Efficient and scalable multi-cell mmWave baseband processing with heterogeneous compute.<br>
-  Zhenzhou Qi, Chung-Hsuan Tung, **Zhihui Gao**, and Tingjun Chen.<br>
-  <i> arXiv preprint arXiv:2509.04625</i>, 2025.<br>
-  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-qi2025nexus');">bibtex</a>]
-  [[paper](https://arxiv.org/abs/2509.04625)]
-  <!-- [[publisher](https://arxiv.org/abs/2509.04625)] -->
-  <div id="bibtex-qi2025nexus" style="display:none">
-  <pre>
-  @article{qi2025nexus,
-    title = {NEXUS: Efficient and scalable multi-cell {mmWave} baseband processing with heterogeneous compute},
-    author = {Qi, Zhenzhou and Tung, Chung-Hsuan and Gao, Zhihui and Chen, Tingjun},
-    journal = {arXiv preprint arXiv:2509.04625},
     year = {2025},
   }
   </pre>
