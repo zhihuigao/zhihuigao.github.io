@@ -110,7 +110,7 @@ You can also find my articles on
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-yang2025iot');">bibtex</a>]
   [[website](https://llm4iot.org/)]
   [[code](https://github.com/Duke-CEI-Center/IoT-MCP-Servers)]
-  [[paper](https://arxiv.org/abs/2510.01260)]
+  [[paper](https://dl.acm.org/doi/10.1145/3737895.3768303)]
   <!-- [[publisher](https://dl.acm.org/doi/10.1145/3737895.3768303)] -->
   <div id="bibtex-yang2025iot" style="display:none">
   <pre>
