@@ -11,9 +11,9 @@ Hi, I am Zhihui Gao, a final-year Ph.D. student of electrical and computer engin
 
 Previously, I obtained my bachelor's degree in electrical engineering at Fudan University in 2020, advised by [Prof. Yuedong Xu](http://www.it.fudan.edu.cn/En/Data/View/1944).
 
-<span style="color: red;">I am on the job market for tenure-track faculty positions in ECE and CS starting in Fall 2026!</span>
-
 My Research Interests include, but are not limited to (i) _Next-Generation Network Systems_, (ii) _Machine Learning Acceleration_, (iii) _Cyber-Physical Systems_, and (iv) _Simulation-to-Reality_.
+
+<span style="color: red;">I am on the job market for tenure-track faculty positions in ECE and CS starting in Fall 2026!</span>
 
 
 
@@ -45,7 +45,7 @@ Selected Publications
 ![image](https://zhihuigao.github.io/images/WISE.png){: style="float: left; margin-top: 1em; margin-right: 1em;  margin-bottom: 1em;" width="200"}
 Disaggregated machine learning via in-physics computing at radio frequency.<br>
   **Zhihui Gao**, Sri Krishna Vadlamani, Kfir Sulimany, Dirk Englund, Tingjun Chen.<br>
-  <i>Science Advances</i>, 2026.<br>
+  <i>**Science Advances**</i>, 2026.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2025disaggregated');">bibtex</a>]
   [[code](https://github.com/functions-lab/WISE)]
   [[paper](https://arxiv.org/abs/2504.17752)]
@@ -53,10 +53,11 @@ Disaggregated machine learning via in-physics computing at radio frequency.<br>
   <div id="bibtex-gao2025disaggregated" style="display:none">
   <pre>
     @article{gao2025disaggregated,
-      title = {Disaggregated Deep Learning via In-Physics Computing at Radio Frequency},
+      title = {Disaggregated deep learning via in-physics computing at radio frequency},
       author = {Gao, Zhihui and Vadlamani, Sri Krishna and Sulimany, Kfir and Englund, Dirk and Chen, Tingjun},
       journal = {arXiv preprint arXiv:2504.17752},
-      year = {2025},
+      year = {2026},
+      publisher = {American Association for the Advancement of Science},
     }
   </pre>
   </div>
