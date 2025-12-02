@@ -20,7 +20,7 @@ You can also find my articles on
 
 * Disaggregated machine learning via in-physics computing at radio frequency.<br>
   **Zhihui Gao**, Sri Krishna Vadlamani, Kfir Sulimany, Dirk Englund, Tingjun Chen.<br>
-  <i> Science Advances </i>, 2026.<br>
+  <i>**Science Advances**</i>, 2026.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2025disaggregated');">bibtex</a>]
   [[code](https://github.com/functions-lab/WISE)]
   [[paper](https://arxiv.org/abs/2504.17752)]
@@ -30,8 +30,9 @@ You can also find my articles on
   @article{gao2025disaggregated,
     title = {Disaggregated deep learning via in-physics computing at radio frequency},
     author = {Gao, Zhihui and Vadlamani, Sri Krishna and Sulimany, Kfir and Englund, Dirk and Chen, Tingjun},
-    journal = {arXiv preprint arXiv:2504.17752},
-    year = {2025},
+    journal = {Science Advances},
+    year = {2026},
+    publisher = {American Association for the Advancement of Science},
   }
   </pre>
   </div>
