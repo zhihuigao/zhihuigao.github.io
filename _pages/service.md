@@ -30,3 +30,5 @@ author_profile: true
 * [**High School Outreach, Inspiring Minds**](https://athena.duke.edu/education-outreach) <br>
   Hillside High School (Durham, NC) <br>
   Fall 2023, Spring 2023
+
+![image](https://zhihuigao.github.io/images/teaching_2023_Hillside.jpg){: style="float: left; margin-top: 0.3em; margin-right: 1em;" width="500"}
