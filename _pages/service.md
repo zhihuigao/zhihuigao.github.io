@@ -36,6 +36,6 @@ author_profile: true
        alt="High School Outreach at Hillside High School">
 
   <figcaption style="font-size:0.9em; color:#666; text-align:center;">
-    NSF Athena Center's outreach team at Hillside High School in Fall 2023.
+    NSF Athena Center outreach team at Hillside High School, Fall 2023.
   </figcaption>
 </figure>
