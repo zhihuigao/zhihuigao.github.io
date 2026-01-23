@@ -24,6 +24,7 @@ You can also find my articles on
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2026disaggregated');">bibtex</a>]
   [[code](https://github.com/functions-lab/WISE)]
   [[paper](https://www.science.org/doi/10.1126/sciadv.adz0817)]
+  [[report](https://pratt.duke.edu/news/using-the-physics-of-radio-waves-to-empower-smarter-edge-devices/)]
   <!-- [[publisher](https://www.science.org/doi/10.1126/sciadv.adz0817)] -->
   <div id="bibtex-gao2026disaggregated" style="display:none">
   <pre>
