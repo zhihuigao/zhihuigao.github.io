@@ -31,4 +31,7 @@ author_profile: true
   Hillside High School (Durham, NC) <br>
   Fall 2023, Spring 2023
 
+<img src="https://zhihuigao.github.io/images/teaching_2023_Hillside.jpg"
+     style="float:left; margin-top:0.3em; margin-right:1em; width:500px;">
+
 ![image](https://zhihuigao.github.io/images/teaching_2023_Hillside.jpg){: style="float: left; margin-top: 0.3em; margin-right: 1em;" width="500"}
