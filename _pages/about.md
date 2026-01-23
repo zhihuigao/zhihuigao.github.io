@@ -42,7 +42,7 @@ Three papers are now available on ArXiv.
 Selected Publications
 -----
 <!-- https://zhihuigao.github.io http://localhost:4000-->
-![image](https://zhihuigao.github.io/images/publication_2026_WISE.jpg){: style="float: left; margin-top: 1em; margin-right: 1em;  margin-bottom: 1em;" width="200"}
+![image](https://zhihuigao.github.io/images/publication_2026_WISE.jpg){: style="float: left; margin-top: 0em; margin-right: 1em;  margin-bottom: 0em;" width="200"}
 Disaggregated machine learning via in-physics computing at radio frequency.<br>
   **Zhihui Gao**, Sri Krishna Vadlamani, Kfir Sulimany, Dirk Englund, Tingjun Chen.<br>
   <i>**Science Advances**</i>, 2026.<br>
