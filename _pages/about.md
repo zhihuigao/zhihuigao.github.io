@@ -17,8 +17,11 @@ My Research Interests include, but are not limited to (i) _Next-Generation Netwo
 
 
 
-News
+**News**
 -----
+- **Jan, 2026**
+Serve as a course client for _DATA481/766_ at UNC!
+
 - **Nov, 2025**
 One [paper](https://arxiv.org/abs/2504.17752) (as the first author) is accepted in _Science Advances_!
 
@@ -39,7 +42,7 @@ Three papers are now available on ArXiv.
 
 
 
-Selected Publications
+**Selected Publications**
 -----
 <!-- https://zhihuigao.github.io http://localhost:4000-->
 ![image](https://zhihuigao.github.io/images/publication_2026_WISE.jpg){: style="float: left; margin-top: 0em; margin-right: 1em;  margin-bottom: 0em;" width="200"}
