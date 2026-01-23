@@ -31,7 +31,11 @@ author_profile: true
   Hillside High School (Durham, NC) <br>
   Fall 2023, Spring 2023
 
-<img src="https://zhihuigao.github.io/images/teaching_2023_Hillside.jpg"
-     style="float:left; margin-top:0.3em; margin-right:1em; width:500px;">
+<figure style="float:left; margin-top:0.3em; margin-right:1em; width:500px;">
+  <img src="https://zhihuigao.github.io/images/teaching_2023_Hillside.jpg"
+       alt="High School Outreach at Hillside High School">
 
-![image](https://zhihuigao.github.io/images/teaching_2023_Hillside.jpg){: style="float: left; margin-top: 0.3em; margin-right: 1em;" width="500"}
+  <figcaption style="font-size:0.9em; color:#666; text-align:center;">
+    NSF Athena Center's outreach team at Hillside High School in Fall 2023.
+  </figcaption>
+</figure>
