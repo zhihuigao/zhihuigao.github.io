@@ -31,7 +31,7 @@ author_profile: true
   Hillside High School (Durham, NC) <br>
   Fall 2023, Spring 2023
 
-<figure style="float:left; margin-top:0.3em; margin-right:1em; width:500px;">
+<figure style="clear:both; margin-top:0.3em; margin-right:1em; width:500px;">
   <img src="https://zhihuigao.github.io/images/teaching_2023_Hillside.jpg"
        alt="High School Outreach at Hillside High School">
 
