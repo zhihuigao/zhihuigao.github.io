@@ -27,7 +27,7 @@ You can also find my articles on
   <div id="bibtex-gao2026chameleon" style="display:none">
   <pre>
   @article{gao2026chameleon,
-    title = {{CHAMELEON}: Integrated sensing and communication with sub-symbol beam switching in {mmWave} networks},
+    title = {CHAMELEON: Integrated sensing and communication with sub-symbol beam switching in {mmWave} networks},
     author = {Gao, Zhihui and Liu, Zhecun and Chen, Tingjun},
     journal = {IEEE RFSA'26},
     year = {2026},
