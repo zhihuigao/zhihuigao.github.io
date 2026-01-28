@@ -148,6 +148,7 @@ You can also find my articles on
   Yiming Li, Scarlett Francini, **Zhihui Gao**, Tingjun Chen.<br>
   <i> Proc. IEEE Military Communications Conference (**MILCOM'25 Demo**)</i>, 2025.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-li2025clickdt');">bibtex</a>]
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11310611)]
   <div id="bibtex-li2025clickdt" style="display:none">
   <pre>
   @inproceedings{li2025clickdt,
@@ -163,6 +164,7 @@ You can also find my articles on
   Wei Cheng, **Zhihui Gao**, Jose Guajardo, Hesham Beshary, Ali Niknejad, Tingjun Chen.<br>
   <i> Proc. IEEE Military Communications Conference (**MILCOM'25**)</i>, 2025.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-cheng2025spear');">bibtex</a>]
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11310057)]
   <div id="bibtex-cheng2025spear" style="display:none">
   <pre>
   @inproceedings{cheng2025spear,
