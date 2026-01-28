@@ -20,6 +20,9 @@ My Research Interests include, but are not limited to (i) _Next-Generation Netwo
 **News**
 -----
 - **Jan, 2026**
+One paper (as the first author) is accepted in _IEEE RFSA'26_!
+
+- **Jan, 2026**
 Serve as a course client for _DATA481/766_ at UNC!
 
 - **Nov, 2025**
