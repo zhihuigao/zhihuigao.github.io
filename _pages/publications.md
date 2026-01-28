@@ -18,6 +18,23 @@ You can also find my articles on
 
 ## <a name="year2026"></a> 2026
 
+* CHAMELEON: Integrated Sensing and Communication with Sub-Symbol Beam Switching in mmWave Networks.<br>
+  **Zhihui Gao**, Zhecun Liu, and Tingjun Chen.<br>
+  <i> IEEE MTT-S RF Systems & Applications (RFSA) Symposium (**RFSA'26**)</i>, 2026.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2026chameleon');">bibtex</a>]
+  To appear
+  <!-- [[publisher](https://arxiv.org/abs/2509.14628)] -->
+  <div id="bibtex-gao2026chameleon" style="display:none">
+  <pre>
+  @article{gao2026chameleon,
+    title = {{CHAMELEON}: Integrated sensing and communication with sub-symbol beam switching in {mmWave} networks},
+    author = {Gao, Zhihui and Liu, Zhecun and Chen, Tingjun},
+    journal = {IEEE RFSA'26},
+    year = {2026},
+  }
+  </pre>
+  </div>
+
 * Disaggregated machine learning via in-physics computing at radio frequency.<br>
   **Zhihui Gao**, Sri Krishna Vadlamani, Kfir Sulimany, Dirk Englund, Tingjun Chen.<br>
   <i>**Science Advances**</i>, 2026.<br>
