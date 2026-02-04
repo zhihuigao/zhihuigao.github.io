@@ -51,7 +51,7 @@ Three papers are now available on ArXiv.
 <div class="video-embed" aria-label="Talk at Athena Seminar Series — video player">
   <iframe
     loading="lazy"
-    src="https://www.youtube-nocookie.com/embed/4VTDT47eAfk"
+    src="https://www.youtube.com/watch?v=4VTDT47eAfk"
     title="Athena Seminar Series talk — Zhihui Gao"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
