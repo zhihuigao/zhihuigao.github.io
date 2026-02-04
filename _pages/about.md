@@ -48,10 +48,10 @@ My Research Interests include, but are not limited to (i) _Next-Generation Netwo
 <div class="video-embed" aria-label="Talk at Athena Seminar Series — video player">
   <iframe
     loading="lazy"
-    src="https://www.youtube.com/watch?v=4VTDT47eAfk"
+    src="https://www.youtube.com/embed/4VTDT47eAfk"
     title="Athena Seminar Series talk — Zhihui Gao"
     frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
   </iframe>
 </div>
@@ -60,6 +60,7 @@ My Research Interests include, but are not limited to (i) _Next-Generation Netwo
 .video-embed { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 1rem 0; }
 .video-embed iframe { position: absolute; top:0; left:0; width:100%; height:100%; border:0; }
 </style>
+
 
 
 
