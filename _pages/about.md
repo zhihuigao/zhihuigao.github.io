@@ -20,7 +20,12 @@ My Research Interests include, but are not limited to (i) _Next-Generation Netwo
 **News**
 -----
 
-<div class="news-scroll">
+<div style="
+  max-height: 11.5em;
+  overflow-y: auto;
+  padding-right: 0.5rem;
+  margin-bottom: 1rem;
+">
 
 - **Jan, 2026**  
   One paper (as the first author) is accepted in _IEEE RFSA'26_!
@@ -47,6 +52,7 @@ My Research Interests include, but are not limited to (i) _Next-Generation Netwo
   Three papers are now available on ArXiv.
 
 </div>
+
 
 
 
