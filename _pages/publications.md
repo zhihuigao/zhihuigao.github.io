@@ -26,8 +26,8 @@ You can also find my articles on
   <!-- [[publisher](https://arxiv.org/abs/2509.14628)] -->
   <div id="bibtex-gao2026chameleon" style="display:none">
   <pre>
-  @article{gao2026chameleon,
-    title = {CHAMELEON: Integrated sensing and communication with sub-symbol beam switching in {mmWave} networks},
+  @inproceedings{gao2026chameleon,
+    title = {Chameleon: Integrated sensing and communication with sub-symbol beam switching in {mmWave} networks},
     author = {Gao, Zhihui and Liu, Zhecun and Chen, Tingjun},
     journal = {IEEE RFSA'26},
     year = {2026},
@@ -48,11 +48,16 @@ You can also find my articles on
   <div id="bibtex-gao2026disaggregated" style="display:none">
   <pre>
   @article{gao2026disaggregated,
-    title = {Disaggregated deep learning via in-physics computing at radio frequency},
+    title = {Disaggregated machine learning via in-physics computing at radio frequency},
     author = {Gao, Zhihui and Vadlamani, Sri Krishna and Sulimany, Kfir and Englund, Dirk and Chen, Tingjun},
     journal = {Science Advances},
+    volume = {12},
+    number = {2},
+    pages = {eadz0817},
     year = {2026},
     publisher = {American Association for the Advancement of Science},
+    topic_primary = {AI/ML},
+    topic_secondary = {Wireless}
   }
   </pre>
   </div>
@@ -65,8 +70,8 @@ You can also find my articles on
   <!-- [[publisher](https://arxiv.org/abs/2509.04625)] -->
   <div id="bibtex-qi2026nexus" style="display:none">
   <pre>
-  @article{qi2026nexus,
-    title = {NEXUS: Efficient and scalable multi-cell {mmWave} baseband processing with heterogeneous compute},
+  @inproceedings{qi2026nexus,
+    title = {Nexus: Efficient and scalable multi-cell {mmWave} baseband processing with heterogeneous compute},
     author = {Qi, Zhenzhou and Tung, Chung-Hsuan and Gao, Zhihui and Chen, Tingjun},
     journal = {Proc. ACM MobiCom'26},
     year = {2026},
@@ -80,6 +85,7 @@ You can also find my articles on
   **Zhihui Gao**, Sri Krishna Vadlamani, Kfir Sulimany, Dirk Englund, Tingjun Chen.<br>
   <i> Proc. Neurips'25 Workshop on AI and ML for Next-Generation Wireless Communications and Networking (**AI4NextG'25**)</i>, 2025.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2025wise');">bibtex</a>]
+  [[paper](https://neurips.cc/virtual/2025/loc/san-diego/123188)]
   <div id="bibtex-gao2025wise" style="display:none">
   <pre>
   @inproceedings{gao2025wise,
