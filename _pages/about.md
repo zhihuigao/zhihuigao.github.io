@@ -45,6 +45,27 @@ Three papers are now available on ArXiv.
 
 
 
+**Research Highlights**
+-----
+<!-- Responsive 16:9 YouTube embed -->
+<div class="video-embed" aria-label="Talk at Athena Seminar Series — video player">
+  <iframe
+    loading="lazy"
+    src="https://www.youtube-nocookie.com/embed/4VTDT47eAfk"
+    title="Athena Seminar Series talk — Zhihui Gao"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<style>
+.video-embed { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 1rem 0; }
+.video-embed iframe { position: absolute; top:0; left:0; width:100%; height:100%; border:0; }
+</style>
+
+
+
 **Selected Publications**
 -----
 <!-- https://zhihuigao.github.io http://localhost:4000-->
