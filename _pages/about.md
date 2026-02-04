@@ -19,29 +19,35 @@ My Research Interests include, but are not limited to (i) _Next-Generation Netwo
 
 **News**
 -----
-- **Jan, 2026**
-One paper (as the first author) is accepted in _IEEE RFSA'26_!
 
-- **Jan, 2026**
-Serve as a course client for _DATA481/766_ at UNC!
+<div class="news-scroll">
 
-- **Nov, 2025**
-One [paper](https://arxiv.org/abs/2504.17752) (as the first author) is accepted in _Science Advances_!
+- **Jan, 2026**  
+  One paper (as the first author) is accepted in _IEEE RFSA'26_!
 
-- **Nov, 2025**
-One [paper](https://arxiv.org/abs/2509.04625) is conditionally accepted in _ACM MobiCom'26_!
+- **Jan, 2026**  
+  Serve as a course client for _DATA481/766_ at UNC!
 
-- **Oct, 2025**
-Deliver a [talk](https://www.youtube.com/watch?v=4VTDT47eAfk) at the _Athena Seminar Series_!
+- **Nov, 2025**  
+  One [paper](https://arxiv.org/abs/2504.17752) (as the first author) is accepted in _Science Advances_!
 
-- **Sept, 2025**
-One [paper](https://dl.acm.org/doi/10.1145/3737895.3768303) is accepted in _MobiCom Workshop WiNTECH’25_!
+- **Nov, 2025**  
+  One [paper](https://arxiv.org/abs/2509.04625) is conditionally accepted in _ACM MobiCom'26_!
 
-- **Sept, 2025**
-One paper (as the first author) is accepted in _NeurIPS Workshop AI4NextG'25_!
+- **Oct, 2025**  
+  Deliver a [talk](https://www.youtube.com/watch?v=4VTDT47eAfk) at the _Athena Seminar Series_!
 
-- **Aug, 2025**
-Three papers are now available on ArXiv.
+- **Sept, 2025**  
+  One [paper](https://dl.acm.org/doi/10.1145/3737895.3768303) is accepted in _MobiCom Workshop WiNTECH’25_!
+
+- **Sept, 2025**  
+  One paper (as the first author) is accepted in _NeurIPS Workshop AI4NextG'25_!
+
+- **Aug, 2025**  
+  Three papers are now available on ArXiv.
+
+</div>
+
 
 
 
