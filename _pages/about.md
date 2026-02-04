@@ -22,11 +22,11 @@ My Research Interests include, but are not limited to (i) _Next-Generation Netwo
 
 <div markdown="1" style="max-height:21.5em; overflow-y:auto; padding-right:0.5rem; margin-bottom:1rem; box-sizing:border-box; -webkit-overflow-scrolling:touch;">
 
-- **Jan, 2026**  One （first author) paper is accepted in _IEEE RFSA'26_!
+- **Jan, 2026**  One first-author-paper is accepted in _IEEE RFSA'26_!
 
 - **Jan, 2026**  Serve as a course client for _DATA481/766_ at UNC!
 
-- **Nov, 2025**  One (first author) [paper](https://arxiv.org/abs/2504.17752) is accepted in _Science Advances_!
+- **Nov, 2025**  One first-author-[paper](https://arxiv.org/abs/2504.17752) is accepted in _Science Advances_!
 
 - **Nov, 2025**  One [paper](https://arxiv.org/abs/2509.04625) is accepted in _ACM MobiCom'26_!
 
@@ -34,7 +34,7 @@ My Research Interests include, but are not limited to (i) _Next-Generation Netwo
 
 - **Sept, 2025**  One [paper](https://dl.acm.org/doi/10.1145/3737895.3768303) is accepted in _MobiCom Workshop WiNTECH’25_!
 
-- **Sept, 2025**  One (first author) paper is accepted in _NeurIPS Workshop AI4NextG'25_!
+- **Sept, 2025**  One first-author-paper is accepted in _NeurIPS Workshop AI4NextG'25_!
 
 - **Aug, 2025**  Three papers are now available on ArXiv.
 
@@ -60,9 +60,6 @@ My Research Interests include, but are not limited to (i) _Next-Generation Netwo
 .video-embed { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 1rem 0; }
 .video-embed iframe { position: absolute; top:0; left:0; width:100%; height:100%; border:0; }
 </style>
-
-
-
 
 
 
