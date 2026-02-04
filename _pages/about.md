@@ -20,12 +20,7 @@ My Research Interests include, but are not limited to (i) _Next-Generation Netwo
 **News**
 -----
 
-<div style="
-  max-height: 11.5em;
-  overflow-y: auto;
-  padding-right: 0.5rem;
-  margin-bottom: 1rem;
-">
+<div markdown="1" style="max-height:11.5em; overflow-y:auto; padding-right:0.5rem; margin-bottom:1rem; box-sizing:border-box; -webkit-overflow-scrolling:touch;">
 
 - **Jan, 2026**  
   One paper (as the first author) is accepted in _IEEE RFSA'26_!
@@ -40,7 +35,7 @@ My Research Interests include, but are not limited to (i) _Next-Generation Netwo
   One [paper](https://arxiv.org/abs/2509.04625) is conditionally accepted in _ACM MobiCom'26_!
 
 - **Oct, 2025**  
-  Deliver a [talk](https://www.youtube.com/watch?v=4VTDT47eAfk) at the _Athena Seminar Series_!
+  Deliver a [talk](https://www.youtube.com/watch?v=4VTDT47eAfk&t=122s) at the _Athena Seminar Series_!
 
 - **Sept, 2025**  
   One [paper](https://dl.acm.org/doi/10.1145/3737895.3768303) is accepted in _MobiCom Workshop WiNTECH’25_!
@@ -52,7 +47,6 @@ My Research Interests include, but are not limited to (i) _Next-Generation Netwo
   Three papers are now available on ArXiv.
 
 </div>
-
 
 
 
