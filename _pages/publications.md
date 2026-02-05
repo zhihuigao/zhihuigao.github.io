@@ -18,7 +18,7 @@ You can also find my articles on
 
 ## <a name="year2026"></a> 2026
 
-* CHAMELEON: Integrated Sensing and Communication with Sub-Symbol Beam Switching in mmWave Networks.<br>
+* Chameleon: Integrated Sensing and Communication with Sub-Symbol Beam Switching in mmWave Networks.<br>
   **Zhihui Gao**, Zhecun Liu, and Tingjun Chen.<br>
   <i> IEEE MTT-S RF Systems & Applications (RFSA) Symposium (**RFSA'26**)</i>, 2026.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2026chameleon');">bibtex</a>]
@@ -56,13 +56,11 @@ You can also find my articles on
     pages = {eadz0817},
     year = {2026},
     publisher = {American Association for the Advancement of Science},
-    topic_primary = {AI/ML},
-    topic_secondary = {Wireless}
   }
   </pre>
   </div>
 
-* NEXUS: Efficient and scalable multi-cell mmWave baseband processing with heterogeneous compute.<br>
+* Nexus: Efficient and scalable multi-cell mmWave baseband processing with heterogeneous compute.<br>
   Zhenzhou Qi, Chung-Hsuan Tung, **Zhihui Gao**, and Tingjun Chen.<br>
   <i> Proc. ACM International Conference on Mobile Computing and Networking (**MobiCom'26**)</i>, 2026.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-qi2026nexus');">bibtex</a>]
@@ -150,9 +148,9 @@ You can also find my articles on
   </pre>
   </div>
 
-* Demo: ClickDT: Building scalable and high-resolution wireless digital twins with a few clicks.<br>
+* ClickDT: Building scalable and high-resolution wireless digital twins with a few clicks.<br>
   Yiming Li, Scarlett Francini, **Zhihui Gao**, Tingjun Chen.<br>
-  <i> Proc. IEEE Military Communications Conference (**MILCOM'25 Demo**)</i>, 2025.<br>
+  <i> (Demo) Proc. IEEE Military Communications Conference (**MILCOM'25**)</i>, 2025.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-li2025clickdt');">bibtex</a>]
   [[paper](https://ieeexplore.ieee.org/abstract/document/11310611)]
   <div id="bibtex-li2025clickdt" style="display:none">
@@ -160,7 +158,7 @@ You can also find my articles on
   @inproceedings{li2025clickdt,
     title = {ClickDT: Building scalable and high-resolution wireless digital twins with a few clicks},
     author={Li, Yiming and Francini, Scarlett and Gao, Zhihui and Chen, Tingjun},
-    booktitle={Proc. IEEE MILCOM'25 Demo},
+    booktitle={Proc. IEEE MILCOM'25},
     year={2025}
   }
   </pre>
@@ -253,9 +251,9 @@ You can also find my articles on
   </pre>
   </div>
 
-* Demo: Real-time Wideband Software-defined Radio with Python Programmability based on RFSoC.<br>
+* Real-time Wideband Software-defined Radio with Python Programmability based on RFSoC.<br>
   Wei Cheng, **Zhihui Gao**, and Tingjun Chen.<br>
-  <i> Proc. ACM International Conference on Mobile Computing and Networking (**MobiCom'24 Demo**)</i>, 2024.<br>
+  <i> (Demo) Proc. ACM International Conference on Mobile Computing and Networking (**MobiCom'24**)</i>, 2024.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-cheng2024real');">bibtex</a>]
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3636534.3698855)]
   <!-- [[publisher](https://dl.acm.org/doi/pdf/10.1145/3636534.3698855)] -->
@@ -264,7 +262,7 @@ You can also find my articles on
   @inproceedings{cheng2024real,
     title={Real-time wideband software-defined radio with Python programmability based on {RFSoC}},
     author={Cheng, Wei and Gao, Zhihui and Chen, Tingjun},
-    booktitle={Proc. ACM MobiCom'24 Demo},
+    booktitle={Proc. ACM MobiCom'24},
     year={2024}
   }
   </pre>
@@ -366,7 +364,7 @@ You can also find my articles on
 
 * Open-access millimeter-wave software-defined radios in the PAWR COSMOS testbed: Design, deployment, and experimentation.<br>
   Tingjun Chen, Prasanthi Maddala, Panagiotis Skrimponis, Jakub Kolodziejski, Abhishek Adhikari, Hang Hu, **Zhihui Gao**, Arun Paidimarri, Alberto Valdes-Garcia, Myung Lee, Sundeep Rangan, Gil Zussman, Ivan Seskar.<br>
-  <i> (INVITED) Elsevier Computer Networks (**COMNET**)</i>, 2023.<br>
+  <i> (Invited) Elsevier Computer Networks (**COMNET**)</i>, 2023.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-chen2023open');">bibtex</a>]
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1389128623003675?via%3Dihub)]
   <!-- [[publisher](https://www.sciencedirect.com/science/article/abs/pii/S1389128623003675?via%3Dihub)] -->
@@ -390,7 +388,7 @@ You can also find my articles on
 
 * Next generation federated learning for edge devices: An overview.<br>
   Jianyi Zhang, Zhixu Du, Jingwei Sun, Ang Li, Minxue Tang, Yuhao Wu, **Zhihui Gao**, Martin Kuo, Hai-Helen Li, Yiran Chen.<br>
-  <i>  (INVITED) In Proc. IEEE International Conference on Collaboration and Internet Computing (**CIC'22**)</i>, 2022.<br>
+  <i>  (Invited) In Proc. IEEE International Conference on Collaboration and Internet Computing (**CIC'22**)</i>, 2022.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-zhang2022next');">bibtex</a>]
   [[paper](https://ieeexplore.ieee.org/abstract/document/10061731)]
   <!-- [[publisher](https://ieeexplore.ieee.org/abstract/document/10061731)] -->
@@ -425,7 +423,7 @@ You can also find my articles on
 
 * An audio frequency unfolding framework for ultra-low sampling rate sensors.<br>
   **Zhihui Gao**, Minxue Tang, Ang Li, Yiran Chen.<br>
-  <i> (INVITED) Proc. IEEE International Symposium on Quality Electronic Design (**ISQED'22**)</i>, 2022.<br>
+  <i> (Invited) Proc. IEEE International Symposium on Quality Electronic Design (**ISQED'22**)</i>, 2022.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2022audio');">bibtex</a>]
   [[paper](https://ieeexplore.ieee.org/document/9806149)]
   <!-- [[publisher](https://ieeexplore.ieee.org/document/9806149)] -->
@@ -446,7 +444,7 @@ You can also find my articles on
 
 * FedSwap: A federated learning based 5G decentralized dynamic spectrum access system.<br>
   **Zhihui Gao**, Ang Li, Yunfan Gao, Bing Li, Yu Wang, Yiran Chen.<br>
-  <i> (INVITED) Proc. IEEE/ACM International Conference On Computer Aided Design (**ICCAD'21**)</i>, 2021.<br>
+  <i> (Invited) Proc. IEEE/ACM International Conference On Computer Aided Design (**ICCAD'21**)</i>, 2021.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2021fedswap');">bibtex</a>]
   [[paper](https://ieeexplore.ieee.org/document/9643496)]
   <!-- [[publisher](https://ieeexplore.ieee.org/document/9643496)] -->
