@@ -11,7 +11,7 @@ author_profile: true
   <img src="https://zhihuigao.github.io/images/research_overview.png">
 
   <figcaption style="font-size:0.9em; color:#666; text-align:center;">
-    I serve as a course client in DATA481/766 at UNC, Spring 2026.
+    My research overview.
   </figcaption>
 </figure>
 
