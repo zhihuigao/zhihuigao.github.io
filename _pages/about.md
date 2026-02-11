@@ -77,7 +77,6 @@ Disaggregated machine learning via in-physics computing at radio frequency.<br>
   [[paper](https://www.science.org/doi/10.1126/sciadv.adz0817)]
   [[talk](https://www.youtube.com/watch?v=4VTDT47eAfk)]
   [[news](https://pratt.duke.edu/news/using-the-physics-of-radio-waves-to-empower-smarter-edge-devices/)]
-  [[report(CN)](https://mp.weixin.qq.com/s/II5PcGZG5fk-NumDiD4Spg)]
   <!-- [[publisher](https://www.science.org/doi/10.1126/sciadv.adz0817)] -->
   <div id="bibtex-gao2026disaggregated" style="display:none">
   <pre>
