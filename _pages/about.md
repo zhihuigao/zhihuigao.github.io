@@ -22,6 +22,8 @@ My Research Interests include, but are not limited to (i) _Next-Generation Netwo
 
 <div markdown="1" style="max-height:18em; overflow-y:auto; padding-right:0.5rem; margin-bottom:1rem; box-sizing:border-box; -webkit-overflow-scrolling:touch;">
 
+- **Feb, 2026**  Deliver a [talk](https://oqe.nonlocally.org/event/2026-02-18%2011:00:00/0/) at the [_MIT OQE Seminars_](https://oqesem.mit.edu/)!
+
 - **Jan, 2026**  One first-author-paper is accepted in _IEEE RFSA'26_!
 
 - **Jan, 2026**  Serve as a course client for _DATA481/766_ at UNC!
