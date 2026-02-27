@@ -18,6 +18,22 @@ You can also find my articles on
 
 ## <a name="year2026"></a> 2026
 
+* SPEAR-BF: Wideband Multi-Channel D-Band Beamformer based on the RFSoC Platform.<br>
+  Wei Cheng, **Zhihui Gao**, Jose Guajardo, Hesham Beshary, Yiran Chen, Ali Niknejad, Tingjun Chen.<br>
+  <i> Proc. IEEE International Symposium on Dynamic Spectrum Access Networks (**DySPAN'26**)</i>, 2026.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-cheng2026spear');">bibtex</a>]
+  To appear
+  <div id="bibtex-cheng2026spear" style="display:none">
+  <pre>
+  @inproceedings{cheng2026spear,
+    title={SPEAR-BF: Wideband multi-channel {D}-band beamformer based on the {RFSoC} platform},
+    author={Cheng, Wei and Gao, Zhihui and Guajardo, Jose and Beshary, Hesham and Chen, Yiran and Niknejad, Ali and Chen, Tingjun},
+    booktitle={Proc. IEEE DySPAN'26},
+    year={2026}
+  }
+  </pre>
+  </div>
+
 * Chameleon: Integrated Sensing and Communication with Sub-Symbol Beam Switching in mmWave Networks.<br>
   **Zhihui Gao**, Zhecun Liu, and Tingjun Chen.<br>
   <i> IEEE MTT-S RF Systems & Applications (RFSA) Symposium (**RFSA'26**)</i>, 2026.<br>
