@@ -22,6 +22,8 @@ My Research Interests include, but are not limited to (i) _Next-Generation Netwo
 
 <div markdown="1" style="max-height:18em; overflow-y:auto; padding-right:0.5rem; margin-bottom:1rem; box-sizing:border-box; -webkit-overflow-scrolling:touch;">
 
+- **Mar, 2026**  Deliver a talk at the [_APS Summit 2026_](https://summit.aps.org/)!
+
 - **Feb, 2026**  One paper is accepted in _IEEE DySPAN'26_!
 
 - **Feb, 2026**  Deliver a [talk](https://oqe.nonlocally.org/event/2026-02-18%2011:00:00/0/) at the [_MIT OQE Seminars_](https://oqesem.mit.edu/)!
@@ -30,7 +32,7 @@ My Research Interests include, but are not limited to (i) _Next-Generation Netwo
 
 - **Jan, 2026**  Serve as a course client for _DATA481/766_ at UNC!
 
-- **Nov, 2025**  One first-author-[paper](https://arxiv.org/abs/2504.17752) is accepted in _Science Advances_!
+- **Nov, 2025**  One first-author-[paper](https://www.science.org/doi/10.1126/sciadv.adz0817) is accepted in _Science Advances_!
 
 - **Nov, 2025**  One [paper](https://arxiv.org/abs/2509.04625) is accepted in _ACM MobiCom'26_!
 
@@ -159,7 +161,7 @@ Swirls: Sniffing Wi-Fi using radios with low sampling rates.<br>
   **Zhihui Gao**\*, Yunfan Gao\*, Sulei Wang, Dan Li, Yuedong Xu.<br>
   <i> IEEE Internet of Things Journal (**IoT Journal**)</i>, 2020.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2020crisloc');">bibtex</a>]
-  [[dataset](https://github.com/zhihuigao/CRISLoc_dataset)]
+  [[dataset](https://github.com/Fudan-MediaNET/CRISLoc)]
   [[paper](https://ieeexplore.ieee.org/abstract/document/9187854)]
   <!-- [[publisher](https://ieeexplore.ieee.org/abstract/document/9187854)] -->
   <div id="bibtex-gao2020crisloc" style="display:none">
