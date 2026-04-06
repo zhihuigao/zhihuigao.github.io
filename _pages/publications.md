@@ -18,6 +18,23 @@ You can also find my articles on
 
 ## <a name="year2026"></a> 2026
 
+* OASIS: Outlier-Aware LUT-Based GEMM with Dual-Side Quantization for LLM Inference Acceleration.<br>
+  Xueying Wu, Baijun Zhou, **Zhihui Gao**, Yuzhe Fu, Qilin Zheng, Yintao He, Hai Li.<br>
+  <i> Proc. IEEE/ACM International Symposium on Computer Architecture (**ISCA'26**)</i>, 2026.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-wu2026oasis');">bibtex</a>]
+  To appear
+  <!-- [[publisher](https://arxiv.org/abs/2507.23035)] -->
+  <div id="bibtex-wu2026oasis" style="display:none">
+  <pre>
+  @inproceedings{wu2026oasis,
+    title = {OASIS: Outlier-aware {LUT}-based {GEMM} with dual-side quantization for {LLM} inference acceleration},
+    author = {Wu, Xueying and Zhou, Baijun and Gao, Zhihui and Fu, Yuzhe and Zheng, Qilin and He, Yintao and Li, Hai},
+    booktitle={Proc. IEEE/ACM ISCA'26},
+    year = {2026},
+  }
+  </pre>
+  </div>
+
 * SPEAR-BF: Wideband Multi-Channel D-Band Beamformer based on the RFSoC Platform.<br>
   Wei Cheng, **Zhihui Gao**, Jose Guajardo, Hesham Beshary, Yiran Chen, Ali Niknejad, Tingjun Chen.<br>
   <i> Proc. IEEE International Symposium on Dynamic Spectrum Access Networks (**DySPAN'26**)</i>, 2026.<br>
