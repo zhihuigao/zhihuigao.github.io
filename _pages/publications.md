@@ -62,7 +62,7 @@ You can also find my articles on
   @inproceedings{gao2026chameleon,
     title = {Chameleon: Integrated sensing and communication with sub-symbol beam switching in {mmWave} networks},
     author = {Gao, Zhihui and Liu, Zhecun and Chen, Tingjun},
-    journal = {IEEE RFSA'26},
+    booktitle = {Proc. IEEE MTT-S RFSA'26},
     year = {2026},
   }
   </pre>
