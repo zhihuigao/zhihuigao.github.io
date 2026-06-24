@@ -18,6 +18,24 @@ You can also find my articles on
 
 ## <a name="year2026"></a> 2026
 
+* Machine Intelligence at the Wireless Edge.<br>
+  Kfir Sulimany, Sri Krishna Vadlamani, **Zhihui Gao**, Tingjun Chen, Dirk Englund.<br>
+  <i> APS Global Physics Summit 2026 (**APS 2026**)</i>, 2026.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-sulimany2026machine');">bibtex</a>]
+  [[paper](https://meetings-archive.aps.org/smt/2026/mar-s19/12/)]
+  <!-- [[publisher](https://meetings-archive.aps.org/smt/2026/mar-s19/12/)] -->
+  <div id="bibtex-sulimany2026machine" style="display:none">
+  <pre>
+  @inproceedings{sulimany2026machine,
+    title={Machine intelligence at the wireless edge},
+    author={Sulimany, Kfir and Vadlamani, Sri Krishna and Gao, Zhihui and Chen, Tingjun and Englund, Dirk},
+    booktitle={APS Global Physics Summit 2026},
+    year={2026},
+    organization={APS}
+  }
+  </pre>
+  </div>
+
 * OASIS: Outlier-Aware LUT-Based GEMM with Dual-Side Quantization for LLM Inference Acceleration.<br>
   Xueying Wu, Baijun Zhou, **Zhihui Gao**, Yuzhe Fu, Qilin Zheng, Yintao He, Hai Li.<br>
   <i> Proc. IEEE/ACM International Symposium on Computer Architecture (**ISCA'26**)</i>, 2026.<br>
