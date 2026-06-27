@@ -22,6 +22,8 @@ My Research Interests include, but are not limited to (i) _Next-Generation Netwo
 
 <div markdown="1" style="max-height:18em; overflow-y:auto; padding-right:0.5rem; margin-bottom:1rem; box-sizing:border-box; -webkit-overflow-scrolling:touch;">
 
+- **Jun, 2026**  One first-author-paper is accepted in _IEEE Transactions on Mobile Computing_!
+
 - **Mar, 2026**  One paper is accepted in _IEEE/ACM ISCA'26_!
 
 - **Mar, 2026**  Deliver a talk at the [_APS Summit 2026_](https://summit.aps.org/)!
@@ -71,6 +73,23 @@ My Research Interests include, but are not limited to (i) _Next-Generation Netwo
 
 **Selected Publications**
 -----
+<!-- https://zhihuigao.github.io http://localhost:4000-->
+![image](https://zhihuigao.github.io/images/Chameleon.png){: style="float: left; margin-top: 0em; margin-right: 1em;  margin-bottom: 0em;" width="200"}
+Sub-symbol beam switching with CSI extraction for ISAC in 5G mmWave networks.<br>
+  **Zhihui Gao**, Zhecun Liu, Tingjun Chen.<br>
+  <i>IEEE Transactions on Mobile Computing</i>, 2026.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2026sub');">bibtex</a>]
+  <div id="bibtex-gao2026sub" style="display:none">
+  <pre>
+    @article{gao2026sub,
+      title = {Sub-symbol beam switching with CSI extraction for ISAC in 5G mmWave networks},
+      author = {Gao, Zhihui and Liu, Zhecun and Chen, Tingjun},
+      journal = {IEEE Trans. Mob. Comput.},
+      year = {2026},
+    }
+  </pre>
+  </div>
+
 <!-- https://zhihuigao.github.io http://localhost:4000-->
 ![image](https://zhihuigao.github.io/images/publication_2026_WISE.jpg){: style="float: left; margin-top: 0em; margin-right: 1em;  margin-bottom: 0em;" width="200"}
 Disaggregated machine learning via in-physics computing at radio frequency.<br>
