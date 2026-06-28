@@ -106,17 +106,19 @@ redirect_from:
   }
 
   .publication {
-    display: flex;
-    gap: 1rem;
-    align-items: flex-start;
-    padding: 1rem 0;
+    display: grid;
+    grid-template-columns: minmax(260px, 34%) minmax(0, 1fr);
+    column-gap: 1.7rem;
+    align-items: center;
+    padding: 1.35rem 0;
     border-bottom: 1px solid #edf0f5;
     clear: both;
   }
 
   .publication img {
-    width: 480px;
-    max-width: 36%;
+    width: 100%;
+    max-width: none;
+    aspect-ratio: 4 / 3;
     border-radius: 10px;
     border: 1px solid #e6e8ee;
     object-fit: cover;
@@ -124,7 +126,6 @@ redirect_from:
   }
 
   .publication-content {
-    flex: 1;
     min-width: 0;
     line-height: 1.55;
   }
