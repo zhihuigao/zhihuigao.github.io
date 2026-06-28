@@ -170,19 +170,16 @@ redirect_from:
 
 <div class="home-hero" markdown="1">
 
-# Zhihui Gao
-
-Hi, I am Zhihui Gao, a final-year Ph.D. student in Electrical and Computer Engineering (ECE) at Duke University, co-advised by [Prof. Tingjun Chen](https://functions-lab.github.io/) and [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen).
+Hi, I am **Zhihui Gao**, a final-year Ph.D. student in Electrical and Computer Engineering (ECE) at Duke University, co-advised by [Prof. Tingjun Chen](https://functions-lab.github.io/) and [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen).
 
 Previously, I obtained my bachelor's degree in Electrical Engineering (EE) from Fudan University in 2020, advised by [Prof. Yuedong Xu](http://www.it.fudan.edu.cn/En/Data/View/1944).
 
-My research interests include _Next-Generation Network Systems_, _Machine Learning Acceleration_, and _Cyber-Physical Systems_.
+My research interests include:
 
 <div class="tag-row">
-  <span>Next-Generation Networks</span>
-  <span>Machine Learning Acceleration</span>
+  <span>Network Systems</span>
+  <span>Machine Learning Systems</span>
   <span>Cyber-Physical Systems</span>
-  <span>Wireless Systems</span>
 </div>
 
 <div class="job-market">
@@ -235,7 +232,7 @@ My research interests include _Next-Generation Network Systems_, _Machine Learni
 **Zhihui Gao**, Zhecun Liu, Tingjun Chen.  
 <i>IEEE Transactions on Mobile Computing</i>, 2026.
 <div class="pub-links" markdown="1">
-[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2026sub');">bibtex</a>]
+<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2026sub');">bibtex</a>
 </div>
 <div id="bibtex-gao2026sub" style="display:none">
 <pre>
@@ -257,11 +254,11 @@ My research interests include _Next-Generation Network Systems_, _Machine Learni
 **Zhihui Gao**, Sri Krishna Vadlamani, Kfir Sulimany, Dirk Englund, Tingjun Chen.  
 <i><b>Science Advances</b></i>, 2026.
 <div class="pub-links" markdown="1">
-[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2026disaggregated');">bibtex</a>]
-[[code](https://github.com/functions-lab/WISE)]
-[[paper](https://www.science.org/doi/10.1126/sciadv.adz0817)]
-[[talk](https://www.youtube.com/watch?v=4VTDT47eAfk)]
-[[news](https://pratt.duke.edu/news/using-the-physics-of-radio-waves-to-empower-smarter-edge-devices/)]
+<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2026disaggregated');">bibtex</a>
+[code](https://github.com/functions-lab/WISE)
+[paper](https://www.science.org/doi/10.1126/sciadv.adz0817)
+[talk](https://www.youtube.com/watch?v=4VTDT47eAfk)
+[news](https://pratt.duke.edu/news/using-the-physics-of-radio-waves-to-empower-smarter-edge-devices/)
 </div>
 <div id="bibtex-gao2026disaggregated" style="display:none">
 <pre>
@@ -284,10 +281,10 @@ My research interests include _Next-Generation Network Systems_, _Machine Learni
 **Zhihui Gao**, Zhenzhou Qi, Tingjun Chen.  
 <i>Proc. ACM International Conference on Mobile Computing and Networking (<b>MobiCom'24</b>)</i>, 2024.
 <div class="pub-links" markdown="1">
-[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2024mambas');">bibtex</a>]
-[[code](https://github.com/functions-lab/MAMBAS-MobiCom2024)]
-[[testbed](https://wiki.cosmos-lab.org/wiki/Tutorials/Wireless/mmwavePaamLinkRate)]
-[[paper](https://dl.acm.org/doi/pdf/10.1145/3636534.3649390)]
+<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2024mambas');">bibtex</a>
+[code](https://github.com/functions-lab/MAMBAS-MobiCom2024)
+[testbed](https://wiki.cosmos-lab.org/wiki/Tutorials/Wireless/mmwavePaamLinkRate)
+[paper](https://dl.acm.org/doi/pdf/10.1145/3636534.3649390)
 </div>
 <div id="bibtex-gao2024mambas" style="display:none">
 <pre>
@@ -309,9 +306,9 @@ My research interests include _Next-Generation Network Systems_, _Machine Learni
 **Zhihui Gao**, Yiran Chen, Tingjun Chen.  
 <i>Proc. ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (<b>MobiHoc'23</b>)</i>, 2023.
 <div class="pub-links" markdown="1">
-[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2023swirls');">bibtex</a>]
-[[code](https://github.com/functions-lab/SWIRLS-MobiHoc2023)]
-[[paper](https://dl.acm.org/doi/abs/10.1145/3565287.3610279)]
+<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2023swirls');">bibtex</a>
+[code](https://github.com/functions-lab/SWIRLS-MobiHoc2023)
+[paper](https://dl.acm.org/doi/abs/10.1145/3565287.3610279)
 </div>
 <div id="bibtex-gao2023swirls" style="display:none">
 <pre>
@@ -333,9 +330,9 @@ My research interests include _Next-Generation Network Systems_, _Machine Learni
 **Zhihui Gao**, Ang Li, Dong Li, Jialin Liu, Jie Xiong, Yu Wang, Bing Li, Yiran Chen.  
 <i>Proc. ACM/IEEE International Conference on Information Processing in Sensor Networks (<b>IPSN'22</b>)</i>, 2022.
 <div class="pub-links" markdown="1">
-[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2022mom');">bibtex</a>]
-[[code](https://github.com/zhihuigao/IPSN2022-MOM)]
-[[paper](https://ieeexplore.ieee.org/abstract/document/9826109)]
+<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2022mom');">bibtex</a>
+[code](https://github.com/zhihuigao/IPSN2022-MOM)
+[paper](https://ieeexplore.ieee.org/abstract/document/9826109)
 </div>
 <div id="bibtex-gao2022mom" style="display:none">
 <pre>
@@ -357,9 +354,9 @@ My research interests include _Next-Generation Network Systems_, _Machine Learni
 **Zhihui Gao**\*, Yunfan Gao\*, Sulei Wang, Dan Li, Yuedong Xu.  
 <i>IEEE Internet of Things Journal (<b>IoT Journal</b>)</i>, 2020.
 <div class="pub-links" markdown="1">
-[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2020crisloc');">bibtex</a>]
-[[dataset](https://github.com/Fudan-MediaNET/CRISLoc)]
-[[paper](https://ieeexplore.ieee.org/abstract/document/9187854)]
+<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2020crisloc');">bibtex</a>
+[dataset](https://github.com/Fudan-MediaNET/CRISLoc)
+[paper](https://ieeexplore.ieee.org/abstract/document/9187854)
 </div>
 <div id="bibtex-gao2020crisloc" style="display:none">
 <pre>
