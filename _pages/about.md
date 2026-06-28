@@ -227,7 +227,7 @@ My research interests include:
 {: .section-title}
 
 <div class="publication" markdown="1">
-<img src="https://zhihuigao.github.io/images/Chameleon.png" alt="Chameleon project image">
+<img src="https://zhihuigao.github.io/images/Chameleon.jpg" alt="Chameleon project image">
 <div class="publication-content" markdown="1">
 <div class="pub-title">Sub-symbol beam switching with CSI extraction for ISAC in 5G mmWave networks.</div>
 **Zhihui Gao**, Zhecun Liu, Tingjun Chen.  
