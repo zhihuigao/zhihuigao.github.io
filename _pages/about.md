@@ -115,7 +115,7 @@ redirect_from:
   }
 
   .publication img {
-    width: 200px;
+    width: 480px;
     max-width: 36%;
     border-radius: 10px;
     border: 1px solid #e6e8ee;
