@@ -234,6 +234,7 @@ My research interests include:
 <i>IEEE Transactions on Mobile Computing</i>, 2026.
 <div class="pub-links" markdown="1">
 <a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2026sub');">bibtex</a>
+[paper](https://ieeexplore.ieee.org/abstract/document/11593404)
 </div>
 <div id="bibtex-gao2026sub" style="display:none">
 <pre>
