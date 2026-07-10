@@ -18,20 +18,20 @@ You can also find my articles on
 
 ## <a name="year2026"></a> 2026
 
-* Machine Intelligence at the Wireless Edge.<br>
-  Kfir Sulimany, Sri Krishna Vadlamani, **Zhihui Gao**, Tingjun Chen, Dirk Englund.<br>
-  <i> APS Global Physics Summit 2026 (**APS 2026**)</i>, 2026.<br>
-  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-sulimany2026machine');">bibtex</a>]
-  [[paper](https://meetings-archive.aps.org/smt/2026/mar-s19/12/)]
-  <!-- [[publisher](https://meetings-archive.aps.org/smt/2026/mar-s19/12/)] -->
-  <div id="bibtex-sulimany2026machine" style="display:none">
+* Sub-symbol beam switching with CSI extraction for ISAC in 5G mmWave networks.<br>
+  **Zhihui Gao**, Zhecun Liu, and Tingjun Chen.<br>
+  <i> IEEE Transactions on Mobile Computing (**TMC**)</i>, 2026.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2026sub');">bibtex</a>]
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11593404)]
+  <!-- [[publisher](https://ieeexplore.ieee.org/abstract/document/11593404)] -->
+  <div id="bibtex-gao2026sub" style="display:none">
   <pre>
-  @inproceedings{sulimany2026machine,
-    title={Machine intelligence at the wireless edge},
-    author={Sulimany, Kfir and Vadlamani, Sri Krishna and Gao, Zhihui and Chen, Tingjun and Englund, Dirk},
-    booktitle={APS Global Physics Summit 2026},
+  @article{gao2026sub,
+    title={Sub-symbol beam switching with {CSI} extraction for {ISAC} in {5G} {mmWave} networks},
+    author={Gao, Zhihui and Liu, Zhecun and Chen, Tingjun},
+    journal={Trans. Mob. Comput.},
     year={2026},
-    organization={APS}
+    publisher={IEEE}
   }
   </pre>
   </div>
