@@ -171,9 +171,9 @@ redirect_from:
 
 <div class="home-hero" markdown="1">
 
-Hi, I am **Zhihui Gao**, a final-year Ph.D. student in Electrical and Computer Engineering (ECE) at Duke University, co-advised by [Prof. Tingjun Chen](https://functions-lab.github.io/) and [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen).
+Hi, I am **Zhihui Gao**, a Postdoctoral Associate in the Department of Electrical Engineering and Computer Science (EECS) at MIT, where I work with [Prof. Dirk Englund](https://qp.mit.edu/).
 
-Previously, I obtained my bachelor's degree in Electrical Engineering (EE) from Fudan University in 2020, advised by [Prof. Yuedong Xu](http://www.it.fudan.edu.cn/En/Data/View/1944).
+I received my Ph.D. in Electrical and Computer Engineering (ECE) from Duke University in 2026, where I was co-advised by [Prof. Tingjun Chen](https://functions-lab.github.io/) and [Prof. Yiran Chen](https://cei.pratt.duke.edu/). Before that, I earned my B.Eng. in Electrical Engineering (EE) from Fudan University in 2020, where I worked with [Prof. Yuedong Xu](https://ydxu2025.github.io/).
 
 My research interests include:
 
@@ -184,7 +184,7 @@ My research interests include:
 </div>
 
 <div class="job-market">
-  I am on the job market for tenure-track faculty positions in ECE and CS starting in Fall 2026!
+  I am on the job market for tenure-track faculty positions in ECE and CS starting in Fall 2027!
 </div>
 
 </div>
@@ -194,7 +194,7 @@ My research interests include:
 
 <div class="news-box" markdown="1">
 
-- **Jun, 2026** One first-author paper is accepted in _IEEE Transactions on Mobile Computing_!
+- **Jun, 2026** One first-author [paper](https://ieeexplore.ieee.org/abstract/document/11593404) is accepted in _IEEE Transactions on Mobile Computing_!
 - **Mar, 2026** One paper is accepted in _IEEE/ACM ISCA'26_!
 - **Mar, 2026** Deliver a talk at the [_APS Summit 2026_](https://summit.aps.org/)!
 - **Feb, 2026** One paper is accepted in _IEEE DySPAN'26_!
