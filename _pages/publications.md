@@ -61,7 +61,7 @@ You can also find my articles on
   <div id="bibtex-cheng2026spear" style="display:none">
   <pre>
   @inproceedings{cheng2026spear,
-    title={{SPEAR-BF}: Wideband multi-channel {D}-band beamformer based on the {RFSoC} platform},
+    title={SPEAR-BF: Wideband multi-channel {D}-band beamformer based on the {RFSoC} platform},
     author={Cheng, Wei and Gao, Zhihui and Guajardo, Jose and Beshary, Hesham and Chen, Yiran and Niknejad, Ali M and Chen, Tingjun},
     booktitle={Proc. IEEE DySPAN'26},
     year={2026}
