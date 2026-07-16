@@ -61,8 +61,8 @@ You can also find my articles on
   <div id="bibtex-cheng2026spear" style="display:none">
   <pre>
   @inproceedings{cheng2026spear,
-    title={SPEAR-BF: Wideband multi-channel {D}-band beamformer based on the {RFSoC} platform},
-    author={Cheng, Wei and Gao, Zhihui and Guajardo, Jose and Beshary, Hesham and Chen, Yiran and Niknejad, Ali and Chen, Tingjun},
+    title={{SPEAR-BF}: Wideband multi-channel {D}-band beamformer based on the {RFSoC} platform},
+    author={Cheng, Wei and Gao, Zhihui and Guajardo, Jose and Beshary, Hesham and Chen, Yiran and Niknejad, Ali M and Chen, Tingjun},
     booktitle={Proc. IEEE DySPAN'26},
     year={2026}
   }
@@ -98,14 +98,14 @@ You can also find my articles on
   <div id="bibtex-gao2026disaggregated" style="display:none">
   <pre>
   @article{gao2026disaggregated,
-    title = {Disaggregated machine learning via in-physics computing at radio frequency},
-    author = {Gao, Zhihui and Vadlamani, Sri Krishna and Sulimany, Kfir and Englund, Dirk and Chen, Tingjun},
-    journal = {Science Advances},
-    volume = {12},
-    number = {2},
-    pages = {eadz0817},
-    year = {2026},
-    publisher = {American Association for the Advancement of Science},
+    title={Disaggregated machine learning via in-physics computing at radio frequency},
+    author={Gao, Zhihui and Vadlamani, Sri Krishna and Sulimany, Kfir and Englund, Dirk and Chen, Tingjun},
+    journal={Science Advances},
+    volume={12},
+    number={2},
+    pages={eadz0817},
+    year={2026},
+    publisher={American Association for the Advancement of Science}
   }
   </pre>
   </div>
