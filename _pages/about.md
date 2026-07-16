@@ -265,11 +265,14 @@ My research interests include:
 <div id="bibtex-gao2026disaggregated" style="display:none">
 <pre>
 @article{gao2026disaggregated,
-  title = {Disaggregated deep learning via in-physics computing at radio frequency},
-  author = {Gao, Zhihui and Vadlamani, Sri Krishna and Sulimany, Kfir and Englund, Dirk and Chen, Tingjun},
-  journal = {Science Advances},
-  year = {2026},
-  publisher = {American Association for the Advancement of Science},
+  title={Disaggregated machine learning via in-physics computing at radio frequency},
+  author={Gao, Zhihui and Vadlamani, Sri Krishna and Sulimany, Kfir and Englund, Dirk and Chen, Tingjun},
+  journal={Science Advances},
+  volume={12},
+  number={2},
+  pages={eadz0817},
+  year={2026},
+  publisher={American Association for the Advancement of Science}
 }
 </pre>
 </div>
