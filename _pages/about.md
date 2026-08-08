@@ -194,6 +194,7 @@ My research interests include:
 
 <div class="news-box" markdown="1">
 
+- **Aug, 2026** One paper is accepted in _IEEE MILCOM'26_!
 - **Jun, 2026** One first-author [paper](https://ieeexplore.ieee.org/abstract/document/11593404) is accepted in _IEEE Transactions on Mobile Computing_!
 - **Mar, 2026** One paper is accepted in _IEEE/ACM ISCA'26_!
 - **Mar, 2026** Deliver a talk at the [_APS Summit 2026_](https://summit.aps.org/)!
