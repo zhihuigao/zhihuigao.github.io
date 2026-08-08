@@ -18,6 +18,22 @@ You can also find my articles on
 
 ## <a name="year2026"></a> 2026
 
+* ARCTAN: Arbitrary RF containment using tactical aerial networks and differentiable ray tracing.<br>
+  Sam Rivera, **Zhihui Gao**, Yiming Li, Tingjun Chen.<br>
+  <i> (Demo) Proc. IEEE Military Communications Conference (**MILCOM'26**)</i>, 2025.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-rivera2026arctan');">bibtex</a>]
+  to appear
+  <div id="bibtex-rivera2026arctan" style="display:none">
+  <pre>
+  @inproceedings{rivera2026arctan,
+    title = {ARCTAN: Arbitrary {RF} containment using tactical aerial networks and differentiable ray tracing},
+    author={Rivera, Sam and Gao, Zhihui and Li, Yiming and Chen, Tingjun},
+    booktitle={Proc. IEEE MILCOM'26},
+    year={2026}
+  }
+  </pre>
+  </div>
+
 * Sub-symbol beam switching with CSI extraction for ISAC in 5G mmWave networks.<br>
   **Zhihui Gao**, Zhecun Liu, and Tingjun Chen.<br>
   <i> IEEE Transactions on Mobile Computing (**TMC**)</i>, 2026.<br>
@@ -57,7 +73,7 @@ You can also find my articles on
   Wei Cheng, **Zhihui Gao**, Jose Guajardo, Hesham Beshary, Yiran Chen, Ali Niknejad, Tingjun Chen.<br>
   <i> Proc. IEEE International Symposium on Dynamic Spectrum Access Networks (**DySPAN'26**)</i>, 2026.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-cheng2026spear');">bibtex</a>]
-  To appear
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11571108)]
   <div id="bibtex-cheng2026spear" style="display:none">
   <pre>
   @inproceedings{cheng2026spear,
@@ -73,7 +89,7 @@ You can also find my articles on
   **Zhihui Gao**, Zhecun Liu, and Tingjun Chen.<br>
   <i> IEEE MTT-S RF Systems & Applications (RFSA) Symposium (**RFSA'26**)</i>, 2026.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2026chameleon');">bibtex</a>]
-  To appear
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11624210)]
   <!-- [[publisher](https://arxiv.org/abs/2509.14628)] -->
   <div id="bibtex-gao2026chameleon" style="display:none">
   <pre>
