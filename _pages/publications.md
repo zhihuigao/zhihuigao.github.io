@@ -20,7 +20,7 @@ You can also find my articles on
 
 * ARCTAN: Arbitrary RF containment using tactical aerial networks and differentiable ray tracing.<br>
   Sam Rivera, **Zhihui Gao**, Yiming Li, Tingjun Chen.<br>
-  <i> (Demo) Proc. IEEE Military Communications Conference (**MILCOM'26**)</i>, 2025.<br>
+  <i> Proc. IEEE Military Communications Conference (**MILCOM'26**)</i>, 2025.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-rivera2026arctan');">bibtex</a>]
   to appear
   <div id="bibtex-rivera2026arctan" style="display:none">
