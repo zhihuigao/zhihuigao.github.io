@@ -6,11 +6,12 @@ author_profile: true
 ---
 
 ## Technical Program Committee
-* ACM MobiCom’25 Workshop on Intelligent Acoustic Systems and Applications ([IASA'25](https://intelligent-acoustics.org/2025/)), 2025. <br>
+* ACM MobiCom’25 Workshop on Wireless of the Students, by the Students, and for the Students Workshop ([ACM S3 Workshop](https://s3-workshop.neslab.it/)), 2026. <br>
+* ACM MobiCom’25 Workshop on Intelligent Acoustic Systems and Applications ([ACM IASA'25](https://intelligent-acoustics.org/2025/)), 2025. <br>
 
 ## Reviewer
 * ACM Transactions on Computing for Healthcare, 2025.
-* IEEE Transactions on Mobile Computing, 2025.
+* IEEE Transactions on Mobile Computing, 2025/2026.
 * IEEE INFOCOM DTWIN’25, 2025.
 * IEEE Transactions on Network Science and Engineering, 2024/2025.
 * IEEE Communications Standards Magazine, 2024.
@@ -18,7 +19,7 @@ author_profile: true
 * IEEE MASS’24, 2024.
 * IEEE Transactions on Wireless Communications, 2024.
 * ACM/IEEE SEC’22, 2022.
-* IEEE Internet of Things Journal, 2022/2024/2025
+* IEEE Internet of Things Journal, 2022/2024/2025/2026.
 
 
 
