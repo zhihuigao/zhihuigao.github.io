@@ -178,22 +178,6 @@ Names marked with * denote equal contribution.</p>
 </div>
 
 <div class="pub">
-  <div class="pub-title">Chameleon: Integrated Sensing and Communication with Sub-Symbol Beam Switching in mmWave Networks</div>
-  <div class="pub-authors"><b>Zhihui Gao</b>, Zhecun Liu, and Tingjun Chen</div>
-  <div class="pub-venue"><span class="pub-badge">arXiv</span> arXiv preprint arXiv:2509.14628, 2025</div>
-  <div class="pub-links">
-    <button type="button" class="bib-toggle" data-bib="bibtex-gao2025chameleon">BibTeX</button>
-    <a href="https://arxiv.org/abs/2509.14628">paper</a>
-  </div>
-  <div class="bib" id="bibtex-gao2025chameleon"><pre>@article{gao2025chameleon,
-  title = {Chameleon: Integrated sensing and communication with sub-symbol beam switching in {mmWave} networks},
-  author = {Gao, Zhihui and Liu, Zhecun and Chen, Tingjun},
-  journal = {arXiv preprint arXiv:2509.14628},
-  year = {2025},
-}</pre></div>
-</div>
-
-<div class="pub">
   <div class="pub-title">IoT-MCP: Bridging LLMs and IoT Systems Through Model Context Protocol</div>
   <div class="pub-authors">Ningyuan Yang, Guanliang Lyu, Mingchen Ma, Yiyi Lu, Yiming Li, <b>Zhihui Gao</b>, Hancheng Ye, Jianyi Zhang, Tingjun Chen, and Yiran Chen</div>
   <div class="pub-venue"><span class="pub-badge">WiNTECH'25</span> Proc. ACM MobiCom'25 Workshop on Wireless Network Testbeds, Experimental Evaluation &amp; CHaracterization, 2025</div>
