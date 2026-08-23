@@ -1,0 +1,674 @@
+/* ==========================================================================
+   Site customizations
+   --------------------------------------------------------------------------
+   A small design system layered on top of the Academic Pages theme so that
+   every page (home, publications, teaching, service) shares one visual
+   language: cards, pill links, section rules and a single accent color.
+
+   Imported last from assets/css/main.scss so it can override the theme.
+   ========================================================================== */
+
+:root {
+  --accent:        #2b5eaa;
+  --accent-dark:   #1e4478;
+  --accent-soft:   #eef3fb;
+  --accent-border: #d3e0f2;
+
+  --ink:           #22272f;
+  --ink-soft:      #4a5361;
+  --muted:         #6b7480;
+
+  --line:          #e6e8ee;
+  --line-soft:     #eef0f5;
+  --surface:       #ffffff;
+  --surface-alt:   #f7f9fc;
+
+  --radius:        14px;
+  --radius-sm:     10px;
+  --shadow:        0 6px 18px rgba(20, 30, 60, 0.05);
+  --shadow-lift:   0 10px 26px rgba(20, 30, 60, 0.10);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+/*
+   Typography & links
+   ========================================================================== */
+
+body {
+  color: var(--ink-soft);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--ink);
+  letter-spacing: -0.01em;
+}
+
+.page__title,
+.archive h1.page__title {
+  font-size: 1.9em;
+  letter-spacing: -0.02em;
+}
+
+.page__content,
+.archive {
+  p, li {
+    line-height: 1.65;
+  }
+}
+
+a {
+  color: var(--accent);
+  transition: color 0.15s ease-in-out;
+
+  &:hover,
+  &:focus {
+    color: var(--accent-dark);
+  }
+
+  &:visited {
+    color: var(--accent);
+  }
+}
+
+/* The theme underlines every link inside .archive; keep that for prose links
+   but never for the pill/badge components defined below. */
+.archive a.pill,
+.archive .pub-links a,
+.archive .year-nav a,
+.archive .bib-toggle {
+  text-decoration: none;
+}
+
+/*
+   Author sidebar
+   ========================================================================== */
+
+.author__avatar img {
+  border-radius: 50%;
+  border: 1px solid var(--line);
+  box-shadow: var(--shadow);
+}
+
+.author__name {
+  letter-spacing: -0.01em;
+}
+
+.author__bio {
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.author__urls-wrapper .btn {
+  border-radius: 999px;
+}
+
+.author__urls {
+  border-radius: var(--radius-sm);
+  border-color: var(--line);
+  box-shadow: var(--shadow);
+
+  li {
+    padding: 0.35em 0;
+  }
+}
+
+/*
+   Masthead
+   ========================================================================== */
+
+.masthead {
+  border-bottom: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: saturate(150%) blur(8px);
+}
+
+.site-title {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+}
+
+.greedy-nav a {
+  color: var(--ink-soft);
+
+  &:hover {
+    color: var(--accent);
+  }
+}
+
+/*
+   Intro card (home hero)
+   ========================================================================== */
+
+.intro-card {
+  padding: 1.5rem 1.6rem;
+  margin: 0 0 1.75rem;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: linear-gradient(135deg, #f6faff 0%, #ffffff 60%);
+  box-shadow: var(--shadow);
+
+  p {
+    margin: 0.6rem 0;
+    line-height: 1.7;
+  }
+
+  p:first-child {
+    margin-top: 0;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+/*
+   Tag row — small pill labels (research interests, keywords)
+   ========================================================================== */
+
+.tag-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0.9rem 0 0;
+  padding: 0;
+  list-style: none;
+
+  span,
+  li {
+    display: inline-block;
+    padding: 0.28rem 0.7rem;
+    border: 1px solid var(--accent-border);
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent-dark);
+    font-size: 0.82em;
+    font-weight: 600;
+    line-height: 1.4;
+  }
+}
+
+/*
+   Callout — highlighted announcement (e.g. job market)
+   ========================================================================== */
+
+.callout {
+  margin: 1.1rem 0 0;
+  padding: 0.8rem 1rem;
+  border: 1px solid var(--accent-border);
+  border-left: 4px solid var(--accent);
+  border-radius: var(--radius-sm);
+  background: var(--accent-soft);
+  color: var(--accent-dark);
+  font-weight: 600;
+  line-height: 1.55;
+
+  p {
+    margin: 0;
+  }
+
+  &--alert {
+    border-color: #f3d2d2;
+    border-left-color: #c62828;
+    background: #fff6f6;
+    color: #9e2020;
+  }
+}
+
+/*
+   Section headings
+   ========================================================================== */
+
+.page__content .section-title,
+.archive .section-title,
+.section-title {
+  margin: 2.2rem 0 0.9rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid var(--line-soft);
+  font-size: 1.35em;
+  font-weight: 700;
+  color: var(--ink);
+}
+
+/*
+   News feed
+   ========================================================================== */
+
+.news-box {
+  max-height: 19em;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
+  padding: 0.9rem 1.1rem;
+  margin-bottom: 1.6rem;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  box-sizing: border-box;
+
+  ul {
+    margin: 0;
+    padding-left: 1.15rem;
+  }
+
+  li {
+    margin: 0.5rem 0;
+    line-height: 1.55;
+
+    &::marker {
+      color: var(--accent);
+    }
+  }
+
+  /* subtle fade so it reads as scrollable */
+  background-image:
+    linear-gradient(to bottom, var(--surface) 30%, rgba(255, 255, 255, 0)),
+    linear-gradient(to top, var(--surface) 30%, rgba(255, 255, 255, 0));
+  background-position: 0 0, 0 100%;
+  background-repeat: no-repeat;
+  background-size: 100% 1.2em;
+  background-attachment: local, local;
+}
+
+/*
+   Responsive video embed
+   ========================================================================== */
+
+.video-embed {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  margin: 1rem 0 1.6rem;
+  border-radius: var(--radius);
+  background: var(--surface-alt);
+  box-shadow: var(--shadow-lift);
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+}
+
+/*
+   Publication entries
+   --------------------------------------------------------------------------
+   .pub            — a single entry
+   .pub--featured  — entry with a thumbnail (home page "Selected Publications")
+   ========================================================================== */
+
+.pub {
+  padding: 1.15rem 0;
+  border-bottom: 1px solid var(--line-soft);
+
+  &:last-child {
+    border-bottom: 0;
+  }
+}
+
+.pub--featured {
+  display: grid;
+  grid-template-columns: minmax(220px, 32%) minmax(0, 1fr);
+  column-gap: 1.6rem;
+  align-items: center;
+  padding: 1.4rem 0;
+
+  .pub-thumb {
+    width: 100%;
+    max-width: none;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    border: 1px solid var(--line);
+    border-radius: var(--radius-sm);
+    box-shadow: var(--shadow);
+    transition: box-shadow 0.2s ease-in-out;
+  }
+
+  &:hover .pub-thumb {
+    box-shadow: var(--shadow-lift);
+  }
+}
+
+.pub-body {
+  min-width: 0;
+}
+
+.pub-title {
+  margin-bottom: 0.25rem;
+  font-weight: 700;
+  line-height: 1.4;
+  color: var(--ink);
+}
+
+.pub-authors {
+  margin-bottom: 0.15rem;
+  line-height: 1.5;
+  color: var(--ink-soft);
+
+  b,
+  strong {
+    color: var(--ink);
+  }
+}
+
+.pub-venue {
+  line-height: 1.5;
+  color: var(--muted);
+  font-size: 0.95em;
+}
+
+/* Short venue acronym, e.g. MobiCom'24 */
+.pub-badge {
+  display: inline-block;
+  margin-right: 0.4rem;
+  padding: 0.1rem 0.5rem;
+  border-radius: 5px;
+  background: var(--accent);
+  color: #fff;
+  font-size: 0.78em;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  vertical-align: 1px;
+  white-space: nowrap;
+}
+
+/* Status note, e.g. "To appear" */
+.pub-note {
+  display: inline-block;
+  padding: 0.1rem 0.5rem;
+  border: 1px dashed var(--line);
+  border-radius: 999px;
+  color: var(--muted);
+  font-size: 0.78em;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+/*
+   Pill links / bibtex toggle
+   ========================================================================== */
+
+.pub-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem;
+  margin-top: 0.5rem;
+}
+
+.pub-links a,
+.bib-toggle {
+  display: inline-block;
+  padding: 0.14rem 0.6rem;
+  border: 1px solid var(--accent-border);
+  border-radius: 999px;
+  background: var(--surface-alt);
+  color: var(--accent);
+  font-size: 0.8em;
+  font-weight: 600;
+  line-height: 1.6;
+  text-decoration: none;
+  transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+
+  &:hover,
+  &:focus {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #fff;
+    text-decoration: none;
+  }
+}
+
+/* the toggle is a real <button>, so strip the UA styling */
+.bib-toggle {
+  font-family: inherit;
+  cursor: pointer;
+  appearance: none;
+  -webkit-appearance: none;
+
+  &[aria-expanded="true"] {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #fff;
+  }
+}
+
+.bib {
+  display: none;
+  margin-top: 0.6rem;
+
+  &.is-open {
+    display: block;
+  }
+
+  pre {
+    margin: 0;
+    padding: 0.85rem 1rem;
+    border: 1px solid var(--line);
+    border-radius: var(--radius-sm);
+    background: var(--surface-alt);
+    color: var(--ink-soft);
+    font-size: 0.8em;
+    line-height: 1.5;
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+}
+
+/* Copy-to-clipboard button injected by site.js */
+.bib-copy {
+  display: inline-block;
+  margin-top: 0.4rem;
+  padding: 0.1rem 0.55rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--muted);
+  font-family: inherit;
+  font-size: 0.75em;
+  font-weight: 600;
+  cursor: pointer;
+  appearance: none;
+  -webkit-appearance: none;
+  transition: color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+
+  &:hover,
+  &:focus {
+    color: var(--accent);
+    border-color: var(--accent-border);
+  }
+}
+
+/*
+   Publications page intro
+   ========================================================================== */
+
+.pub-intro {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+/*
+   Year navigation (publications page)
+   ========================================================================== */
+
+.year-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 1.1rem 0 0.5rem;
+  padding: 0;
+  list-style: none;
+
+  a {
+    display: inline-block;
+    padding: 0.2rem 0.75rem;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: var(--surface);
+    color: var(--ink-soft);
+    font-size: 0.88em;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+
+    &:hover,
+    &:focus {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+      text-decoration: none;
+    }
+  }
+}
+
+.year-heading {
+  scroll-margin-top: 90px; /* clear the fixed masthead when jumping to a year */
+}
+
+/*
+   Entry list (teaching, service)
+   ========================================================================== */
+
+.entry-list {
+  margin: 0.6rem 0 1.6rem;
+  padding: 0;
+  list-style: none;
+}
+
+.entry {
+  position: relative;
+  padding: 0.85rem 0 0.85rem 1.1rem;
+  border-bottom: 1px solid var(--line-soft);
+  line-height: 1.6;
+
+  &:last-child {
+    border-bottom: 0;
+  }
+
+  &::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 1.35rem;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: var(--accent-border);
+  }
+}
+
+.entry-title {
+  font-weight: 700;
+  color: var(--ink);
+}
+
+.entry-meta {
+  color: var(--muted);
+  font-size: 0.92em;
+}
+
+.entry-desc {
+  margin-top: 0.3rem;
+}
+
+/* Compact list for reviewer/TPC service records */
+.entry-list--compact {
+  .entry {
+    padding-top: 0.45rem;
+    padding-bottom: 0.45rem;
+
+    &::before {
+      top: 0.95rem;
+    }
+  }
+}
+
+/*
+   Figures
+   ========================================================================== */
+
+.figure {
+  margin: 1.2rem 0 1.8rem;
+  max-width: 560px;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid var(--line);
+    border-radius: var(--radius-sm);
+    box-shadow: var(--shadow);
+  }
+
+  figcaption {
+    margin-top: 0.55rem;
+    color: var(--muted);
+    font-size: 0.86em;
+    line-height: 1.5;
+    text-align: center;
+  }
+
+  &--wide {
+    max-width: 100%;
+  }
+}
+
+/*
+   Small screens
+   ========================================================================== */
+
+@media (max-width: 640px) {
+  .intro-card {
+    padding: 1.15rem;
+  }
+
+  .pub--featured {
+    display: block;
+
+    .pub-thumb {
+      margin-bottom: 0.8rem;
+    }
+  }
+
+  .news-box {
+    max-height: 22em;
+  }
+}
+
+/*
+   Print
+   ========================================================================== */
+
+@media print {
+  .intro-card,
+  .news-box,
+  .pub {
+    box-shadow: none;
+    border-color: #ddd;
+  }
+
+  .news-box {
+    max-height: none;
+    overflow: visible;
+  }
+
+  .bib,
+  .video-embed,
+  .year-nav {
+    display: none !important;
+  }
+}

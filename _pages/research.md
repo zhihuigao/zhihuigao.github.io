@@ -5,20 +5,15 @@ permalink: /research/
 author_profile: true
 ---
 
-
-
-<figure style="clear:both; margin-top:0.3em; margin-right:1em; width:500px;">
-  <img src="https://zhihuigao.github.io/images/research_overview.png">
-
-  <figcaption style="font-size:0.9em; color:#666; text-align:center;">
-    My research overview.
-  </figcaption>
+<figure class="figure figure--wide">
+  <img src="{{ site.baseurl }}/images/research_overview.png" alt="Overview of my research areas" loading="lazy">
+  <figcaption>My research overview.</figcaption>
 </figure>
 
-## Analog Computing for Machine Learning Acceleration
+<h2 class="section-title">Analog Computing for Machine Learning Acceleration</h2>
 
-## Ubiquitous and Reliable Computing
+<h2 class="section-title">Ubiquitous and Reliable Computing</h2>
 
-## Spectrum Sensing for Co-Existence
+<h2 class="section-title">Spectrum Sensing for Co-Existence</h2>
 
-## Integrated Wireless Sensing
+<h2 class="section-title">Integrated Wireless Sensing</h2>

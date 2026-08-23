@@ -1,0 +1,10 @@
+# Local preview overrides.
+#
+# _includes/base_path builds every asset URL from site.url, which points at the
+# production domain. Blanking it here makes `jekyll serve` resolve CSS/JS/images
+# against localhost instead of the live site. Never used by the GitHub Pages build.
+#
+#   docker compose -f docker-compose.preview.yml up   # or see README
+#
+url: ""
+baseurl: ""
