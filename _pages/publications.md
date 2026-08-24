@@ -94,6 +94,7 @@ Names marked with * denote equal contribution.</p>
   <div class="pub-venue"><span class="pub-badge">DySPAN'26</span> Proc. IEEE International Symposium on Dynamic Spectrum Access Networks, 2026</div>
   <div class="pub-links">
     <button type="button" class="bib-toggle" data-bib="bibtex-cheng2026spear">BibTeX</button>
+    <a href="https://github.com/functions-lab/SPEAR_BF">code</a>
     <a href="https://ieeexplore.ieee.org/abstract/document/11571108">paper</a>
   </div>
   <div class="bib" id="bibtex-cheng2026spear"><pre>@inproceedings{cheng2026spear,
@@ -149,6 +150,7 @@ Names marked with * denote equal contribution.</p>
   <div class="pub-venue"><span class="pub-badge">MobiCom'26</span> Proc. ACM International Conference on Mobile Computing and Networking, 2026</div>
   <div class="pub-links">
     <button type="button" class="bib-toggle" data-bib="bibtex-qi2026nexus">BibTeX</button>
+    <a href="https://github.com/functions-lab/Nexus">code</a>
     <a href="https://arxiv.org/abs/2509.04625">paper</a>
   </div>
   <div class="bib" id="bibtex-qi2026nexus"><pre>@inproceedings{qi2026nexus,
@@ -167,6 +169,7 @@ Names marked with * denote equal contribution.</p>
   <div class="pub-venue"><span class="pub-badge">AI4NextG'25</span> Proc. Neurips'25 Workshop on AI and ML for Next-Generation Wireless Communications and Networking, 2025</div>
   <div class="pub-links">
     <button type="button" class="bib-toggle" data-bib="bibtex-gao2025wise">BibTeX</button>
+    <a href="https://github.com/functions-lab/WISE">code</a>
     <a href="https://neurips.cc/virtual/2025/loc/san-diego/123188">paper</a>
   </div>
   <div class="bib" id="bibtex-gao2025wise"><pre>@inproceedings{gao2025wise,
@@ -217,6 +220,7 @@ Names marked with * denote equal contribution.</p>
   <div class="pub-venue"><span class="pub-badge">MILCOM'25</span> Proc. IEEE Military Communications Conference, 2025</div>
   <div class="pub-links">
     <button type="button" class="bib-toggle" data-bib="bibtex-cheng2025spear">BibTeX</button>
+    <a href="https://github.com/functions-lab/SPEAR_plus">code</a>
     <a href="https://ieeexplore.ieee.org/abstract/document/11310057">paper</a>
   </div>
   <div class="bib" id="bibtex-cheng2025spear"><pre>@inproceedings{cheng2025spear,
