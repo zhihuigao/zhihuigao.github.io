@@ -66,17 +66,17 @@ My research interests include:
 {: .section-title}
 
 <div class="pub pub--featured">
-  <img class="pub-thumb" src="{{ site.baseurl }}/images/pub_Revelio.jpg" alt="Revelio project figure" loading="lazy">
+  <img class="pub-thumb" src="{{ site.baseurl }}/images/pub_Revelio.jpg" alt="BatStation project figure" loading="lazy">
   <div class="pub-body">
-    <div class="pub-title">Revelio: Toward In-Situ Radar Sensing on 5G Base Stations with Zero-Shot Template Generation</div>
+    <div class="pub-title">BatStation: Toward In-Situ Radar Sensing on 5G Base Stations with Zero-Shot Template Generation</div>
     <div class="pub-authors"><b>Zhihui Gao</b>, Zhecun Liu, Tingjun Chen</div>
     <div class="pub-venue"><span class="pub-badge">MobiHoc'26</span> Proc. ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, 2026</div>
     <div class="pub-links">
-      <button type="button" class="bib-toggle" data-bib="bib-gao2026revelio">BibTeX</button>
+      <button type="button" class="bib-toggle" data-bib="bib-gao2026batstation">BibTeX</button>
       <a href="https://arxiv.org/abs/2509.06898">paper</a>
     </div>
-    <div class="bib" id="bib-gao2026revelio"><pre>@inproceedings{gao2026revelio,
-  title  = {Revelio: Toward in-situ radar sensing on {5G} base stations with zero-shot template generation},
+    <div class="bib" id="bib-gao2026batstation"><pre>@inproceedings{gao2026batstation,
+  title  = {BatStation: Toward in-situ radar sensing on {5G} base stations with zero-shot template generation},
   author = {Gao, Zhihui and Liu, Zhecun and Chen, Tingjun},
   booktitle = {Proc. ACM MobiHoc'26},
   year   = {2026},

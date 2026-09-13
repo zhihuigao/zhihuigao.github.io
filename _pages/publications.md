@@ -22,17 +22,32 @@ Names marked with * denote equal contribution.</p>
 <h2 class="section-title year-heading" id="year2026">2026</h2>
 
 
+<div class="pub">
+  <div class="pub-title">Power-Aware Compute Allocation for Real-Time Multi-Cell mmWave Baseband Processing with Nexus</div>
+  <div class="pub-authors">Zhenzhou Qi, Chung-Hsuan Tung, <b>Zhihui Gao</b>, and Tingjun Chen</div>
+  <div class="pub-venue"><span class="pub-badge">MobiCom'26</span> (Demo) Proc. ACM International Conference on Mobile Computing and Networking, 2026</div>
+  <div class="pub-links">
+    <button type="button" class="bib-toggle" data-bib="bibtex-qi2026power">BibTeX</button>
+    <span class="pub-note">To appear</span>
+  </div>
+  <div class="bib" id="bibtex-qi2026power"><pre>@inproceedings{qi2026power,
+  title = {Power-aware compute allocation for real-time multi-cell {mmWave} baseband processing with Nexus},
+  author = {Qi, Zhenzhou and Tung, Chung-Hsuan and Gao, Zhihui and Chen, Tingjun},
+  booktitle = {Proc. ACM MobiCom'26},
+  year = {2026},
+}</pre></div>
+</div>
 
 <div class="pub">
-  <div class="pub-title">Revelio: Toward In-Situ Radar Sensing on 5G Base Stations with Zero-Shot Template Generation</div>
+  <div class="pub-title">BatStation: Toward In-Situ Radar Sensing on 5G Base Stations with Zero-Shot Template Generation</div>
   <div class="pub-authors"><b>Zhihui Gao</b>, Zhecun Liu, and Tingjun Chen</div>
   <div class="pub-venue"><span class="pub-badge">MobiHoc'26</span> Proc. ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, 2026</div>
   <div class="pub-links">
-    <button type="button" class="bib-toggle" data-bib="bibtex-gao2026revelio">BibTeX</button>
+    <button type="button" class="bib-toggle" data-bib="bibtex-gao2026batstation">BibTeX</button>
     <a href="https://arxiv.org/abs/2509.06898">paper</a>
   </div>
-  <div class="bib" id="bibtex-gao2026revelio"><pre>@inproceedings{gao2026revelio,
-  title = {Revelio: Toward in-situ radar sensing on {5G} base stations with zero-shot template generation},
+  <div class="bib" id="bibtex-gao2026batstation"><pre>@inproceedings{gao2026batstation,
+  title = {BatStation: Toward in-situ radar sensing on {5G} base stations with zero-shot template generation},
   author = {Gao, Zhihui and Liu, Zhecun and Chen, Tingjun},
   booktitle = {Proc. ACM MobiHoc'26},
   year = {2026},
@@ -78,7 +93,7 @@ Names marked with * denote equal contribution.</p>
   <div class="pub-venue"><span class="pub-badge">ISCA'26</span> Proc. IEEE/ACM International Symposium on Computer Architecture, 2026</div>
   <div class="pub-links">
     <button type="button" class="bib-toggle" data-bib="bibtex-wu2026oasis">BibTeX</button>
-    <span class="pub-note">To appear</span>
+    <a href="https://ieeexplore.ieee.org/document/11617941">paper</a>
   </div>
   <div class="bib" id="bibtex-wu2026oasis"><pre>@inproceedings{wu2026oasis,
   title = {OASIS: Outlier-aware {LUT}-based {GEMM} with dual-side quantization for {LLM} inference acceleration},
@@ -186,7 +201,7 @@ Names marked with * denote equal contribution.</p>
   <div class="pub-venue"><span class="pub-badge">WiNTECH'25</span> Proc. ACM MobiCom'25 Workshop on Wireless Network Testbeds, Experimental Evaluation &amp; CHaracterization, 2025</div>
   <div class="pub-links">
     <button type="button" class="bib-toggle" data-bib="bibtex-yang2025iot">BibTeX</button>
-    <a href="https://llm4iot.org/">website</a>
+    <a href="http://llm4iot.org/">website</a>
     <a href="https://github.com/Duke-CEI-Center/IoT-MCP-Servers">code</a>
     <a href="https://dl.acm.org/doi/10.1145/3737895.3768303">paper</a>
   </div>
@@ -228,22 +243,6 @@ Names marked with * denote equal contribution.</p>
   author={Cheng, Wei and Gao, Zhihui and Guajardo, Jose and Beshary, Hesham and Niknejad, Ali and Chen, Tingjun},
   booktitle={Proc. IEEE MILCOM'25},
   year={2025}
-}</pre></div>
-</div>
-
-<div class="pub">
-  <div class="pub-title">KLLM: Fast LLM Inference with K-Means Quantization</div>
-  <div class="pub-authors">Xueying Wu, Baijun Zhou, <b>Zhihui Gao</b>, Yuzhe Fu, Qilin Zheng, Yintao He, Hai Li</div>
-  <div class="pub-venue"><span class="pub-badge">arXiv</span> arXiv preprint arXiv:2507.23035, 2025</div>
-  <div class="pub-links">
-    <button type="button" class="bib-toggle" data-bib="bibtex-wu2025kllm">BibTeX</button>
-    <a href="https://arxiv.org/abs/2507.23035">paper</a>
-  </div>
-  <div class="bib" id="bibtex-wu2025kllm"><pre>@article{wu2025kllm,
-  title = {KLLM: Fast LLM inference with K-Means quantization},
-  author = {Wu, Xueying and Zhou, Baijun and Gao, Zhihui and Fu, Yuzhe and Zheng, Qilin and He, Yintao and Li, Hai},
-  journal = {arXiv preprint arXiv:2507.23035},
-  year = {2025},
 }</pre></div>
 </div>
 
