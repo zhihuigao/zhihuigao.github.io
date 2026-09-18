@@ -21,6 +21,21 @@ Names marked with * denote equal contribution.</p>
 
 <h2 class="section-title year-heading" id="year2026">2026</h2>
 
+<div class="pub">
+  <div class="pub-title">Radio-Frequency Convolutional Neural Networks</div>
+  <div class="pub-authors"><b>Zhihui Gao</b>, Shi-Yuan Ma, Yiran Chen, Dirk Englund, and Tingjun Chen</div>
+  <div class="pub-venue"><span class="pub-badge">arXiv</span> arXiv preprint arXiv:2609.19279, 2026</div>
+  <div class="pub-links">
+    <button type="button" class="bib-toggle" data-bib="bibtex-gao2026radio">BibTeX</button>
+    <a href="https://arxiv.org/abs/2609.19279">paper</a>
+  </div>
+  <div class="bib" id="bibtex-gao2026radio"><pre>@article{gao2026radio,
+  title = {Radio-frequency convolutional neural networks},
+  author = {Gao, Zhihui and Ma, Shi-Yuan and Chen, Yiran and Englund, Dirk and Chen, Tingjun},
+  journal = {arXiv preprint arXiv:2609.19279},
+  year = {2026},
+}</pre></div>
+</div>
 
 <div class="pub">
   <div class="pub-title">Power-Aware Compute Allocation for Real-Time Multi-Cell mmWave Baseband Processing with Nexus</div>
