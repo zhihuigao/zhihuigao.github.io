@@ -22,6 +22,22 @@ Names marked with * denote equal contribution.</p>
 <h2 class="section-title year-heading" id="year2026">2026</h2>
 
 <div class="pub">
+  <div class="pub-title">AIR-LLM: Broadcasting AI Weights over Radio for Memory-Free Edge LLM Inference via RF Computing</div>
+  <div class="pub-authors"><b>Zhihui Gao</b>, Tingjun Chen, and Dirk Englund</div>
+  <div class="pub-venue"><span class="pub-badge">arXiv</span> arXiv preprint arXiv:2610.00465, 2026</div>
+  <div class="pub-links">
+    <button type="button" class="bib-toggle" data-bib="bibtex-gao2026air">BibTeX</button>
+    <a href="https://arxiv.org/abs/2610.00465">paper</a>
+  </div>
+  <div class="bib" id="bibtex-gao2026air"><pre>@article{gao2026air,
+  title = {AIR-LLM: Broadcasting {AI} weights over radio for memory-free edge {LLM} inference via {RF} computing},
+  author = {Gao, Zhihui and Chen, Tingjun and Englund, Dirk},
+  journal = {arXiv preprint arXiv:2610.00465},
+  year = {2026},
+}</pre></div>
+</div>
+
+<div class="pub">
   <div class="pub-title">Radio-Frequency Convolutional Neural Networks</div>
   <div class="pub-authors"><b>Zhihui Gao</b>, Shi-Yuan Ma, Yiran Chen, Dirk Englund, and Tingjun Chen</div>
   <div class="pub-venue"><span class="pub-badge">arXiv</span> arXiv preprint arXiv:2609.19279, 2026</div>
