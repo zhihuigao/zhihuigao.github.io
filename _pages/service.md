@@ -9,7 +9,7 @@ author_profile: true
 
 <div class="entry-list entry-list--compact">
   <div class="entry">
-    ACM MobiCom'25 Workshop on Wireless of the Students, by the Students, and for the Students
+    ACM MobiCom'26 Workshop on Wireless of the Students, by the Students, and for the Students
     (<a href="https://s3-workshop.neslab.it/">ACM S3 Workshop</a>), 2026.
   </div>
   <div class="entry">
@@ -21,15 +21,18 @@ author_profile: true
 <h2 class="section-title">Reviewer</h2>
 
 <div class="entry-list entry-list--compact">
-  <div class="entry">ACM Transactions on Computing for Healthcare, 2025.</div>
-  <div class="entry">IEEE Transactions on Mobile Computing, 2025/2026.</div>
+  <div class="entry">IEEE Journal on Selected Areas in Communications, 2026.</div>
+  <div class="entry">Light: Science & Applications, 2026.</div>
+  <div class="entry">IEEE Journal of Radio Frequency Identification, 2026.</div>
+  <div class="entry">IEEE Internet of Things Journal, 2022/2024/2025/2026.</div>
+  <div class="entry">IEEE Transactions on Wireless Communications, 2024/2026.</div>
+  <div class="entry">ACM Transactions on Computing for Healthcare, 2025/2026.</div>
+  <div class="entry">IEEE Transactions on Mobile Computing, 2025.</div>
   <div class="entry">IEEE INFOCOM DTWIN'25, 2025.</div>
   <div class="entry">IEEE Transactions on Network Science and Engineering, 2024/2025.</div>
   <div class="entry">IEEE Communications Standards Magazine, 2024.</div>
-  <div class="entry">IEEE Transactions on Wireless Communications, 2024.</div>
   <div class="entry">IEEE MASS'24, 2024.</div>
   <div class="entry">ACM/IEEE SEC'22, 2022.</div>
-  <div class="entry">IEEE Internet of Things Journal, 2022/2024/2025/2026.</div>
 </div>
 
 <h2 class="section-title">Outreach</h2>

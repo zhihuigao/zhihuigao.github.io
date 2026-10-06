@@ -9,7 +9,7 @@ author_profile: true
 
 <div class="entry-list">
   <div class="entry">
-    <div class="entry-title">DATA481/766: Leading Research Team</div>
+    <div class="entry-title">DATA481/766: Leading Research Teams</div>
     <div class="entry-meta">University of North Carolina at Chapel Hill (Chapel Hill, NC) &middot; Spring 2026</div>
     <div class="entry-desc">I served as a course client for a UNC data science capstone, guiding students to develop low-sampling-rate Wi-Fi monitoring systems using real datasets and machine learning techniques.</div>
   </div>
