@@ -59,7 +59,7 @@ Names marked with * denote equal contribution.</p>
   <div class="pub-venue"><span class="pub-badge">MobiCom'26</span> (Demo) Proc. ACM International Conference on Mobile Computing and Networking, 2026</div>
   <div class="pub-links">
     <button type="button" class="bib-toggle" data-bib="bibtex-qi2026power">BibTeX</button>
-    <span class="pub-note">To appear</span>
+    <a href="https://dl.acm.org/doi/10.1145/3795866.3848459">paper</a>
   </div>
   <div class="bib" id="bibtex-qi2026power"><pre>@inproceedings{qi2026power,
   title = {Power-aware compute allocation for real-time multi-cell {mmWave} baseband processing with Nexus},
@@ -75,6 +75,7 @@ Names marked with * denote equal contribution.</p>
   <div class="pub-venue"><span class="pub-badge">MobiHoc'26</span> Proc. ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, 2026</div>
   <div class="pub-links">
     <button type="button" class="bib-toggle" data-bib="bibtex-gao2026batstation">BibTeX</button>
+    <a href="https://github.com/zhihuigao/BatStation-MobiHoc2026">code</a>
     <a href="https://arxiv.org/abs/2509.06898">paper</a>
   </div>
   <div class="bib" id="bibtex-gao2026batstation"><pre>@inproceedings{gao2026batstation,
@@ -91,7 +92,7 @@ Names marked with * denote equal contribution.</p>
   <div class="pub-venue"><span class="pub-badge">MILCOM'26</span> Proc. IEEE Military Communications Conference, 2026</div>
   <div class="pub-links">
     <button type="button" class="bib-toggle" data-bib="bibtex-rivera2026arctan">BibTeX</button>
-    <span class="pub-note">To appear</span>
+    <a href="https://arxiv.org/abs/2610.00752">paper</a>
   </div>
   <div class="bib" id="bibtex-rivera2026arctan"><pre>@inproceedings{rivera2026arctan,
   title = {ARCTAN: Arbitrary {RF} containment using tactical aerial networks and differentiable ray tracing},
@@ -113,6 +114,9 @@ Names marked with * denote equal contribution.</p>
   title={Sub-symbol beam switching with {CSI} extraction for {ISAC} in {5G} {mmWave} networks},
   author={Gao, Zhihui and Liu, Zhecun and Chen, Tingjun},
   journal={Trans. Mob. Comput.},
+  volume={25},
+  number={11},
+  pages={19905--19919},
   year={2026},
   publisher={IEEE}
 }</pre></div>
@@ -197,12 +201,12 @@ Names marked with * denote equal contribution.</p>
   <div class="pub-links">
     <button type="button" class="bib-toggle" data-bib="bibtex-qi2026nexus">BibTeX</button>
     <a href="https://github.com/functions-lab/Nexus">code</a>
-    <a href="https://arxiv.org/abs/2509.04625">paper</a>
+    <a href="https://dl.acm.org/doi/10.1145/3795866.3796685">paper</a>
   </div>
   <div class="bib" id="bibtex-qi2026nexus"><pre>@inproceedings{qi2026nexus,
   title = {Nexus: Efficient and scalable multi-cell {mmWave} baseband processing with heterogeneous compute},
   author = {Qi, Zhenzhou and Tung, Chung-Hsuan and Gao, Zhihui and Chen, Tingjun},
-  journal = {Proc. ACM MobiCom'26},
+  booktitle = {Proc. ACM MobiCom'26},
   year = {2026},
 }</pre></div>
 </div>
