@@ -16,9 +16,10 @@ I received my Ph.D. in Electrical and Computer Engineering (ECE) from Duke Unive
 My research interests include:
 
 <div class="tag-row">
-  <span>Network Systems</span>
+  <span>Analog Computing</span>
+  <span>Wireless Networks</span>
   <span>Machine Learning Systems</span>
-  <span>Cyber-Physical Systems</span>
+  <span>Mobile Computing</span>
 </div>
 
 <div class="callout callout--alert">
